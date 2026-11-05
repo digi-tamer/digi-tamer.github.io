@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-RZan7lfY.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-NvseN61V.css">
+    <script type="module" crossorigin src="./assets/index-BtbBDgRU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-B7b05yOy.css">
   </head>
   <body>
     <!-- 1280×720 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -31,7 +31,7 @@
       <div id="bosses"></div>
       <div class="spacer"></div>
       <div class="res" title="내 필드 적 수 / 패배 한도"><img class="ico" data-img="boss" alt=""><span id="enemy-count"></span></div>
-      <div class="res" title="위습 (라운드마다 3개)"><span class="ico-t">✨</span><span id="wisps"></span></div>
+      <div class="res" id="res-wisps" title="위습 (라운드마다 3개) · 눌러서 디지바이스"><span class="ico-t">✨</span><span id="wisps"></span></div>
       <div class="res" title="목재"><span class="ico-t">🪵</span><span id="wood"></span></div>
       <div class="res" title="골드"><img class="ico" data-img="gold" alt=""><span id="gold"></span></div>
       <button id="btn-book" title="조합표 (T)"><img class="ico" data-img="book" alt="">조합표</button>
@@ -42,6 +42,8 @@
     </header>
 
     <div id="players"></div>
+    <div id="guide"><div id="g-island" class="g-line"></div><div id="g-target" class="g-line"></div></div>
+    <div id="danger"></div>
     <div id="groups"></div>
     <div id="chat-log"></div>
     <div id="chat-box">
