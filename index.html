@@ -2,27 +2,39 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="디지 테이머" />
+    <meta name="application-name" content="디지 테이머" />
+    <meta name="theme-color" content="#151a2a" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-CZLYbgJ9.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DWSXwJLe.css">
+    <script type="module" crossorigin src="./assets/index-Dt-T__3w.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-SCpnKnt-.css">
   </head>
   <body>
+    <!-- 1280×720 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
+    <div id="stage">
     <canvas id="view"></canvas>
 
     <header id="topbar">
-      <div id="stage"></div>
+      <div id="stage-info"></div>
       <div id="wave"></div>
       <div id="bosses"></div>
       <div class="spacer"></div>
       <div class="res" title="내 필드 적 수 / 패배 한도"><img class="ico" data-img="boss" alt=""><span id="enemy-count"></span></div>
       <div class="res" title="골드"><img class="ico" data-img="gold" alt=""><span id="gold"></span></div>
       <button id="btn-book" title="조합표 (T)"><img class="ico" data-img="book" alt="">조합표</button>
-      <button id="btn-speed" title="게임 속도">1배속</button>
       <button id="btn-sound" title="소리">🔊</button>
       <button id="btn-pause" title="일시정지 (P)">⏸</button>
+      <button id="btn-full" title="전체 화면">⛶</button>
     </header>
 
+    <div id="players"></div>
     <div id="messages"></div>
     <div id="boss-banner"></div>
     <div id="mode"></div>
@@ -63,13 +75,20 @@
             <li>내 필드의 적이 <b>50마리</b>가 되거나, 보스를 <b>제한 스테이지</b>까지 못 잡으면 패배.</li>
             <li><b>공용 보스</b>는 오른쪽 공용 필드에 나타납니다. 디지몬을 보내서 처치하세요.</li>
             <li>종족 상성: 백신 ▶ 바이러스 ▶ 데이터 ▶ 백신 (유리 ×1.5, 불리 ×0.75)</li>
+            <li class="m-only">모바일: <b>탭</b> 선택 · 선택 후 <b>땅 탭</b> 이동 · <b>길게 눌러 드래그</b> 범위 선택 · <b>두 손가락</b> 확대</li>
           </ul>
           <div id="loading">에셋 불러오는 중…</div>
-          <button id="btn-start" disabled>시작</button>
-          <p class="dim small">비영리 팬게임입니다. 디지몬 관련 권리는 원저작권자에게 있습니다.</p>
+          <div class="start-actions">
+            <button id="btn-start" disabled>시작</button>
+            <button id="btn-install" class="install" hidden>📲 앱으로 설치</button>
+          </div>
+          <p id="install-hint" class="dim small" hidden>아이폰/아이패드: Safari 하단 <b>공유</b> 버튼 → <b>홈 화면에 추가</b></p>
+          <p class="dim small">비영리 팬게임입니다. 디지몬 관련 권리는 원저작권자에게 있습니다. <span id="version"></span></p>
         </div>
       </div>
     </div>
 
+    </div>
+    <div id="rotate"><div class="phone"></div><div>화면을 <b>가로</b>로 돌려 주세요</div><small>디지 테이머는 가로 모드에서만 플레이할 수 있어요</small></div>
   </body>
 </html>

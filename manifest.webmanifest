@@ -1,0 +1,17 @@
+{
+  "name": "디지 테이머 · 랜덤 디펜스",
+  "short_name": "디지 테이머",
+  "description": "디지몬 랜덤 디펜스 비영리 팬게임",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#151a2a",
+  "theme_color": "#151a2a",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
