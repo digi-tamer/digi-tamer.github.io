@@ -4866,6 +4866,8 @@
   "ui_icProfile": "assets/img/ui_icProfile.png",
   "ui_icHelp": "assets/img/ui_icHelp.png",
   "ui_icBoss": "assets/img/ui_icBoss.png",
-  "ui_icShop": "assets/img/ui_icShop.png"
+  "ui_icShop": "assets/img/ui_icShop.png",
+  "ui_icStar": "assets/img/ui_icStar.png",
+  "ui_icCrown": "assets/img/ui_icCrown.png"
  }
 }
