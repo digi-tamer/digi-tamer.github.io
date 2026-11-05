@@ -184,7 +184,8 @@
    "sfxHit": "assets/sfx/Tanemon_sfxHit.ogg",
    "sfxSkill": "assets/sfx/Tanemon_sfxSkill.ogg",
    "portrait": "assets/portrait/Tanemon.png",
-   "skillIcon": "assets/skillIcon/Tanemon.png"
+   "skillIcon": "assets/skillIcon/Tanemon.png",
+   "faceLeft": true
   },
   "Bukamon": {
    "anim": {
@@ -2277,7 +2278,8 @@
    "img": "assets/units/Tuskmon.png",
    "hit": "assets/fx/Fx_Tuskmon_Attack_Hit.png",
    "sfxHit": "assets/sfx/Tuskmon_sfxHit.ogg",
-   "sfxSkill": "assets/sfx/Tuskmon_sfxSkill.ogg"
+   "sfxSkill": "assets/sfx/Tuskmon_sfxSkill.ogg",
+   "faceLeft": true
   },
   "Golemon": {
    "anim": {
@@ -2970,7 +2972,8 @@
   "Digmon": {
    "img": "assets/units/Digmon.png",
    "sfxHit": "assets/sfx/Digmon_sfxHit.ogg",
-   "sfxSkill": "assets/sfx/Digmon_sfxSkill.ogg"
+   "sfxSkill": "assets/sfx/Digmon_sfxSkill.ogg",
+   "faceLeft": true
   },
   "Dinobeemon": {
    "anim": {
@@ -3619,7 +3622,8 @@
    },
    "img": "assets/units/Knightmon.png",
    "sfxHit": "assets/sfx/Knightmon_sfxHit.ogg",
-   "sfxSkill": "assets/sfx/Knightmon_sfxSkill.ogg"
+   "sfxSkill": "assets/sfx/Knightmon_sfxSkill.ogg",
+   "faceLeft": true
   },
   "Kyubimon": {
    "anim": {
