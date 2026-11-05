@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-DGgGg_3n.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CcrkcEuc.css">
+    <script type="module" crossorigin src="./assets/index-RZan7lfY.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-NvseN61V.css">
   </head>
   <body>
     <!-- 1280×720 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -52,9 +52,15 @@
     <div id="boss-banner"></div>
     <div id="mode"></div>
 
+    <aside id="side">
+      <div id="info"></div>
+      <div id="roster"><div class="rs-head"><b>내 디지몬</b><span id="rs-count" class="dim"></span><span id="rs-ready" class="rs-badge" hidden></span></div>
+        <div id="rs-list"></div>
+        <div class="rs-foot"><button id="rs-boss" class="btn pink small">⚔ 보스 집중</button><button id="rs-raid" class="btn small">🏝 공격대 보내기</button></div></div>
+    </aside>
+    <button id="boss-focus" class="btn pink" hidden></button>
     <footer id="hud">
       <div id="minimap-wrap"><canvas id="minimap"></canvas></div>
-      <div id="info"></div>
       <div id="commands"></div>
     </footer>
 
