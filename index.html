@@ -1,12 +1,75 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ko">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Digi Tamer</title>
-</head>
-<body>
-<h1>Digi Tamer</h1>
-<p>준비 중입니다.</p>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>디지 테이머 · 랜덤 디펜스</title>
+    <script type="module" crossorigin src="./assets/index-CZLYbgJ9.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DWSXwJLe.css">
+  </head>
+  <body>
+    <canvas id="view"></canvas>
+
+    <header id="topbar">
+      <div id="stage"></div>
+      <div id="wave"></div>
+      <div id="bosses"></div>
+      <div class="spacer"></div>
+      <div class="res" title="내 필드 적 수 / 패배 한도"><img class="ico" data-img="boss" alt=""><span id="enemy-count"></span></div>
+      <div class="res" title="골드"><img class="ico" data-img="gold" alt=""><span id="gold"></span></div>
+      <button id="btn-book" title="조합표 (T)"><img class="ico" data-img="book" alt="">조합표</button>
+      <button id="btn-speed" title="게임 속도">1배속</button>
+      <button id="btn-sound" title="소리">🔊</button>
+      <button id="btn-pause" title="일시정지 (P)">⏸</button>
+    </header>
+
+    <div id="messages"></div>
+    <div id="boss-banner"></div>
+    <div id="mode"></div>
+
+    <footer id="hud">
+      <div id="minimap-wrap"><canvas id="minimap"></canvas></div>
+      <div id="info"></div>
+      <div id="commands"></div>
+    </footer>
+
+    <div id="tooltip"></div>
+
+    <div id="book" class="overlay">
+      <div class="panel wide">
+        <div class="panel-head"><h2>조합표</h2><button onclick="document.getElementById('btn-book').click()">닫기 (T)</button></div>
+        <div id="book-body"></div>
+      </div>
+    </div>
+
+    <div id="pause" class="overlay"><div class="panel"><h1>일시정지</h1><p class="dim">P 키로 계속</p></div></div>
+    <div id="end" class="overlay"></div>
+
+    <div id="start" class="overlay show">
+      <div class="start-bg"></div>
+      <div class="start-wrap">
+        <div class="start-art">
+          <img class="isl isl2" data-img="island2" alt="">
+          <img class="isl isl1" data-img="island" alt="">
+          <img class="isl isl3" data-img="island3" alt="">
+          <img class="dv" data-img="digivice" alt="">
+        </div>
+        <div class="panel start-panel">
+          <h1>디지 테이머</h1>
+          <p class="sub">랜덤 디펜스 · 프로토타입</p>
+          <ul class="rules">
+            <li><b>디지바이스</b>(가운데)를 선택하고 <b>Q</b>로 유년기 디지몬을 무작위 소환하세요.</li>
+            <li>같은 디지몬을 모아 <b>진화 조합</b> — 성장기 → 성숙기 → 완전체 → 궁극체 → 초궁극체.</li>
+            <li>내 필드의 적이 <b>50마리</b>가 되거나, 보스를 <b>제한 스테이지</b>까지 못 잡으면 패배.</li>
+            <li><b>공용 보스</b>는 오른쪽 공용 필드에 나타납니다. 디지몬을 보내서 처치하세요.</li>
+            <li>종족 상성: 백신 ▶ 바이러스 ▶ 데이터 ▶ 백신 (유리 ×1.5, 불리 ×0.75)</li>
+          </ul>
+          <div id="loading">에셋 불러오는 중…</div>
+          <button id="btn-start" disabled>시작</button>
+          <p class="dim small">비영리 팬게임입니다. 디지몬 관련 권리는 원저작권자에게 있습니다.</p>
+        </div>
+      </div>
+    </div>
+
+  </body>
 </html>
