@@ -6118,6 +6118,74 @@
   "WM_BanchoLeomonBurstModelSC": {
    "img": "assets/units/WM_BanchoLeomonBurstModelSC.png",
    "portrait": "assets/portrait/WM_BanchoLeomonBurstModelSC.png"
+  },
+  "WE44_Pagumon": {
+   "img": "assets/units/WE44_Pagumon.png",
+   "portrait": "assets/portrait/WE44_Pagumon.png"
+  },
+  "WE50_Gazimon": {
+   "img": "assets/units/WE50_Gazimon.png",
+   "portrait": "assets/portrait/WE50_Gazimon.png"
+  },
+  "WE50_Kokuwamon": {
+   "img": "assets/units/WE50_Kokuwamon.png",
+   "portrait": "assets/portrait/WE50_Kokuwamon.png"
+  },
+  "WE50_Otamamon": {
+   "img": "assets/units/WE50_Otamamon.png",
+   "portrait": "assets/portrait/WE50_Otamamon.png"
+  },
+  "WE52_Gizamon": {
+   "img": "assets/units/WE52_Gizamon.png",
+   "portrait": "assets/portrait/WE52_Gizamon.png"
+  },
+  "WE52_Goburimon": {
+   "img": "assets/units/WE52_Goburimon.png",
+   "portrait": "assets/portrait/WE52_Goburimon.png"
+  },
+  "WE64_Snimon": {
+   "img": "assets/units/WE64_Snimon.png",
+   "portrait": "assets/portrait/WE64_Snimon.png"
+  },
+  "WE64_Musyamon": {
+   "img": "assets/units/WE64_Musyamon.png",
+   "portrait": "assets/portrait/WE64_Musyamon.png"
+  },
+  "WE70_WaruSeadramon": {
+   "img": "assets/units/WE70_WaruSeadramon.png",
+   "portrait": "assets/portrait/WE70_WaruSeadramon.png"
+  },
+  "WE70_DarkTyranomon": {
+   "img": "assets/units/WE70_DarkTyranomon.png",
+   "portrait": "assets/portrait/WE70_DarkTyranomon.png"
+  },
+  "WE72_Vademon": {
+   "img": "assets/units/WE72_Vademon.png",
+   "portrait": "assets/portrait/WE72_Vademon.png"
+  },
+  "WE74_Mummymon": {
+   "img": "assets/units/WE74_Mummymon.png",
+   "portrait": "assets/portrait/WE74_Mummymon.png"
+  },
+  "WE74_Archnemon": {
+   "img": "assets/units/WE74_Archnemon.png",
+   "portrait": "assets/portrait/WE74_Archnemon.png"
+  },
+  "WE78_Boltmon": {
+   "img": "assets/units/WE78_Boltmon.png",
+   "portrait": "assets/portrait/WE78_Boltmon.png"
+  },
+  "WE84_Deathmon": {
+   "img": "assets/units/WE84_Deathmon.png",
+   "portrait": "assets/portrait/WE84_Deathmon.png"
+  },
+  "WE88_DarkKnightmon": {
+   "img": "assets/units/WE88_DarkKnightmon.png",
+   "portrait": "assets/portrait/WE88_DarkKnightmon.png"
+  },
+  "WE96_Millenniumon": {
+   "img": "assets/units/WE96_Millenniumon.png",
+   "portrait": "assets/portrait/WE96_Millenniumon.png"
   }
  },
  "sfx": {
