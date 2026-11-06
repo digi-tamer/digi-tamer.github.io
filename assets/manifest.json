@@ -4733,6 +4733,37 @@
    "sfxSkill": "assets/sfx/Wormmon_sfxSkill.ogg",
    "portrait": "assets/portrait/Wormmon.png",
    "skillIcon": "assets/skillIcon/Wormmon.png"
+  },
+  "Arkadimon_Rookie": {
+   "anim": {
+    "src": "assets/anim/Arkadimon_Rookie.png",
+    "cw": 46,
+    "ch": 59,
+    "refW": 44,
+    "refH": 56,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Arkadimon_Rookie.png",
+   "portrait": "assets/portrait/Arkadimon_Rookie.png"
   }
  },
  "sfx": {
