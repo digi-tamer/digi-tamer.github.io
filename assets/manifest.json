@@ -6078,6 +6078,38 @@
   "WE104_Dynasmon": {
    "img": "assets/units/WE104_Dynasmon.png",
    "portrait": "assets/portrait/WE104_Dynasmon.png"
+  },
+  "WM_Ulforcevdramonfuturedmo": {
+   "img": "assets/units/WM_Ulforcevdramonfuturedmo.png",
+   "portrait": "assets/portrait/WM_Ulforcevdramonfuturedmo.png"
+  },
+  "WM_GrottemonArtwork1": {
+   "img": "assets/units/WM_GrottemonArtwork1.png",
+   "portrait": "assets/portrait/WM_GrottemonArtwork1.png"
+  },
+  "WM_Kuzuhamonmiko": {
+   "img": "assets/units/WM_Kuzuhamonmiko.png",
+   "portrait": "assets/portrait/WM_Kuzuhamonmiko.png"
+  },
+  "WM_Lowemon": {
+   "img": "assets/units/WM_Lowemon.png",
+   "portrait": "assets/portrait/WM_Lowemon.png"
+  },
+  "WE110_Dagomon": {
+   "img": "assets/units/WE110_Dagomon.png",
+   "portrait": "assets/portrait/WE110_Dagomon.png"
+  },
+  "WM_GrottemonDF": {
+   "img": "assets/units/WM_GrottemonDF.png",
+   "portrait": "assets/portrait/WM_GrottemonDF.png"
+  },
+  "WM_KuzuhamonMikoDSR": {
+   "img": "assets/units/WM_KuzuhamonMikoDSR.png",
+   "portrait": "assets/portrait/WM_KuzuhamonMikoDSR.png"
+  },
+  "WM_GrottemonNC": {
+   "img": "assets/units/WM_GrottemonNC.png",
+   "portrait": "assets/portrait/WM_GrottemonNC.png"
   }
  },
  "sfx": {
