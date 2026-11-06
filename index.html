@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-RabsaarU.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-zMoUgshI.css">
+    <script type="module" crossorigin src="./assets/index-iljf5Pfp.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-D5hcmWBd.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -61,7 +61,7 @@
     <button id="boss-focus" class="btn pink" hidden></button>
 
     <!-- 선택한 디지몬 · 적 정보 (아래 도크 위에 뜬다) -->
-    <section id="info-card" hidden><div id="info"></div><div id="commands"></div></section>
+    <section id="info-card" hidden><div id="info"></div><div id="commands"></div><div id="card-send"></div></section>
     <!-- 내 디지몬 목록 (열고 닫는 시트) -->
     <section id="roster" class="sheet">
       <div class="rs-head"><b>내 디지몬</b><span id="rs-count" class="dim"></span><span id="rs-ready" class="rs-badge" hidden></span><button id="rs-close" class="x-btn" title="닫기">✕</button></div>
@@ -76,10 +76,12 @@
     <!-- 아래: 도크 -->
     <footer id="hud">
       <div id="hud-row">
-        <button id="btn-roster" class="pill"><span class="ic">📋</span><span id="br-label">내 디지몬</span><span id="br-ready" class="rs-badge" hidden></span></button>
+        <button id="btn-roster" class="pill"><span class="ic">📋</span><span id="br-label">전체</span><span id="br-ready" class="rs-badge" hidden></span></button>
         <div id="wisp-row"></div>
         <button id="btn-chat" class="pill" title="채팅 (Enter)">💬</button>
       </div>
+      <!-- 내 디지몬 카드덱 (종류별 한 장 · 유년기는 개수만) -->
+      <div id="deck"></div>
       <div id="dock">
         <button class="db" id="dk-gamble"><span class="ic">🎲</span>도박</button>
         <button class="db" id="dk-upgrade"><span class="ic">⚔️</span>강화<small id="dk-upg-lv"></small></button>
