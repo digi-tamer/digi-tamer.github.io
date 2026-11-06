@@ -6110,6 +6110,14 @@
   "WM_GrottemonNC": {
    "img": "assets/units/WM_GrottemonNC.png",
    "portrait": "assets/portrait/WM_GrottemonNC.png"
+  },
+  "WM_BlackGuilmonDBC": {
+   "img": "assets/units/WM_BlackGuilmonDBC.png",
+   "portrait": "assets/portrait/WM_BlackGuilmonDBC.png"
+  },
+  "WM_BanchoLeomonBurstModelSC": {
+   "img": "assets/units/WM_BanchoLeomonBurstModelSC.png",
+   "portrait": "assets/portrait/WM_BanchoLeomonBurstModelSC.png"
   }
  },
  "sfx": {
