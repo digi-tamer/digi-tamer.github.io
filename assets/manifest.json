@@ -4737,10 +4737,10 @@
   "Arkadimon_Rookie": {
    "anim": {
     "src": "assets/anim/Arkadimon_Rookie.png",
-    "cw": 46,
-    "ch": 59,
-    "refW": 44,
-    "refH": 56,
+    "cw": 61,
+    "ch": 78,
+    "refW": 58,
+    "refH": 74,
     "idle": [
      0,
      1,
