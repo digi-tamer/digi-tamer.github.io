@@ -693,12 +693,10 @@
      0,
      1,
      2,
-     3,
      4,
      5
     ],
     "move": [
-     6,
      7,
      8,
      9,
@@ -4249,9 +4247,7 @@
     ],
     "attack": [
      7,
-     8,
-     9,
-     10
+     8
     ]
    },
    "img": "assets/units/Stingmon.png",
@@ -6107,6 +6103,14 @@
   "ui_icBoss": "assets/img/ui_icBoss.png",
   "ui_icShop": "assets/img/ui_icShop.png",
   "ui_icStar": "assets/img/ui_icStar.png",
-  "ui_icCrown": "assets/img/ui_icCrown.png"
+  "ui_icCrown": "assets/img/ui_icCrown.png",
+  "crestMark_crest_courage": "assets/img/crestMark_crest_courage.png",
+  "crestMark_crest_friendship": "assets/img/crestMark_crest_friendship.png",
+  "crestMark_crest_love": "assets/img/crestMark_crest_love.png",
+  "crestMark_crest_knowledge": "assets/img/crestMark_crest_knowledge.png",
+  "crestMark_crest_sincerity": "assets/img/crestMark_crest_sincerity.png",
+  "crestMark_crest_reliability": "assets/img/crestMark_crest_reliability.png",
+  "crestMark_crest_hope": "assets/img/crestMark_crest_hope.png",
+  "crestMark_crest_light": "assets/img/crestMark_crest_light.png"
  }
 }
