@@ -5961,6 +5961,10 @@
   "WE96_Millenniumon": {
    "img": "assets/units/WE96_Millenniumon.png",
    "portrait": "assets/portrait/WE96_Millenniumon.png"
+  },
+  "WM_Examon": {
+   "img": "assets/units/WM_Examon.png",
+   "portrait": "assets/portrait/WM_Examon.png"
   }
  },
  "sfx": {
