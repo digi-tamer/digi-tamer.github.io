@@ -130,9 +130,7 @@
     "attack": [
      8,
      9,
-     10,
-     11,
-     12
+     10
     ],
     "left": {
      "src": "assets/anim/Motimon_L.png",
@@ -1594,15 +1592,12 @@
      "refW": 110,
      "refH": 97,
      "idle": [
-      0,
-      1
+      0
      ],
      "move": [
-      2,
-      3
+      2
      ],
      "attack": [
-      4,
       5
      ]
     }
@@ -2087,10 +2082,7 @@
     "attack": [
      10,
      11,
-     12,
-     13,
-     14,
-     15
+     12
     ]
    },
    "img": "assets/units/Machinedramon.png",
@@ -3733,8 +3725,7 @@
      9,
      10,
      11,
-     12,
-     13
+     12
     ]
    },
    "img": "assets/units/Knightmon.png",
@@ -3800,8 +3791,7 @@
     ],
     "attack": [
      6,
-     7,
-     8
+     7
     ],
     "left": {
      "src": "assets/anim/Leomon_L.png",
@@ -4167,9 +4157,6 @@
      4
     ],
     "move": [
-     6,
-     7,
-     8,
      9,
      10
     ],
@@ -4177,9 +4164,7 @@
      11,
      12,
      13,
-     14,
-     15,
-     16
+     14
     ]
    },
    "img": "assets/units/Sakuyamon.png",
@@ -4313,7 +4298,6 @@
      11
     ],
     "attack": [
-     12,
      13,
      14,
      15,
@@ -5961,6 +5945,10 @@
   "WM_Examon": {
    "img": "assets/units/WM_Examon.png",
    "portrait": "assets/portrait/WM_Examon.png"
+  },
+  "WM_Gargomon": {
+   "img": "assets/units/WM_Gargomon.png",
+   "portrait": "assets/portrait/WM_Gargomon.png"
   }
  },
  "sfx": {
