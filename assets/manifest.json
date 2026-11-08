@@ -9932,6 +9932,14 @@
   "WM_Grani": {
    "img": "assets/units/WM_Grani.png",
    "portrait": "assets/portrait/WM_Grani.png"
+  },
+  "WM_Griffomonuser": {
+   "img": "assets/units/WM_Griffomonuser.png",
+   "portrait": "assets/portrait/WM_Griffomonuser.png"
+  },
+  "WM_Cernumonuser": {
+   "img": "assets/units/WM_Cernumonuser.png",
+   "portrait": "assets/portrait/WM_Cernumonuser.png"
   }
  },
  "sfx": {
