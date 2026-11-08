@@ -5949,6 +5949,14 @@
   "WM_Gargomon": {
    "img": "assets/units/WM_Gargomon.png",
    "portrait": "assets/portrait/WM_Gargomon.png"
+  },
+  "WM_AgumonSavers": {
+   "img": "assets/units/WM_AgumonSavers.png",
+   "portrait": "assets/portrait/WM_AgumonSavers.png"
+  },
+  "WM_ImperialdramonPM": {
+   "img": "assets/units/WM_ImperialdramonPM.png",
+   "portrait": "assets/portrait/WM_ImperialdramonPM.png"
   }
  },
  "sfx": {
