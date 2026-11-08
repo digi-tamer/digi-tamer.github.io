@@ -1,5 +1,3911 @@
 {
  "units": {
+  "Botamon": {
+   "anim": {
+    "src": "assets/anim/Botamon.png",
+    "cw": 37,
+    "ch": 32,
+    "refW": 35,
+    "refH": 28,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Botamon.png",
+   "sfxHit": "assets/sfx/Botamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Botamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Botamon.png",
+   "skillIcon": "assets/skillIcon/Botamon.png"
+  },
+  "Chibomon": {
+   "anim": {
+    "src": "assets/anim/Chibomon.png",
+    "cw": 42,
+    "ch": 38,
+    "refW": 39,
+    "refH": 32,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Chibomon.png",
+   "proj": "assets/fx/Fx_Chibomon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Chibomon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Chibomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Chibomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Chibomon.png",
+   "skillIcon": "assets/skillIcon/Chibomon.png"
+  },
+  "Choromon": {
+   "anim": {
+    "src": "assets/anim/Choromon.png",
+    "cw": 49,
+    "ch": 38,
+    "refW": 41,
+    "refH": 34,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Choromon.png",
+   "proj": "assets/fx/Fx_Choromon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Choromon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Choromon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Choromon_sfxSkill.ogg"
+  },
+  "Cotsucomon": {
+   "anim": {
+    "src": "assets/anim/Cotsucomon.png",
+    "cw": 43,
+    "ch": 39,
+    "refW": 40,
+    "refH": 33,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Cotsucomon.png",
+   "sfxHit": "assets/sfx/Cotsucomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Cotsucomon_sfxSkill.ogg"
+  },
+  "Jyarimon": {
+   "anim": {
+    "src": "assets/anim/Jyarimon.png",
+    "cw": 40,
+    "ch": 38,
+    "refW": 35,
+    "refH": 34,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Jyarimon.png",
+   "sfxHit": "assets/sfx/Jyarimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Jyarimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Jyarimon.png",
+   "skillIcon": "assets/skillIcon/Jyarimon.png"
+  },
+  "Kuramon": {
+   "anim": {
+    "src": "assets/anim/Kuramon.png",
+    "cw": 39,
+    "ch": 32,
+    "refW": 34,
+    "refH": 29,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Kuramon.png",
+   "sfxHit": "assets/sfx/Kuramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Kuramon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Kuramon.png"
+  },
+  "Leafmon": {
+   "anim": {
+    "src": "assets/anim/Leafmon.png",
+    "cw": 43,
+    "ch": 45,
+    "refW": 42,
+    "refH": 41,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Leafmon.png",
+   "sfxHit": "assets/sfx/Leafmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Leafmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Leafmon.png",
+   "skillIcon": "assets/skillIcon/Leafmon.png"
+  },
+  "Nyokimon": {
+   "anim": {
+    "src": "assets/anim/Nyokimon.png",
+    "cw": 38,
+    "ch": 44,
+    "refW": 35,
+    "refH": 41,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5
+    ],
+    "left": {
+     "src": "assets/anim/Nyokimon_L.png",
+     "cw": 39,
+     "ch": 45,
+     "refW": 35,
+     "refH": 41,
+     "idle": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "move": [
+      6,
+      7,
+      8,
+      9
+     ],
+     "attack": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    }
+   },
+   "img": "assets/units/Nyokimon.png",
+   "proj": "assets/fx/Fx_Nyokimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Nyokimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Nyokimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Nyokimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Nyokimon.png",
+   "skillIcon": "assets/skillIcon/Nyokimon.png"
+  },
+  "Pabumon": {
+   "anim": {
+    "src": "assets/anim/Pabumon.png",
+    "cw": 40,
+    "ch": 38,
+    "refW": 39,
+    "refH": 36,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "left": {
+     "src": "assets/anim/Pabumon_L.png",
+     "cw": 37,
+     "ch": 30,
+     "refW": 39,
+     "refH": 36,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/Pabumon.png",
+   "sfxHit": "assets/sfx/Pabumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Pabumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Pabumon.png",
+   "skillIcon": "assets/skillIcon/Pabumon.png"
+  },
+  "Pichimon": {
+   "anim": {
+    "src": "assets/anim/Pichimon.png",
+    "cw": 39,
+    "ch": 43,
+    "refW": 37,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5
+    ],
+    "attack": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   "img": "assets/units/Pichimon.png",
+   "sfxHit": "assets/sfx/Pichimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Pichimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Pichimon.png",
+   "skillIcon": "assets/skillIcon/Pichimon.png"
+  },
+  "Poyomon": {
+   "anim": {
+    "src": "assets/anim/Poyomon.png",
+    "cw": 41,
+    "ch": 45,
+    "refW": 40,
+    "refH": 37,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Poyomon.png",
+   "sfxHit": "assets/sfx/Poyomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Poyomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Poyomon.png",
+   "skillIcon": "assets/skillIcon/Poyomon.png"
+  },
+  "Punimon": {
+   "anim": {
+    "src": "assets/anim/Punimon.png",
+    "cw": 43,
+    "ch": 35,
+    "refW": 41,
+    "refH": 31,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Punimon.png",
+   "sfxHit": "assets/sfx/Punimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Punimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Punimon.png",
+   "skillIcon": "assets/skillIcon/Punimon.png"
+  },
+  "Pupumon": {
+   "anim": {
+    "src": "assets/anim/Pupumon.png",
+    "cw": 39,
+    "ch": 43,
+    "refW": 38,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Pupumon.png",
+   "sfxHit": "assets/sfx/Pupumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Pupumon_sfxSkill.ogg"
+  },
+  "Pururumon": {
+   "anim": {
+    "src": "assets/anim/Pururumon.png",
+    "cw": 44,
+    "ch": 33,
+    "refW": 40,
+    "refH": 26,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Pururumon.png",
+   "sfxHit": "assets/sfx/Pururumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Pururumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Pururumon.png",
+   "skillIcon": "assets/skillIcon/Pururumon.png"
+  },
+  "Puttimon": {
+   "img": "assets/units/Puttimon.png",
+   "proj": "assets/fx/Fx_Puttimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Puttimon_Attack_Projectile_Hit.png"
+  },
+  "Puwamon": {
+   "anim": {
+    "src": "assets/anim/Puwamon.png",
+    "cw": 46,
+    "ch": 42,
+    "refW": 46,
+    "refH": 38,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Puwamon.png",
+   "sfxHit": "assets/sfx/Puwamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Puwamon_sfxSkill.ogg"
+  },
+  "Relemon": {
+   "anim": {
+    "src": "assets/anim/Relemon.png",
+    "cw": 48,
+    "ch": 32,
+    "refW": 44,
+    "refH": 24,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "left": {
+     "src": "assets/anim/Relemon_L.png",
+     "cw": 46,
+     "ch": 33,
+     "refW": 44,
+     "refH": 24,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Relemon.png",
+   "proj": "assets/fx/Fx_Relemon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Relemon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Relemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Relemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Relemon.png",
+   "skillIcon": "assets/skillIcon/Relemon.png"
+  },
+  "Sakumon": {
+   "anim": {
+    "src": "assets/anim/Sakumon.png",
+    "cw": 40,
+    "ch": 47,
+    "refW": 35,
+    "refH": 44,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5,
+     6
+    ],
+    "attack": [
+     7,
+     8,
+     9,
+     10
+    ],
+    "left": {
+     "src": "assets/anim/Sakumon_L.png",
+     "cw": 43,
+     "ch": 35,
+     "refW": 35,
+     "refH": 44,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Sakumon.png",
+   "sfxHit": "assets/sfx/Sakumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Sakumon_sfxSkill.ogg"
+  },
+  "Tsubumon": {
+   "anim": {
+    "src": "assets/anim/Tsubumon.png",
+    "cw": 35,
+    "ch": 41,
+    "refW": 34,
+    "refH": 39,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Tsubumon.png",
+   "sfxHit": "assets/sfx/Tsubumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tsubumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Tsubumon.png",
+   "skillIcon": "assets/skillIcon/Tsubumon.png"
+  },
+  "YukimiBotamon": {
+   "anim": {
+    "src": "assets/anim/YukimiBotamon.png",
+    "cw": 39,
+    "ch": 31,
+    "refW": 35,
+    "refH": 29,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "left": {
+     "src": "assets/anim/YukimiBotamon_L.png",
+     "cw": 38,
+     "ch": 31,
+     "refW": 35,
+     "refH": 29,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/YukimiBotamon.png",
+   "proj": "assets/fx/Fx_Yukimibotamon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Yukimibotamon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/YukimiBotamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/YukimiBotamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/YukimiBotamon.png",
+   "skillIcon": "assets/skillIcon/YukimiBotamon.png"
+  },
+  "Yuramon": {
+   "anim": {
+    "src": "assets/anim/Yuramon.png",
+    "cw": 39,
+    "ch": 41,
+    "refW": 35,
+    "refH": 36,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Yuramon.png",
+   "sfxHit": "assets/sfx/Yuramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Yuramon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Yuramon.png",
+   "skillIcon": "assets/skillIcon/Yuramon.png"
+  },
+  "Zerimon": {
+   "anim": {
+    "src": "assets/anim/Zerimon.png",
+    "cw": 49,
+    "ch": 40,
+    "refW": 47,
+    "refH": 33,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Zerimon.png",
+   "sfxHit": "assets/sfx/Zerimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Zerimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Zerimon.png",
+   "skillIcon": "assets/skillIcon/Zerimon.png"
+  },
+  "Budmon": {
+   "anim": {
+    "src": "assets/anim/Budmon.png",
+    "cw": 51,
+    "ch": 30,
+    "refW": 45,
+    "refH": 27,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Budmon.png",
+   "proj": "assets/fx/Fx_Budmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Budmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Budmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Budmon_sfxSkill.ogg"
+  },
+  "Cupimon": {
+   "anim": {
+    "src": "assets/anim/Cupimon.png",
+    "cw": 33,
+    "ch": 40,
+    "refW": 32,
+    "refH": 37,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Cupimon.png",
+   "proj": "assets/fx/Fx_Cupimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Cupimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Cupimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Cupimon_sfxSkill.ogg"
+  },
+  "DemiVeemon": {
+   "anim": {
+    "src": "assets/anim/DemiVeemon.png",
+    "cw": 42,
+    "ch": 47,
+    "refW": 39,
+    "refH": 42,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/DemiVeemon.png",
+   "sfxHit": "assets/sfx/DemiVeemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/DemiVeemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/DemiVeemon.png",
+   "skillIcon": "assets/skillIcon/DemiVeemon.png"
+  },
+  "Gummymon": {
+   "anim": {
+    "src": "assets/anim/Gummymon.png",
+    "cw": 46,
+    "ch": 45,
+    "refW": 37,
+    "refH": 42,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Gummymon.png",
+   "sfxHit": "assets/sfx/Gummymon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Gummymon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Gummymon.png",
+   "skillIcon": "assets/skillIcon/Gummymon.png"
+  },
+  "Kakkinmon": {
+   "anim": {
+    "src": "assets/anim/Kakkinmon.png",
+    "cw": 41,
+    "ch": 42,
+    "refW": 40,
+    "refH": 41,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Kakkinmon.png",
+   "sfxHit": "assets/sfx/Kakkinmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Kakkinmon_sfxSkill.ogg"
+  },
+  "Minomon": {
+   "anim": {
+    "src": "assets/anim/Minomon.png",
+    "cw": 36,
+    "ch": 39,
+    "refW": 31,
+    "refH": 38,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Minomon.png",
+   "proj": "assets/fx/Fx_Minomon_Attack_Projectile.png",
+   "portrait": "assets/portrait/Minomon.png",
+   "skillIcon": "assets/skillIcon/Minomon.png"
+  },
+  "Missimon": {
+   "anim": {
+    "src": "assets/anim/Missimon.png",
+    "cw": 46,
+    "ch": 40,
+    "refW": 42,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Missimon.png",
+   "hit": "assets/fx/Fx_Missimon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Missimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Missimon_sfxSkill.ogg"
+  },
+  "Pinamon": {
+   "anim": {
+    "src": "assets/anim/Pinamon.png",
+    "cw": 45,
+    "ch": 39,
+    "refW": 40,
+    "refH": 37,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Pinamon.png",
+   "proj": "assets/fx/Fx_Pinamon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Pinamon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Pinamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Pinamon_sfxSkill.ogg"
+  },
+  "Poromon": {
+   "anim": {
+    "src": "assets/anim/Poromon.png",
+    "cw": 46,
+    "ch": 45,
+    "refW": 40,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "left": {
+     "src": "assets/anim/Poromon_L.png",
+     "cw": 46,
+     "ch": 43,
+     "refW": 40,
+     "refH": 40,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/Poromon.png",
+   "proj": "assets/fx/Fx_Poromon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Poromon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Poromon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Poromon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Poromon.png",
+   "skillIcon": "assets/skillIcon/Poromon.png"
+  },
+  "Sakuttomon": {
+   "anim": {
+    "src": "assets/anim/Sakuttomon.png",
+    "cw": 41,
+    "ch": 42,
+    "refW": 41,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Sakuttomon.png",
+   "sfxHit": "assets/sfx/Sakuttomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Sakuttomon_sfxSkill.ogg"
+  },
+  "Tsumemon": {
+   "anim": {
+    "src": "assets/anim/Tsumemon.png",
+    "cw": 59,
+    "ch": 55,
+    "refW": 55,
+    "refH": 49,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Tsumemon.png",
+   "sfxHit": "assets/sfx/Tsumemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tsumemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Tsumemon.png"
+  },
+  "Tumblemon": {
+   "anim": {
+    "src": "assets/anim/Tumblemon.png",
+    "cw": 44,
+    "ch": 42,
+    "refW": 37,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Tumblemon.png",
+   "proj": "assets/fx/Fx_Tumblemon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Tumblemon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Tumblemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tumblemon_sfxSkill.ogg"
+  },
+  "Upamon": {
+   "anim": {
+    "src": "assets/anim/Upamon.png",
+    "cw": 41,
+    "ch": 27,
+    "refW": 40,
+    "refH": 24,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Upamon.png",
+   "sfxHit": "assets/sfx/Upamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Upamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Upamon.png",
+   "skillIcon": "assets/skillIcon/Upamon.png"
+  },
+  "Viximon": {
+   "anim": {
+    "src": "assets/anim/Viximon.png",
+    "cw": 44,
+    "ch": 42,
+    "refW": 40,
+    "refH": 41,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Viximon.png",
+   "hit": "assets/fx/Fx_Viximon_Attack_Hit.png",
+   "portrait": "assets/portrait/Viximon.png",
+   "skillIcon": "assets/skillIcon/Viximon.png"
+  },
+  "Lalamon": {
+   "anim": {
+    "src": "assets/anim/Lalamon.png",
+    "cw": 49,
+    "ch": 59,
+    "refW": 41,
+    "refH": 57,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8
+    ],
+    "attack": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Lalamon.png",
+   "proj": "assets/fx/Fx_Lalamon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Lalamon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Lalamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Lalamon_sfxSkill.ogg"
+  },
+  "Crabmon": {
+   "anim": {
+    "src": "assets/anim/Crabmon.png",
+    "cw": 56,
+    "ch": 41,
+    "refW": 52,
+    "refH": 38,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "left": {
+     "src": "assets/anim/Crabmon_L.png",
+     "cw": 60,
+     "ch": 39,
+     "refW": 52,
+     "refH": 38,
+     "idle": [
+      0,
+      1,
+      2
+     ],
+     "move": [
+      3,
+      4
+     ],
+     "attack": [
+      5,
+      6
+     ]
+    }
+   },
+   "img": "assets/units/Crabmon.png",
+   "sfxHit": "assets/sfx/Crabmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Crabmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Crabmon.png"
+  },
+  "Dracmon": {
+   "anim": {
+    "src": "assets/anim/Dracmon.png",
+    "cw": 52,
+    "ch": 56,
+    "refW": 49,
+    "refH": 51,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
+    "left": {
+     "src": "assets/anim/Dracmon_L.png",
+     "cw": 49,
+     "ch": 52,
+     "refW": 49,
+     "refH": 51,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Dracmon.png",
+   "proj": "assets/fx/Fx_Dracmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Dracmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Dracmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Dracmon_sfxSkill.ogg"
+  },
+  "KoKabuterimon": {
+   "anim": {
+    "src": "assets/anim/KoKabuterimon.png",
+    "cw": 72,
+    "ch": 74,
+    "refW": 53,
+    "refH": 65,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/KoKabuterimon.png",
+   "sfxHit": "assets/sfx/KoKabuterimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/KoKabuterimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/KoKabuterimon.png"
+  },
+  "Zubamon": {
+   "anim": {
+    "src": "assets/anim/Zubamon.png",
+    "cw": 57,
+    "ch": 57,
+    "refW": 51,
+    "refH": 56,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Zubamon.png",
+   "sfxHit": "assets/sfx/Zubamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Zubamon_sfxSkill.ogg"
+  },
+  "Sangomon": {
+   "anim": {
+    "src": "assets/anim/Sangomon.png",
+    "cw": 64,
+    "ch": 42,
+    "refW": 61,
+    "refH": 40,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Sangomon.png",
+   "proj": "assets/fx/Fx_Sangomon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Sangomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Sangomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Sangomon.png"
+  },
+  "Kokuwamon": {
+   "anim": {
+    "src": "assets/anim/Kokuwamon.png",
+    "cw": 57,
+    "ch": 54,
+    "refW": 46,
+    "refH": 50,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Kokuwamon.png",
+   "sfxHit": "assets/sfx/Kokuwamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Kokuwamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Kokuwamon.png"
+  },
+  "Ludomon": {
+   "anim": {
+    "src": "assets/anim/Ludomon.png",
+    "cw": 59,
+    "ch": 52,
+    "refW": 59,
+    "refH": 46,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Ludomon.png",
+   "sfxHit": "assets/sfx/Ludomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Ludomon_sfxSkill.ogg"
+  },
+  "Ghostmon": {
+   "anim": {
+    "src": "assets/anim/Ghostmon.png",
+    "cw": 74,
+    "ch": 81,
+    "refW": 57,
+    "refH": 71,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Ghostmon.png",
+   "hit": "assets/fx/Fx_Ghostmon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Ghostmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Ghostmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Ghostmon.png"
+  },
+  "Solarmon": {
+   "anim": {
+    "src": "assets/anim/Solarmon.png",
+    "cw": 63,
+    "ch": 50,
+    "refW": 58,
+    "refH": 51,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5
+    ],
+    "attack": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   "img": "assets/units/Solarmon.png",
+   "proj": "assets/fx/Fx_Solarmon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Solarmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Solarmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Solarmon.png"
+  },
+  "DemiDevilmon": {
+   "anim": {
+    "src": "assets/anim/DemiDevilmon.png",
+    "cw": 74,
+    "ch": 43,
+    "refW": 65,
+    "refH": 39,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ],
+    "left": {
+     "src": "assets/anim/DemiDevilmon_L.png",
+     "cw": 50,
+     "ch": 36,
+     "refW": 65,
+     "refH": 39,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/DemiDevilmon.png",
+   "sfxHit": "assets/sfx/DemiDevilmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/DemiDevilmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/DemiDevilmon.png"
+  },
+  "Espimon": {
+   "anim": {
+    "src": "assets/anim/Espimon.png",
+    "cw": 48,
+    "ch": 57,
+    "refW": 48,
+    "refH": 54,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Espimon.png",
+   "proj": "assets/fx/Fx_Espimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Espimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Espimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Espimon_sfxSkill.ogg"
+  },
+  "Gekkomon": {
+   "anim": {
+    "src": "assets/anim/Gekkomon.png",
+    "cw": 61,
+    "ch": 56,
+    "refW": 44,
+    "refH": 50,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Gekkomon.png",
+   "sfxHit": "assets/sfx/Gekkomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Gekkomon_sfxSkill.ogg"
+  },
+  "KoDokugumon": {
+   "anim": {
+    "src": "assets/anim/KoDokugumon.png",
+    "cw": 78,
+    "ch": 41,
+    "refW": 62,
+    "refH": 35,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/KoDokugumon.png",
+   "sfxHit": "assets/sfx/KoDokugumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/KoDokugumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/KoDokugumon.png"
+  },
+  "Sunflowmon": {
+   "anim": {
+    "src": "assets/anim/Sunflowmon.png",
+    "cw": 65,
+    "ch": 62,
+    "refW": 63,
+    "refH": 59,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Sunflowmon.png",
+   "proj": "assets/fx/Fx_Sunflowmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Sunflowmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Sunflowmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Sunflowmon_sfxSkill.ogg"
+  },
+  "Youkomon": {
+   "anim": {
+    "src": "assets/anim/Youkomon.png",
+    "cw": 72,
+    "ch": 59,
+    "refW": 64,
+    "refH": 51,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Youkomon.png",
+   "proj": "assets/fx/Fx_Youkomon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Youkomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Youkomon_sfxSkill.ogg"
+  },
+  "Hudiemon": {
+   "anim": {
+    "src": "assets/anim/Hudiemon.png",
+    "cw": 67,
+    "ch": 78,
+    "refW": 67,
+    "refH": 72,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Hudiemon.png",
+   "proj": "assets/fx/Fx_Hudiemon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Hudiemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Hudiemon_sfxSkill.ogg"
+  },
+  "ZubaEagermon": {
+   "anim": {
+    "src": "assets/anim/ZubaEagermon.png",
+    "cw": 72,
+    "ch": 62,
+    "refW": 67,
+    "refH": 58,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/ZubaEagermon.png",
+   "hit": "assets/fx/Fx_ZubaEagermon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/ZubaEagermon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/ZubaEagermon_sfxSkill.ogg"
+  },
+  "HoverEspimon": {
+   "anim": {
+    "src": "assets/anim/HoverEspimon.png",
+    "cw": 78,
+    "ch": 69,
+    "refW": 74,
+    "refH": 56,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/HoverEspimon.png",
+   "proj": "assets/fx/Fx_HoverEspimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_HoverEspimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/HoverEspimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/HoverEspimon_sfxSkill.ogg"
+  },
+  "Clockmon": {
+   "anim": {
+    "src": "assets/anim/Clockmon.png",
+    "cw": 74,
+    "ch": 60,
+    "refW": 65,
+    "refH": 59,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Clockmon.png",
+   "sfxHit": "assets/sfx/Clockmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Clockmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Clockmon.png"
+  },
+  "Jazardmon": {
+   "anim": {
+    "src": "assets/anim/Jazardmon.png",
+    "cw": 83,
+    "ch": 60,
+    "refW": 75,
+    "refH": 47,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Jazardmon.png",
+   "proj": "assets/fx/Fx_Jazardmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Jazardmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Jazardmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Jazardmon_sfxSkill.ogg"
+  },
+  "Lavorvomon": {
+   "anim": {
+    "src": "assets/anim/Lavorvomon.png",
+    "cw": 100,
+    "ch": 62,
+    "refW": 73,
+    "refH": 61,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Lavorvomon.png",
+   "sfxHit": "assets/sfx/Lavorvomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Lavorvomon_sfxSkill.ogg"
+  },
+  "RaijiLudomon": {
+   "anim": {
+    "src": "assets/anim/RaijiLudomon.png",
+    "cw": 80,
+    "ch": 84,
+    "refW": 74,
+    "refH": 84,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/RaijiLudomon.png",
+   "proj": "assets/fx/Fx_RaijiLudomon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_RaijiLudomon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/RaijiLudomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/RaijiLudomon_sfxSkill.ogg"
+  },
+  "Akatorimon": {
+   "anim": {
+    "src": "assets/anim/Akatorimon.png",
+    "cw": 88,
+    "ch": 75,
+    "refW": 65,
+    "refH": 70,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Akatorimon.png",
+   "proj": "assets/fx/Fx_Akatorimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Akatorimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Akatorimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Akatorimon_sfxSkill.ogg"
+  },
+  "Dokugumon": {
+   "anim": {
+    "src": "assets/anim/Dokugumon.png",
+    "cw": 79,
+    "ch": 53,
+    "refW": 64,
+    "refH": 45,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Dokugumon.png",
+   "hit": "assets/fx/Fx_Dokugumon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Dokugumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Dokugumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Dokugumon.png"
+  },
+  "Ebidramon": {
+   "anim": {
+    "src": "assets/anim/Ebidramon.png",
+    "cw": 84,
+    "ch": 61,
+    "refW": 79,
+    "refH": 58,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "left": {
+     "src": "assets/anim/Ebidramon_L.png",
+     "cw": 84,
+     "ch": 87,
+     "refW": 79,
+     "refH": 58,
+     "idle": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "move": [
+      4,
+      5
+     ],
+     "attack": [
+      6,
+      7,
+      8
+     ]
+    }
+   },
+   "img": "assets/units/Ebidramon.png",
+   "sfxHit": "assets/sfx/Ebidramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Ebidramon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Ebidramon.png"
+  },
+  "Flarerizamon": {
+   "anim": {
+    "src": "assets/anim/Flarerizamon.png",
+    "cw": 79,
+    "ch": 77,
+    "refW": 74,
+    "refH": 72,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5,
+     6
+    ],
+    "attack": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   "img": "assets/units/Flarerizamon.png",
+   "sfxHit": "assets/sfx/Flarerizamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Flarerizamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Flarerizamon.png"
+  },
+  "Machmon": {
+   "anim": {
+    "src": "assets/anim/Machmon.png",
+    "cw": 95,
+    "ch": 51,
+    "refW": 92,
+    "refH": 44,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "img": "assets/units/Machmon.png",
+   "proj": "assets/fx/Fx_Machmon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Machmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Machmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Machmon.png"
+  },
+  "Petermon": {
+   "anim": {
+    "src": "assets/anim/Petermon.png",
+    "cw": 63,
+    "ch": 65,
+    "refW": 60,
+    "refH": 59,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11
+    ],
+    "left": {
+     "src": "assets/anim/Petermon_L.png",
+     "cw": 60,
+     "ch": 61,
+     "refW": 60,
+     "refH": 59,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Petermon.png",
+   "proj": "assets/fx/Fx_Petermon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Petermon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Petermon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Petermon_sfxSkill.ogg"
+  },
+  "Porcupamon": {
+   "anim": {
+    "src": "assets/anim/Porcupamon.png",
+    "cw": 48,
+    "ch": 56,
+    "refW": 36,
+    "refH": 55,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "left": {
+     "src": "assets/anim/Porcupamon_L.png",
+     "cw": 50,
+     "ch": 59,
+     "refW": 36,
+     "refH": 55,
+     "idle": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "move": [
+      4,
+      5
+     ],
+     "attack": [
+      6,
+      7,
+      8
+     ]
+    }
+   },
+   "img": "assets/units/Porcupamon.png",
+   "proj": "assets/fx/Fx_Porcupamon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Porcupamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Porcupamon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Porcupamon.png"
+  },
+  "RedVegiemon": {
+   "anim": {
+    "src": "assets/anim/RedVegiemon.png",
+    "cw": 66,
+    "ch": 68,
+    "refW": 60,
+    "refH": 57,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/RedVegiemon.png",
+   "sfxHit": "assets/sfx/RedVegiemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/RedVegiemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/RedVegiemon.png"
+  },
+  "Sistermon_Ciel": {
+   "anim": {
+    "src": "assets/anim/Sistermon_Ciel.png",
+    "cw": 66,
+    "ch": 62,
+    "refW": 49,
+    "refH": 57,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Sistermon_Ciel.png",
+   "hit": "assets/fx/Fx_Sistermon_Ciel_Attack_Hit.png"
+  },
+  "Sistermon_Noir": {
+   "anim": {
+    "src": "assets/anim/Sistermon_Noir.png",
+    "cw": 77,
+    "ch": 61,
+    "refW": 41,
+    "refH": 59,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "left": {
+     "src": "assets/anim/Sistermon_Noir_L.png",
+     "cw": 63,
+     "ch": 69,
+     "refW": 41,
+     "refH": 59,
+     "idle": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ],
+     "move": [
+      5,
+      6,
+      7
+     ],
+     "attack": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   },
+   "img": "assets/units/Sistermon_Noir.png",
+   "hit": "assets/fx/Fx_Sistermon_Noir_Attack_Hit_A.png"
+  },
+  "SkullKnightmon": {
+   "anim": {
+    "src": "assets/anim/SkullKnightmon.png",
+    "cw": 91,
+    "ch": 67,
+    "refW": 67,
+    "refH": 54,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
+    "left": {
+     "src": "assets/anim/SkullKnightmon_L.png",
+     "cw": 75,
+     "ch": 79,
+     "refW": 67,
+     "refH": 54,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/SkullKnightmon.png",
+   "hit": "assets/fx/Fx_SkullKnightmon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/SkullKnightmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/SkullKnightmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/SkullKnightmon.png"
+  },
+  "Starmon": {
+   "anim": {
+    "src": "assets/anim/Starmon.png",
+    "cw": 64,
+    "ch": 56,
+    "refW": 59,
+    "refH": 54,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Starmon.png",
+   "proj": "assets/fx/Fx_Starmon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Starmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Starmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Starmon.png"
+  },
+  "Tobiumon": {
+   "anim": {
+    "src": "assets/anim/Tobiumon.png",
+    "cw": 72,
+    "ch": 45,
+    "refW": 67,
+    "refH": 37,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Tobiumon.png",
+   "proj": "assets/fx/Fx_Tobiumon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Tobiumon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Tobiumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tobiumon_sfxSkill.ogg"
+  },
+  "Tortomon": {
+   "anim": {
+    "src": "assets/anim/Tortomon.png",
+    "cw": 104,
+    "ch": 67,
+    "refW": 92,
+    "refH": 61,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Tortomon.png",
+   "proj": "assets/fx/Fx_Tortomon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Tortomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tortomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Tortomon.png"
+  },
+  "Troopmon": {
+   "anim": {
+    "src": "assets/anim/Troopmon.png",
+    "cw": 73,
+    "ch": 67,
+    "refW": 54,
+    "refH": 57,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "left": {
+     "src": "assets/anim/Troopmon_L.png",
+     "cw": 58,
+     "ch": 79,
+     "refW": 54,
+     "refH": 57,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Troopmon.png",
+   "hit": "assets/fx/Fx_Troopmon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Troopmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Troopmon_sfxSkill.ogg"
+  },
+  "Yakiimon": {
+   "anim": {
+    "src": "assets/anim/Yakiimon.png",
+    "cw": 62,
+    "ch": 60,
+    "refW": 50,
+    "refH": 58,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Yakiimon.png",
+   "hit": "assets/fx/Fx_Yakiimon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Yakiimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Yakiimon_sfxSkill.ogg"
+  },
+  "Shakkoumon": {
+   "anim": {
+    "src": "assets/anim/Shakkoumon.png",
+    "cw": 83,
+    "ch": 97,
+    "refW": 64,
+    "refH": 94,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Shakkoumon.png",
+   "hit": "assets/fx/Fx_Shakkoumon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Shakkoumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Shakkoumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Shakkoumon.png",
+   "skillIcon": "assets/skillIcon/Shakkoumon.png"
+  },
+  "Duramon": {
+   "anim": {
+    "src": "assets/anim/Duramon.png",
+    "cw": 125,
+    "ch": 98,
+    "refW": 89,
+    "refH": 85,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Duramon.png",
+   "hit": "assets/fx/Fx_Duramon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Duramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Duramon_sfxSkill.ogg"
+  },
+  "MarineBullmon": {
+   "img": "assets/units/MarineBullmon.png",
+   "proj": "assets/fx/Fx_MarineBullmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_MarineBullmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/MarineBullmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/MarineBullmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/MarineBullmon.png"
+  },
+  "Jazarichmon": {
+   "anim": {
+    "src": "assets/anim/Jazarichmon.png",
+    "cw": 133,
+    "ch": 105,
+    "refW": 105,
+    "refH": 75,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Jazarichmon.png",
+   "proj": "assets/fx/Fx_Jazarichmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Jazarichmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Jazarichmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Jazarichmon_sfxSkill.ogg"
+  },
+  "Lavogaritamon": {
+   "anim": {
+    "src": "assets/anim/Lavogaritamon.png",
+    "cw": 110,
+    "ch": 108,
+    "refW": 107,
+    "refH": 88,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Lavogaritamon.png",
+   "proj": "assets/fx/Fx_Lavogaritamon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Lavogaritamon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Lavogaritamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Lavogaritamon_sfxSkill.ogg"
+  },
+  "PolarBearmon": {
+   "anim": {
+    "src": "assets/anim/PolarBearmon.png",
+    "cw": 95,
+    "ch": 84,
+    "refW": 80,
+    "refH": 82,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/PolarBearmon.png",
+   "proj": "assets/fx/Fx_PolarBearmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_PolarBearmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/PolarBearmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/PolarBearmon_sfxSkill.ogg"
+  },
+  "TiaLudomon": {
+   "anim": {
+    "src": "assets/anim/TiaLudomon.png",
+    "cw": 69,
+    "ch": 63,
+    "refW": 66,
+    "refH": 59,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/TiaLudomon.png",
+   "proj": "assets/fx/Fx_TiaLudomon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_TiaLudomon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/TiaLudomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/TiaLudomon_sfxSkill.ogg"
+  },
+  "Parrotmon": {
+   "anim": {
+    "src": "assets/anim/Parrotmon.png",
+    "cw": 114,
+    "ch": 98,
+    "refW": 93,
+    "refH": 91,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Parrotmon.png",
+   "hit": "assets/fx/Fx_Parrotmon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Parrotmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Parrotmon_sfxSkill.ogg"
+  },
+  "Piximon": {
+   "anim": {
+    "src": "assets/anim/Piximon.png",
+    "cw": 80,
+    "ch": 67,
+    "refW": 62,
+    "refH": 58,
+    "idle": [
+     0,
+     1,
+     2
+    ],
+    "move": [
+     3,
+     4
+    ],
+    "attack": [
+     5,
+     6,
+     7
+    ],
+    "left": {
+     "src": "assets/anim/Piximon_L.png",
+     "cw": 71,
+     "ch": 78,
+     "refW": 62,
+     "refH": 58,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/Piximon.png",
+   "sfxHit": "assets/sfx/Piximon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Piximon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Piximon.png"
+  },
+  "Jagamon": {
+   "anim": {
+    "src": "assets/anim/Jagamon.png",
+    "cw": 86,
+    "ch": 73,
+    "refW": 84,
+    "refH": 71,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Jagamon.png",
+   "proj": "assets/fx/Fx_Jagamon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Jagamon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Jagamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Jagamon_sfxSkill.ogg"
+  },
+  "Kyukimon": {
+   "anim": {
+    "src": "assets/anim/Kyukimon.png",
+    "cw": 90,
+    "ch": 85,
+    "refW": 75,
+    "refH": 80,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Kyukimon.png",
+   "hit": "assets/fx/Fx_Kyukimon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Kyukimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Kyukimon_sfxSkill.ogg"
+  },
+  "LoaderLeomon": {
+   "img": "assets/units/LoaderLeomon.png",
+   "sfxHit": "assets/sfx/LoaderLeomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/LoaderLeomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/LoaderLeomon.png"
+  },
+  "Oboromon": {
+   "anim": {
+    "src": "assets/anim/Oboromon.png",
+    "cw": 90,
+    "ch": 81,
+    "refW": 81,
+    "refH": 80,
+    "idle": [
+     0,
+     1,
+     2
+    ],
+    "move": [
+     3,
+     4
+    ],
+    "attack": [
+     5,
+     6
+    ],
+    "left": {
+     "src": "assets/anim/Oboromon_L.png",
+     "cw": 87,
+     "ch": 81,
+     "refW": 81,
+     "refH": 80,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/Oboromon.png",
+   "hit": "assets/fx/Fx_Oboromon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Oboromon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Oboromon_sfxSkill.ogg"
+  },
+  "Scorpiomon": {
+   "anim": {
+    "src": "assets/anim/Scorpiomon.png",
+    "cw": 108,
+    "ch": 105,
+    "refW": 92,
+    "refH": 77,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "left": {
+     "src": "assets/anim/Scorpiomon_L.png",
+     "cw": 109,
+     "ch": 61,
+     "refW": 92,
+     "refH": 77,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4
+     ]
+    }
+   },
+   "img": "assets/units/Scorpiomon.png",
+   "proj": "assets/fx/Fx_Scorpiomon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Scorpiomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Scorpiomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Scorpiomon.png"
+  },
+  "ShogunGekomon": {
+   "anim": {
+    "src": "assets/anim/ShogunGekomon.png",
+    "cw": 84,
+    "ch": 92,
+    "refW": 74,
+    "refH": 80,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/ShogunGekomon.png",
+   "proj": "assets/fx/Fx_ShogunGekomon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_ShogunGekomon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/ShogunGekomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/ShogunGekomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/ShogunGekomon.png"
+  },
+  "Tankdramon": {
+   "anim": {
+    "src": "assets/anim/Tankdramon.png",
+    "cw": 88,
+    "ch": 87,
+    "refW": 84,
+    "refH": 79,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/Tankdramon.png",
+   "hit": "assets/fx/Fx_Tankdramon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Tankdramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Tankdramon_sfxSkill.ogg"
+  },
+  "WaruMonzaemon": {
+   "anim": {
+    "src": "assets/anim/WaruMonzaemon.png",
+    "cw": 80,
+    "ch": 82,
+    "refW": 57,
+    "refH": 82,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/WaruMonzaemon.png",
+   "sfxHit": "assets/sfx/WaruMonzaemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/WaruMonzaemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/WaruMonzaemon.png"
+  },
+  "BlueMeramon": {
+   "anim": {
+    "src": "assets/anim/BlueMeramon.png",
+    "cw": 69,
+    "ch": 95,
+    "refW": 45,
+    "refH": 89,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/BlueMeramon.png",
+   "proj": "assets/fx/Fx_BlueMeramon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_BlueMeramon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/BlueMeramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/BlueMeramon_sfxSkill.ogg"
+  },
+  "Fumamon": {
+   "anim": {
+    "src": "assets/anim/Fumamon.png",
+    "cw": 116,
+    "ch": 109,
+    "refW": 55,
+    "refH": 84,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Fumamon.png",
+   "hit": "assets/fx/Fx_Fumamon_Attack_Hit.png"
+  },
+  "HippoGryphonmon": {
+   "anim": {
+    "src": "assets/anim/HippoGryphonmon.png",
+    "cw": 99,
+    "ch": 80,
+    "refW": 96,
+    "refH": 78,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8
+    ],
+    "attack": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/HippoGryphonmon.png",
+   "proj": "assets/fx/Fx_HippoGryphonmon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_HippoGryphonmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/HippoGryphonmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/HippoGryphonmon_sfxSkill.ogg"
+  },
+  "SlashAngemon": {
+   "anim": {
+    "src": "assets/anim/SlashAngemon.png",
+    "cw": 102,
+    "ch": 105,
+    "refW": 101,
+    "refH": 98,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11
+    ]
+   },
+   "img": "assets/units/SlashAngemon.png",
+   "sfxHit": "assets/sfx/SlashAngemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/SlashAngemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/SlashAngemon.png",
+   "skillIcon": "assets/skillIcon/SlashAngemon.png"
+  },
+  "Valkyrimon": {
+   "anim": {
+    "src": "assets/anim/Valkyrimon.png",
+    "cw": 100,
+    "ch": 97,
+    "refW": 87,
+    "refH": 90,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Valkyrimon.png",
+   "proj": "assets/fx/Fx_Valkyrimon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Valkyrimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Valkyrimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Valkyrimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Valkyrimon.png",
+   "skillIcon": "assets/skillIcon/Valkyrimon.png"
+  },
+  "Durandamon": {
+   "anim": {
+    "src": "assets/anim/Durandamon.png",
+    "cw": 94,
+    "ch": 133,
+    "refW": 72,
+    "refH": 124,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8
+    ],
+    "attack": [
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "left": {
+     "src": "assets/anim/Durandamon_L.png",
+     "cw": 98,
+     "ch": 133,
+     "refW": 72,
+     "refH": 124,
+     "idle": [
+      0,
+      1,
+      2
+     ],
+     "move": [
+      3,
+      4
+     ],
+     "attack": [
+      5,
+      6,
+      7
+     ]
+    }
+   },
+   "img": "assets/units/Durandamon.png",
+   "hit": "assets/fx/Fx_Durandamon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Durandamon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Durandamon_sfxSkill.ogg"
+  },
+  "Skadimon": {
+   "anim": {
+    "src": "assets/anim/Skadimon.png",
+    "cw": 121,
+    "ch": 108,
+    "refW": 106,
+    "refH": 100,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/Skadimon.png",
+   "hit": "assets/fx/Fx_Skadimon_Attack_Hit_A.png",
+   "sfxHit": "assets/sfx/Skadimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Skadimon_sfxSkill.ogg"
+  },
+  "BryweLudramon": {
+   "anim": {
+    "src": "assets/anim/BryweLudramon.png",
+    "cw": 149,
+    "ch": 119,
+    "refW": 120,
+    "refH": 100,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/BryweLudramon.png",
+   "proj": "assets/fx/Fx_BryweLudramon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_BryweLudramon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/BryweLudramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/BryweLudramon_sfxSkill.ogg"
+  },
+  "Hydramon": {
+   "anim": {
+    "src": "assets/anim/Hydramon.png",
+    "cw": 127,
+    "ch": 102,
+    "refW": 116,
+    "refH": 101,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Hydramon.png",
+   "proj": "assets/fx/Fx_Hydramon_Attack_Projectile.png",
+   "hit": "assets/fx/Fx_Hydramon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Hydramon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Hydramon_sfxSkill.ogg"
+  },
+  "Candlemon": {
+   "anim": {
+    "src": "assets/anim/Candlemon.png",
+    "cw": 49,
+    "ch": 52,
+    "refW": 40,
+    "refH": 55,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/Candlemon.png",
+   "hit": "assets/fx/Fx_Candlemon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Candlemon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Candlemon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Candlemon.png"
+  },
+  "Cherrymon": {
+   "anim": {
+    "src": "assets/anim/Cherrymon.png",
+    "cw": 87,
+    "ch": 84,
+    "refW": 83,
+    "refH": 81,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/Cherrymon.png",
+   "proj": "assets/fx/Fx_Cherrymon_Attack_Projectile.png",
+   "sfxHit": "assets/sfx/Cherrymon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Cherrymon_sfxSkill.ogg",
+   "portrait": "assets/portrait/Cherrymon.png"
+  },
   "Koromon": {
    "anim": {
     "src": "assets/anim/Koromon.png",
@@ -3932,10 +7838,7 @@
     "attack": [
      12,
      13,
-     14,
-     15,
-     16,
-     17
+     14
     ]
    },
    "img": "assets/units/Mekanorimon.png",
@@ -5186,10 +9089,6 @@
    "img": "assets/units/WM_KingEtemon.png",
    "portrait": "assets/portrait/WM_KingEtemon.png"
   },
-  "WM_PetiMeramon": {
-   "img": "assets/units/WM_PetiMeramon.png",
-   "portrait": "assets/portrait/WM_PetiMeramon.png"
-  },
   "WM_Mistymon": {
    "img": "assets/units/WM_Mistymon.png",
    "portrait": "assets/portrait/WM_Mistymon.png"
@@ -5245,10 +9144,6 @@
   "WM_Darkdramon": {
    "img": "assets/units/WM_Darkdramon.png",
    "portrait": "assets/portrait/WM_Darkdramon.png"
-  },
-  "WM_Jyureimon": {
-   "img": "assets/units/WM_Jyureimon.png",
-   "portrait": "assets/portrait/WM_Jyureimon.png"
   },
   "WM_IceDevimon": {
    "img": "assets/units/WM_IceDevimon.png",
@@ -5957,6 +9852,74 @@
   "WM_ImperialdramonPM": {
    "img": "assets/units/WM_ImperialdramonPM.png",
    "portrait": "assets/portrait/WM_ImperialdramonPM.png"
+  },
+  "WM_Penmon": {
+   "img": "assets/units/WM_Penmon.png",
+   "portrait": "assets/portrait/WM_Penmon.png"
+  },
+  "WM_Vorvomon": {
+   "img": "assets/units/WM_Vorvomon.png",
+   "portrait": "assets/portrait/WM_Vorvomon.png"
+  },
+  "WM_Jazamon": {
+   "img": "assets/units/WM_Jazamon.png",
+   "portrait": "assets/portrait/WM_Jazamon.png"
+  },
+  "WM_SistermonBlanc": {
+   "img": "assets/units/WM_SistermonBlanc.png",
+   "portrait": "assets/portrait/WM_SistermonBlanc.png"
+  },
+  "WM_ArmaLizamon": {
+   "img": "assets/units/WM_ArmaLizamon.png",
+   "portrait": "assets/portrait/WM_ArmaLizamon.png"
+  },
+  "WM_MonarchLizamon": {
+   "img": "assets/units/WM_MonarchLizamon.png",
+   "portrait": "assets/portrait/WM_MonarchLizamon.png"
+  },
+  "WM_HeliosBoamon": {
+   "img": "assets/units/WM_HeliosBoamon.png",
+   "portrait": "assets/portrait/WM_HeliosBoamon.png"
+  },
+  "WM_Albatusmon": {
+   "img": "assets/units/WM_Albatusmon.png",
+   "portrait": "assets/portrait/WM_Albatusmon.png"
+  },
+  "WM_Atratusmon": {
+   "img": "assets/units/WM_Atratusmon.png",
+   "portrait": "assets/portrait/WM_Atratusmon.png"
+  },
+  "WM_RagnaLordmon": {
+   "img": "assets/units/WM_RagnaLordmon.png",
+   "portrait": "assets/portrait/WM_RagnaLordmon.png"
+  },
+  "WM_Volvemon": {
+   "img": "assets/units/WM_Volvemon.png",
+   "portrait": "assets/portrait/WM_Volvemon.png"
+  },
+  "WM_BeelStarmon": {
+   "img": "assets/units/WM_BeelStarmon.png",
+   "portrait": "assets/portrait/WM_BeelStarmon.png"
+  },
+  "WM_BeelStarmonXAntibody": {
+   "img": "assets/units/WM_BeelStarmonXAntibody.png",
+   "portrait": "assets/portrait/WM_BeelStarmonXAntibody.png"
+  },
+  "WM_Gabumonbondoffriendship": {
+   "img": "assets/units/WM_Gabumonbondoffriendship.png",
+   "portrait": "assets/portrait/WM_Gabumonbondoffriendship.png"
+  },
+  "WM_OmegamonAlterB": {
+   "img": "assets/units/WM_OmegamonAlterB.png",
+   "portrait": "assets/portrait/WM_OmegamonAlterB.png"
+  },
+  "WM_OmegamonAlterS": {
+   "img": "assets/units/WM_OmegamonAlterS.png",
+   "portrait": "assets/portrait/WM_OmegamonAlterS.png"
+  },
+  "WM_Agumonbondofcourage": {
+   "img": "assets/units/WM_Agumonbondofcourage.png",
+   "portrait": "assets/portrait/WM_Agumonbondofcourage.png"
   }
  },
  "sfx": {
