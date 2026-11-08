@@ -9940,6 +9940,283 @@
   "WM_Cernumonuser": {
    "img": "assets/units/WM_Cernumonuser.png",
    "portrait": "assets/portrait/WM_Cernumonuser.png"
+  },
+  "Lunamon_Rookie": {
+   "anim": {
+    "src": "assets/anim/Lunamon_Rookie.png",
+    "cw": 52,
+    "ch": 44,
+    "refW": 47,
+    "refH": 44,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Lunamon_Rookie.png",
+   "portrait": "assets/portrait/Lunamon_Rookie.png"
+  },
+  "Coronamon_Rookie": {
+   "anim": {
+    "src": "assets/anim/Coronamon_Rookie.png",
+    "cw": 53,
+    "ch": 50,
+    "refW": 43,
+    "refH": 44,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Coronamon_Rookie.png",
+   "portrait": "assets/portrait/Coronamon_Rookie.png"
+  },
+  "Lekismon": {
+   "anim": {
+    "src": "assets/anim/Lekismon.png",
+    "cw": 65,
+    "ch": 60,
+    "refW": 62,
+    "refH": 60,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Lekismon.png",
+   "portrait": "assets/portrait/Lekismon.png"
+  },
+  "Firamon": {
+   "anim": {
+    "src": "assets/anim/Firamon.png",
+    "cw": 79,
+    "ch": 70,
+    "refW": 70,
+    "refH": 60,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Firamon.png",
+   "portrait": "assets/portrait/Firamon.png"
+  },
+  "Crescemon": {
+   "anim": {
+    "src": "assets/anim/Crescemon.png",
+    "cw": 81,
+    "ch": 72,
+    "refW": 71,
+    "refH": 72,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Crescemon.png",
+   "portrait": "assets/portrait/Crescemon.png"
+  },
+  "Flaremon": {
+   "anim": {
+    "src": "assets/anim/Flaremon.png",
+    "cw": 82,
+    "ch": 72,
+    "refW": 81,
+    "refH": 72,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Flaremon.png",
+   "portrait": "assets/portrait/Flaremon.png"
+  },
+  "Apollomon": {
+   "anim": {
+    "src": "assets/anim/Apollomon.png",
+    "cw": 91,
+    "ch": 80,
+    "refW": 84,
+    "refH": 80,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12
+    ]
+   },
+   "img": "assets/units/Apollomon.png",
+   "portrait": "assets/portrait/Apollomon.png"
+  },
+  "Dianamon": {
+   "anim": {
+    "src": "assets/anim/Dianamon.png",
+    "cw": 102,
+    "ch": 89,
+    "refW": 82,
+    "refH": 84,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/Dianamon.png",
+   "portrait": "assets/portrait/Dianamon.png"
+  },
+  "GraceNovamon": {
+   "anim": {
+    "src": "assets/anim/GraceNovamon.png",
+    "cw": 105,
+    "ch": 90,
+    "refW": 100,
+    "refH": 90,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   "img": "assets/units/GraceNovamon.png",
+   "portrait": "assets/portrait/GraceNovamon.png"
   }
  },
  "sfx": {
