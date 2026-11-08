@@ -9920,6 +9920,18 @@
   "WM_Agumonbondofcourage": {
    "img": "assets/units/WM_Agumonbondofcourage.png",
    "portrait": "assets/portrait/WM_Agumonbondofcourage.png"
+  },
+  "WM_Lunamon": {
+   "img": "assets/units/WM_Lunamon.png",
+   "portrait": "assets/portrait/WM_Lunamon.png"
+  },
+  "WM_Airdramon": {
+   "img": "assets/units/WM_Airdramon.png",
+   "portrait": "assets/portrait/WM_Airdramon.png"
+  },
+  "WM_Grani": {
+   "img": "assets/units/WM_Grani.png",
+   "portrait": "assets/portrait/WM_Grani.png"
   }
  },
  "sfx": {
