@@ -10156,6 +10156,130 @@
    },
    "img": "assets/units/GraceNovamon.png",
    "portrait": "assets/portrait/GraceNovamon.png"
+  },
+  "WM_Mervamon": {
+   "img": "assets/units/WM_Mervamon.png",
+   "portrait": "assets/portrait/WM_Mervamon.png"
+  },
+  "ImperialdramonPM": {
+   "anim": {
+    "src": "assets/anim/ImperialdramonPM.png",
+    "cw": 103,
+    "ch": 90,
+    "refW": 101,
+    "refH": 90,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/ImperialdramonPM.png",
+   "portrait": "assets/portrait/ImperialdramonPM.png"
+  },
+  "Ogremon": {
+   "anim": {
+    "src": "assets/anim/Ogremon.png",
+    "cw": 73,
+    "ch": 60,
+    "refW": 62,
+    "refH": 60,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Ogremon.png",
+   "portrait": "assets/portrait/Ogremon.png"
+  },
+  "Omegamon": {
+   "anim": {
+    "src": "assets/anim/Omegamon.png",
+    "cw": 103,
+    "ch": 90,
+    "refW": 95,
+    "refH": 90,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Omegamon.png",
+   "portrait": "assets/portrait/Omegamon.png"
+  },
+  "BlitzGreymon": {
+   "anim": {
+    "src": "assets/anim/BlitzGreymon.png",
+    "cw": 97,
+    "ch": 82,
+    "refW": 96,
+    "refH": 80,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BlitzGreymon.png",
+   "portrait": "assets/portrait/BlitzGreymon.png"
+  },
+  "OmegamonZwart": {
+   "anim": {
+    "src": "assets/anim/OmegamonZwart.png",
+    "cw": 103,
+    "ch": 90,
+    "refW": 95,
+    "refH": 90,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/OmegamonZwart.png",
+   "portrait": "assets/portrait/OmegamonZwart.png"
   }
  },
  "sfx": {
