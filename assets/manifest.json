@@ -9950,23 +9950,16 @@
     "refH": 44,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Lunamon_Rookie.png",
@@ -9975,29 +9968,22 @@
   "Coronamon_Rookie": {
    "anim": {
     "src": "assets/anim/Coronamon_Rookie.png",
-    "cw": 53,
-    "ch": 50,
+    "cw": 50,
+    "ch": 46,
     "refW": 43,
     "refH": 44,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Coronamon_Rookie.png",
@@ -10012,23 +9998,16 @@
     "refH": 60,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Lekismon.png",
@@ -10038,28 +10017,21 @@
    "anim": {
     "src": "assets/anim/Firamon.png",
     "cw": 79,
-    "ch": 70,
+    "ch": 69,
     "refW": 70,
     "refH": 60,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Firamon.png",
@@ -10074,23 +10046,16 @@
     "refH": 72,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Crescemon.png",
@@ -10105,22 +10070,16 @@
     "refH": 72,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Flaremon.png",
@@ -10135,22 +10094,16 @@
     "refH": 80,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Apollomon.png",
@@ -10159,29 +10112,22 @@
   "Dianamon": {
    "anim": {
     "src": "assets/anim/Dianamon.png",
-    "cw": 102,
+    "cw": 91,
     "ch": 89,
     "refW": 82,
     "refH": 84,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/Dianamon.png",
@@ -10196,23 +10142,16 @@
     "refH": 90,
     "idle": [
      0,
-     1,
-     2,
-     3,
-     4,
-     5
+     1
     ],
     "move": [
-     6,
-     7,
-     8,
-     9
+     2,
+     3
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     4,
+     5,
+     6
     ]
    },
    "img": "assets/units/GraceNovamon.png",
