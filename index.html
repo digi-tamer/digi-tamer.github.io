@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-Pdyts5Bl.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-oL69aba7.css">
+    <script type="module" crossorigin src="./assets/index-DUWcegvJ.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BMXK5fAr.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -112,7 +112,9 @@
     </div>
 
     <div id="pause" class="overlay"><div class="panel"><h1>메뉴</h1><p class="dim" id="pause-sub">일시정지 중 · P 키로 계속</p>
-      <div class="pause-opts"><button id="btn-sound" class="btn navy">🔊 소리</button><button id="btn-full" class="btn navy">⛶ 전체 화면</button><button id="btn-help-in" class="btn navy">❔ 방법</button></div>
+      <div class="vol-rows"><div class="vol-row"><span>배경음</span><button type="button" class="vol-mute" id="vol-bgm-m" title="음소거"></button><input id="vol-bgm" type="range" min="0" max="100" step="5" aria-label="배경음"><b id="vol-bgm-v"></b></div>
+        <div class="vol-row"><span>효과음</span><button type="button" class="vol-mute" id="vol-sfx-m" title="음소거"></button><input id="vol-sfx" type="range" min="0" max="100" step="5" aria-label="효과음"><b id="vol-sfx-v"></b></div></div>
+      <div class="pause-opts"><button id="btn-full" class="btn navy">⛶ 전체 화면</button><button id="btn-help-in" class="btn navy">❔ 방법</button></div>
       <div class="start-actions"><button id="btn-resume" class="btn gold">계속하기</button><button id="btn-giveup" class="btn pink">포기하기</button></div></div></div>
     <div id="online" class="overlay"><div class="panel wide online-panel"><div class="panel-head"><h2 id="online-title">함께하기</h2><button id="online-close" class="x-btn" title="닫기">✕</button></div><div id="online-body"></div></div></div>
     <div id="net-toast"></div>
