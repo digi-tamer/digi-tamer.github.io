@@ -9944,7 +9944,7 @@
   "Lunamon_Rookie": {
    "anim": {
     "src": "assets/anim/Lunamon_Rookie.png",
-    "cw": 52,
+    "cw": 62,
     "ch": 44,
     "refW": 47,
     "refH": 44,
@@ -9968,7 +9968,7 @@
   "Coronamon_Rookie": {
    "anim": {
     "src": "assets/anim/Coronamon_Rookie.png",
-    "cw": 50,
+    "cw": 56,
     "ch": 46,
     "refW": 43,
     "refH": 44,
@@ -9992,7 +9992,7 @@
   "Lekismon": {
    "anim": {
     "src": "assets/anim/Lekismon.png",
-    "cw": 65,
+    "cw": 74,
     "ch": 60,
     "refW": 62,
     "refH": 60,
@@ -10016,7 +10016,7 @@
   "Firamon": {
    "anim": {
     "src": "assets/anim/Firamon.png",
-    "cw": 79,
+    "cw": 108,
     "ch": 69,
     "refW": 70,
     "refH": 60,
@@ -10040,7 +10040,7 @@
   "Crescemon": {
    "anim": {
     "src": "assets/anim/Crescemon.png",
-    "cw": 81,
+    "cw": 96,
     "ch": 72,
     "refW": 71,
     "refH": 72,
@@ -10064,7 +10064,7 @@
   "Flaremon": {
    "anim": {
     "src": "assets/anim/Flaremon.png",
-    "cw": 82,
+    "cw": 102,
     "ch": 72,
     "refW": 81,
     "refH": 72,
@@ -10088,7 +10088,7 @@
   "Apollomon": {
    "anim": {
     "src": "assets/anim/Apollomon.png",
-    "cw": 91,
+    "cw": 98,
     "ch": 80,
     "refW": 84,
     "refH": 80,
@@ -10112,7 +10112,7 @@
   "Dianamon": {
    "anim": {
     "src": "assets/anim/Dianamon.png",
-    "cw": 91,
+    "cw": 98,
     "ch": 89,
     "refW": 82,
     "refH": 84,
@@ -10136,7 +10136,7 @@
   "GraceNovamon": {
    "anim": {
     "src": "assets/anim/GraceNovamon.png",
-    "cw": 105,
+    "cw": 120,
     "ch": 90,
     "refW": 100,
     "refH": 90,
@@ -10164,7 +10164,7 @@
   "ImperialdramonPM": {
    "anim": {
     "src": "assets/anim/ImperialdramonPM.png",
-    "cw": 103,
+    "cw": 128,
     "ch": 90,
     "refW": 101,
     "refH": 90,
@@ -10188,7 +10188,7 @@
   "Ogremon": {
    "anim": {
     "src": "assets/anim/Ogremon.png",
-    "cw": 73,
+    "cw": 98,
     "ch": 60,
     "refW": 62,
     "refH": 60,
@@ -10212,7 +10212,7 @@
   "Omegamon": {
    "anim": {
     "src": "assets/anim/Omegamon.png",
-    "cw": 103,
+    "cw": 112,
     "ch": 90,
     "refW": 95,
     "refH": 90,
@@ -10236,7 +10236,7 @@
   "BlitzGreymon": {
    "anim": {
     "src": "assets/anim/BlitzGreymon.png",
-    "cw": 97,
+    "cw": 116,
     "ch": 82,
     "refW": 96,
     "refH": 80,
@@ -10260,7 +10260,7 @@
   "OmegamonZwart": {
    "anim": {
     "src": "assets/anim/OmegamonZwart.png",
-    "cw": 103,
+    "cw": 112,
     "ch": 90,
     "refW": 95,
     "refH": 90,
