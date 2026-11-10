@@ -10040,9 +10040,9 @@
   "Crescemon": {
    "anim": {
     "src": "assets/anim/Crescemon.png",
-    "cw": 96,
-    "ch": 72,
-    "refW": 71,
+    "cw": 86,
+    "ch": 76,
+    "refW": 70,
     "refH": 72,
     "idle": [
      0,
@@ -10112,8 +10112,8 @@
   "Dianamon": {
    "anim": {
     "src": "assets/anim/Dianamon.png",
-    "cw": 98,
-    "ch": 89,
+    "cw": 110,
+    "ch": 84,
     "refW": 82,
     "refH": 84,
     "idle": [
