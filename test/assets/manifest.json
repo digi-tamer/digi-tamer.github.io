@@ -10300,6 +10300,10 @@
   "WM_Lucemonfalldown": {
    "img": "assets/units/WM_Lucemonfalldown.png",
    "portrait": "assets/portrait/WM_Lucemonfalldown.png"
+  },
+  "WM_Beelzebumonblastkaihou": {
+   "img": "assets/units/WM_Beelzebumonblastkaihou.png",
+   "portrait": "assets/portrait/WM_Beelzebumonblastkaihou.png"
   }
  },
  "sfx": {
