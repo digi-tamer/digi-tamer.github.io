@@ -9944,10 +9944,10 @@
   "Lunamon_Rookie": {
    "anim": {
     "src": "assets/anim/Lunamon_Rookie.png",
-    "cw": 62,
-    "ch": 44,
-    "refW": 47,
-    "refH": 44,
+    "cw": 56,
+    "ch": 40,
+    "refW": 43,
+    "refH": 40,
     "idle": [
      0,
      1
@@ -9968,10 +9968,10 @@
   "Coronamon_Rookie": {
    "anim": {
     "src": "assets/anim/Coronamon_Rookie.png",
-    "cw": 56,
-    "ch": 46,
-    "refW": 43,
-    "refH": 44,
+    "cw": 50,
+    "ch": 42,
+    "refW": 39,
+    "refH": 40,
     "idle": [
      0,
      1
@@ -9992,10 +9992,10 @@
   "Lekismon": {
    "anim": {
     "src": "assets/anim/Lekismon.png",
-    "cw": 74,
-    "ch": 60,
-    "refW": 62,
-    "refH": 60,
+    "cw": 68,
+    "ch": 55,
+    "refW": 57,
+    "refH": 55,
     "idle": [
      0,
      1
@@ -10016,10 +10016,10 @@
   "Firamon": {
    "anim": {
     "src": "assets/anim/Firamon.png",
-    "cw": 108,
-    "ch": 69,
-    "refW": 70,
-    "refH": 60,
+    "cw": 92,
+    "ch": 55,
+    "refW": 56,
+    "refH": 48,
     "idle": [
      0,
      1
@@ -10040,10 +10040,10 @@
   "Crescemon": {
    "anim": {
     "src": "assets/anim/Crescemon.png",
-    "cw": 86,
-    "ch": 76,
-    "refW": 70,
-    "refH": 72,
+    "cw": 58,
+    "ch": 51,
+    "refW": 47,
+    "refH": 48,
     "idle": [
      0,
      1
@@ -10064,10 +10064,10 @@
   "Flaremon": {
    "anim": {
     "src": "assets/anim/Flaremon.png",
-    "cw": 102,
-    "ch": 72,
-    "refW": 81,
-    "refH": 72,
+    "cw": 80,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10088,10 +10088,10 @@
   "Apollomon": {
    "anim": {
     "src": "assets/anim/Apollomon.png",
-    "cw": 98,
-    "ch": 80,
-    "refW": 84,
-    "refH": 80,
+    "cw": 70,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10112,10 +10112,10 @@
   "Dianamon": {
    "anim": {
     "src": "assets/anim/Dianamon.png",
-    "cw": 110,
-    "ch": 84,
-    "refW": 82,
-    "refH": 84,
+    "cw": 74,
+    "ch": 56,
+    "refW": 55,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10136,10 +10136,10 @@
   "GraceNovamon": {
    "anim": {
     "src": "assets/anim/GraceNovamon.png",
-    "cw": 120,
-    "ch": 90,
-    "refW": 100,
-    "refH": 90,
+    "cw": 76,
+    "ch": 55,
+    "refW": 61,
+    "refH": 55,
     "idle": [
      0,
      1
@@ -10164,10 +10164,10 @@
   "ImperialdramonPM": {
    "anim": {
     "src": "assets/anim/ImperialdramonPM.png",
-    "cw": 128,
-    "ch": 90,
-    "refW": 101,
-    "refH": 90,
+    "cw": 82,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10188,10 +10188,10 @@
   "Ogremon": {
    "anim": {
     "src": "assets/anim/Ogremon.png",
-    "cw": 98,
-    "ch": 60,
-    "refW": 62,
-    "refH": 60,
+    "cw": 82,
+    "ch": 50,
+    "refW": 52,
+    "refH": 50,
     "idle": [
      0,
      1
@@ -10212,10 +10212,10 @@
   "Omegamon": {
    "anim": {
     "src": "assets/anim/Omegamon.png",
-    "cw": 112,
-    "ch": 90,
-    "refW": 95,
-    "refH": 90,
+    "cw": 70,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10236,10 +10236,10 @@
   "BlitzGreymon": {
    "anim": {
     "src": "assets/anim/BlitzGreymon.png",
-    "cw": 116,
-    "ch": 82,
-    "refW": 96,
-    "refH": 80,
+    "cw": 74,
+    "ch": 52,
+    "refW": 61,
+    "refH": 51,
     "idle": [
      0,
      1
@@ -10260,10 +10260,10 @@
   "OmegamonZwart": {
    "anim": {
     "src": "assets/anim/OmegamonZwart.png",
-    "cw": 112,
-    "ch": 90,
-    "refW": 95,
-    "refH": 90,
+    "cw": 70,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
     "idle": [
      0,
      1
@@ -10300,6 +10300,10 @@
   "WM_Lucemonfalldown": {
    "img": "assets/units/WM_Lucemonfalldown.png",
    "portrait": "assets/portrait/WM_Lucemonfalldown.png"
+  },
+  "WM_Beelzebumonblastkaihou": {
+   "img": "assets/units/WM_Beelzebumonblastkaihou.png",
+   "portrait": "assets/portrait/WM_Beelzebumonblastkaihou.png"
   }
  },
  "sfx": {
