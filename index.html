@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-D83koPMW.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CxLrHRqi.css">
+    <script type="module" crossorigin src="./assets/index-CNKKjMMw.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CqO49LW1.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -120,6 +120,10 @@
     <div id="online" class="overlay"><div class="panel wide online-panel"><div class="panel-head"><h2 id="online-title">함께하기</h2><button id="online-close" class="x-btn" title="닫기">✕</button></div><div id="online-body"></div></div></div>
     <div id="net-toast"></div>
     <div id="menu-modal" class="overlay"><div class="panel wide menu-panel"><div class="panel-head"><h2 id="mm-title"></h2><button id="mm-close" class="x-btn" title="닫기">✕</button></div><div id="mm-body"></div></div></div>
+    <div id="settings" class="overlay"><div class="panel"><div class="panel-head"><h2>설정</h2><button id="settings-close" class="x-btn" title="닫기">✕</button></div>
+      <div id="settings-vol"></div>
+      <div class="pause-opts"><button id="set-evo" class="btn navy">진화 BGM</button><button id="set-full" class="btn navy">⛶ 전체 화면</button></div>
+      <p class="dim small set-note">설정은 이 기기에 저장됩니다</p></div></div>
     <div id="end" class="overlay"></div>
 
     <div id="start" class="overlay show">
@@ -127,6 +131,7 @@
       <div class="start-hex"></div>
       <div class="start-shade"></div>
       <div id="version-badge"></div>
+      <button id="btn-settings" class="start-gear" title="설정" aria-label="설정">⚙</button>
       <button id="me-chip" class="me-chip" title="프로필">
         <span class="me-icon"><img data-img="digivice" alt=""></span>
         <span class="me-text"><span class="nick">테이머</span><span class="exp"><i class="exp-tag">EXP</i> <b>0</b></span></span>
