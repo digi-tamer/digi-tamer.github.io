@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="v/0.74.2/assets/index-DaL1ns3T.js"></script>
-    <link rel="stylesheet" crossorigin href="v/0.74.2/assets/index-CpSe8Jyh.css">
+    <script type="module" crossorigin src="v/0.75.4/assets/index-BwFIiRev.js"></script>
+    <link rel="stylesheet" crossorigin href="v/0.75.4/assets/index-CqO49LW1.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -30,9 +30,10 @@
       <div class="pill" id="pill-round"><span id="stage-info"></span></div>
       <div class="pill" id="pill-enemy" title="내 필드 적 수 / 패배 한도"><div class="pe-t"><span id="enemy-count"></span><span id="wave"></span></div><div class="gb"><i id="enemy-bar"></i></div></div>
       <div class="pill" id="pill-res">
-        <span class="r" id="res-wisps" title="데이터 (라운드마다 3개)"><span class="ico-t">✨</span><b id="wisps"></b></span>
-        <span class="r" title="목재"><img class="ico" id="wood-ico" alt=""><b id="wood"></b></span>
-        <span class="r" title="골드"><img class="ico" data-img="gold" alt=""><b id="gold"></b></span>
+        <span class="r" id="res-wisps" title="데이터 (라운드마다 3개)"><img class="ico pxi" src="assets/img/res_data.png" alt=""><b id="wisps"></b></span>
+        <span class="r" id="res-ult" title="궁극체 데이터 (가운데 「궁극체 소환」)" hidden><img class="ico pxi" src="assets/img/res_ult.png" alt=""><b id="ult-n"></b></span>
+        <span class="r" title="목재"><img class="ico pxi" id="wood-ico" alt=""><b id="wood"></b></span>
+        <span class="r" title="골드"><img class="ico pxi" src="assets/img/res_gold.png" alt=""><b id="gold"></b></span>
       </div>
       <button id="btn-pause" class="pill" title="메뉴 (P)">⏸</button>
     </header>
@@ -88,7 +89,7 @@
       <div id="dock">
         <button class="db" id="dk-gamble"><span class="ic">🎲</span>도박</button>
         <button class="db" id="dk-upgrade"><span class="ic">⚔️</span>강화<small id="dk-upg-lv"></small></button>
-        <button id="dk-summon"><img data-img="digivice" alt=""><span>뽑기</span><small id="dk-wisps"></small></button>
+        <button id="dk-summon"><img data-img="digivice" alt=""><span id="dk-summon-l">소환</span><small id="dk-wisps"></small></button>
         <button class="db" id="btn-book"><img class="ico" data-img="book" alt="">조합표</button>
         <button class="db" id="dk-bag"><span class="ic">🎒</span>가방<span id="dk-bag-n" class="badge" hidden></span></button>
       </div>
@@ -119,6 +120,10 @@
     <div id="online" class="overlay"><div class="panel wide online-panel"><div class="panel-head"><h2 id="online-title">함께하기</h2><button id="online-close" class="x-btn" title="닫기">✕</button></div><div id="online-body"></div></div></div>
     <div id="net-toast"></div>
     <div id="menu-modal" class="overlay"><div class="panel wide menu-panel"><div class="panel-head"><h2 id="mm-title"></h2><button id="mm-close" class="x-btn" title="닫기">✕</button></div><div id="mm-body"></div></div></div>
+    <div id="settings" class="overlay"><div class="panel"><div class="panel-head"><h2>설정</h2><button id="settings-close" class="x-btn" title="닫기">✕</button></div>
+      <div id="settings-vol"></div>
+      <div class="pause-opts"><button id="set-full" class="btn navy">⛶ 전체 화면</button></div>
+      <p class="dim small set-note">설정은 이 기기에 저장됩니다</p></div></div>
     <div id="end" class="overlay"></div>
 
     <div id="start" class="overlay show">
@@ -126,6 +131,7 @@
       <div class="start-hex"></div>
       <div class="start-shade"></div>
       <div id="version-badge"></div>
+      <button id="btn-settings" class="start-gear" title="설정" aria-label="설정">⚙</button>
       <button id="me-chip" class="me-chip" title="프로필">
         <span class="me-icon"><img data-img="digivice" alt=""></span>
         <span class="me-text"><span class="nick">테이머</span><span class="exp"><i class="exp-tag">EXP</i> <b>0</b></span></span>
