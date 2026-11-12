@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="v/0.75.5/assets/index-CXs54QmY.js"></script>
-    <link rel="stylesheet" crossorigin href="v/0.75.5/assets/index-B8ZRF1eQ.css">
+    <script type="module" crossorigin src="v/0.77.1/assets/index-DEvpDsCR.js"></script>
+    <link rel="stylesheet" crossorigin href="v/0.77.1/assets/index-kXtZXLu_.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -127,7 +127,7 @@
       <p class="dim small set-note">설정은 이 기기에 저장됩니다</p></div></div>
     <div id="end" class="overlay"></div>
 
-    <div id="start" class="overlay show">
+    <div id="start" class="overlay show booting">
       <div class="start-bg"></div>
       <div class="start-hex"></div>
       <div class="start-shade"></div>
@@ -137,6 +137,15 @@
         <span class="me-icon"><img data-img="digivice" alt=""></span>
         <span class="me-text"><span class="nick">테이머</span><span class="exp"><i class="exp-tag">EXP</i> <b>0</b></span></span>
       </button>
+      <div id="boot">
+        <div class="logo">
+          <span class="logo-en">DIGITAL MONSTER RANDOM DEFENSE</span>
+          <h1 class="logo-ko">디지 테이머</h1>
+          <span class="logo-sub">디지몬 랜덤 디펜스</span>
+        </div>
+        <div id="boot-text">에셋 불러오는 중…</div>
+        <div id="load-bar" aria-hidden="true"><i></i></div>
+      </div>
       <div class="start-wrap">
         <div class="start-art">
           <img class="cone" data-img="ui_cone" alt="">
@@ -153,7 +162,7 @@
             <h1 class="logo-ko">디지 테이머</h1>
             <span class="logo-sub">디지몬 랜덤 디펜스</span>
           </div>
-          <div id="loading">에셋 불러오는 중…</div>
+          <div id="loading"></div>
           <div class="main-menu">
             <button id="btn-solo" class="btn gold big" disabled><img data-img="ui_icPlay" alt="">혼자하기</button>
             <button id="btn-together" class="btn big" disabled><img data-img="ui_icPeople" alt="">함께하기</button>
