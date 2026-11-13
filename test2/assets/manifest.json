@@ -10324,6 +10324,10 @@
    },
    "img": "assets/units/Jewelbeemon.png",
    "portrait": "assets/portrait/Jewelbeemon.png"
+  },
+  "WM_Ryugumon": {
+   "img": "assets/units/WM_Ryugumon.png",
+   "portrait": "assets/portrait/WM_Ryugumon.png"
   }
  },
  "sfx": {
