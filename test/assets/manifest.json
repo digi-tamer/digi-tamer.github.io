@@ -10471,6 +10471,16 @@
   "elem_wood": "assets/img/elem_wood.png",
   "elem_water": "assets/img/elem_water.png",
   "elem_steel": "assets/img/elem_steel.png",
-  "elem_dark": "assets/img/elem_dark.png"
+  "elem_dark": "assets/img/elem_dark.png",
+  "elem_fire_anim": "assets/img/elem_fire_anim.png",
+  "elem_light_anim": "assets/img/elem_light_anim.png",
+  "elem_ice_anim": "assets/img/elem_ice_anim.png",
+  "elem_wind_anim": "assets/img/elem_wind_anim.png",
+  "elem_thunder_anim": "assets/img/elem_thunder_anim.png",
+  "elem_earth_anim": "assets/img/elem_earth_anim.png",
+  "elem_wood_anim": "assets/img/elem_wood_anim.png",
+  "elem_water_anim": "assets/img/elem_water_anim.png",
+  "elem_steel_anim": "assets/img/elem_steel_anim.png",
+  "elem_dark_anim": "assets/img/elem_dark_anim.png"
  }
 }
