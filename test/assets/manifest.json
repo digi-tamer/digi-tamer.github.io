@@ -10304,26 +10304,6 @@
   "WM_Beelzebumonblastkaihou": {
    "img": "assets/units/WM_Beelzebumonblastkaihou.png",
    "portrait": "assets/portrait/WM_Beelzebumonblastkaihou.png"
-  },
-  "Jewelbeemon": {
-   "anim": {
-    "src": "assets/anim/Jewelbeemon.png",
-    "cw": 44,
-    "ch": 82,
-    "refW": 44,
-    "refH": 82,
-    "idle": [
-     0
-    ],
-    "move": [
-     1
-    ],
-    "attack": [
-     2
-    ]
-   },
-   "img": "assets/units/Jewelbeemon.png",
-   "portrait": "assets/portrait/Jewelbeemon.png"
   }
  },
  "sfx": {
@@ -10481,54 +10461,6 @@
   "dv5": "assets/img/dv5.png",
   "dv6": "assets/img/dv6.png",
   "dv7": "assets/img/dv7.png",
-  "attr_unknown": "assets/img/attr_unknown.png",
-  "elem_fire": "assets/img/elem_fire.png",
-  "elem_light": "assets/img/elem_light.png",
-  "elem_ice": "assets/img/elem_ice.png",
-  "elem_wind": "assets/img/elem_wind.png",
-  "elem_thunder": "assets/img/elem_thunder.png",
-  "elem_earth": "assets/img/elem_earth.png",
-  "elem_wood": "assets/img/elem_wood.png",
-  "elem_water": "assets/img/elem_water.png",
-  "elem_steel": "assets/img/elem_steel.png",
-  "elem_dark": "assets/img/elem_dark.png",
-  "elem_fire_anim": "assets/img/elem_fire_anim.png",
-  "elem_light_anim": "assets/img/elem_light_anim.png",
-  "elem_ice_anim": "assets/img/elem_ice_anim.png",
-  "elem_wind_anim": "assets/img/elem_wind_anim.png",
-  "elem_thunder_anim": "assets/img/elem_thunder_anim.png",
-  "elem_earth_anim": "assets/img/elem_earth_anim.png",
-  "elem_wood_anim": "assets/img/elem_wood_anim.png",
-  "elem_water_anim": "assets/img/elem_water_anim.png",
-  "elem_steel_anim": "assets/img/elem_steel_anim.png",
-  "elem_dark_anim": "assets/img/elem_dark_anim.png",
-  "attrfx_vaccine": "assets/img/attrfx_vaccine.png",
-  "attrfx_vaccine_anim": "assets/img/attrfx_vaccine_anim.png",
-  "attrfx_data": "assets/img/attrfx_data.png",
-  "attrfx_data_anim": "assets/img/attrfx_data_anim.png",
-  "attrfx_virus": "assets/img/attrfx_virus.png",
-  "attrfx_virus_anim": "assets/img/attrfx_virus_anim.png",
-  "attrfx_unknown": "assets/img/attrfx_unknown.png",
-  "attrfx_unknown_anim": "assets/img/attrfx_unknown_anim.png",
-  "fld_nature_spirits": "assets/img/fld_nature_spirits.png",
-  "fld_deep_savers": "assets/img/fld_deep_savers.png",
-  "fld_nightmare_soldiers": "assets/img/fld_nightmare_soldiers.png",
-  "fld_wind_guardians": "assets/img/fld_wind_guardians.png",
-  "fld_metal_empire": "assets/img/fld_metal_empire.png",
-  "fld_virus_busters": "assets/img/fld_virus_busters.png",
-  "fld_dragons_roar": "assets/img/fld_dragons_roar.png",
-  "fld_jungle_troopers": "assets/img/fld_jungle_troopers.png",
-  "fld_nature_spirits_anim": "assets/img/fld_nature_spirits_anim.png",
-  "fld_deep_savers_anim": "assets/img/fld_deep_savers_anim.png",
-  "fld_nightmare_soldiers_anim": "assets/img/fld_nightmare_soldiers_anim.png",
-  "fld_wind_guardians_anim": "assets/img/fld_wind_guardians_anim.png",
-  "fld_metal_empire_anim": "assets/img/fld_metal_empire_anim.png",
-  "fld_unknown": "assets/img/fld_unknown.png",
-  "fld_unknown_anim": "assets/img/fld_unknown_anim.png",
-  "fld_dark_area": "assets/img/fld_dark_area.png",
-  "fld_dark_area_anim": "assets/img/fld_dark_area_anim.png",
-  "fld_virus_busters_anim": "assets/img/fld_virus_busters_anim.png",
-  "fld_dragons_roar_anim": "assets/img/fld_dragons_roar_anim.png",
-  "fld_jungle_troopers_anim": "assets/img/fld_jungle_troopers_anim.png"
+  "attr_unknown": "assets/img/attr_unknown.png"
  }
 }
