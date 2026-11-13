@@ -10304,6 +10304,26 @@
   "WM_Beelzebumonblastkaihou": {
    "img": "assets/units/WM_Beelzebumonblastkaihou.png",
    "portrait": "assets/portrait/WM_Beelzebumonblastkaihou.png"
+  },
+  "Jewelbeemon": {
+   "anim": {
+    "src": "assets/anim/Jewelbeemon.png",
+    "cw": 44,
+    "ch": 82,
+    "refW": 44,
+    "refH": 82,
+    "idle": [
+     0
+    ],
+    "move": [
+     1
+    ],
+    "attack": [
+     2
+    ]
+   },
+   "img": "assets/units/Jewelbeemon.png",
+   "portrait": "assets/portrait/Jewelbeemon.png"
   }
  },
  "sfx": {
