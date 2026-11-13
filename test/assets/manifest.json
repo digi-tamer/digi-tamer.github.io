@@ -10509,6 +10509,14 @@
   "attrfx_virus": "assets/img/attrfx_virus.png",
   "attrfx_virus_anim": "assets/img/attrfx_virus_anim.png",
   "attrfx_unknown": "assets/img/attrfx_unknown.png",
-  "attrfx_unknown_anim": "assets/img/attrfx_unknown_anim.png"
+  "attrfx_unknown_anim": "assets/img/attrfx_unknown_anim.png",
+  "fld_nature_spirits": "assets/img/fld_nature_spirits.png",
+  "fld_deep_savers": "assets/img/fld_deep_savers.png",
+  "fld_nightmare_soldiers": "assets/img/fld_nightmare_soldiers.png",
+  "fld_wind_guardians": "assets/img/fld_wind_guardians.png",
+  "fld_metal_empire": "assets/img/fld_metal_empire.png",
+  "fld_virus_busters": "assets/img/fld_virus_busters.png",
+  "fld_dragons_roar": "assets/img/fld_dragons_roar.png",
+  "fld_jungle_troopers": "assets/img/fld_jungle_troopers.png"
  }
 }
