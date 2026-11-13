@@ -10481,6 +10481,14 @@
   "elem_wood_anim": "assets/img/elem_wood_anim.png",
   "elem_water_anim": "assets/img/elem_water_anim.png",
   "elem_steel_anim": "assets/img/elem_steel_anim.png",
-  "elem_dark_anim": "assets/img/elem_dark_anim.png"
+  "elem_dark_anim": "assets/img/elem_dark_anim.png",
+  "attrfx_vaccine": "assets/img/attrfx_vaccine.png",
+  "attrfx_vaccine_anim": "assets/img/attrfx_vaccine_anim.png",
+  "attrfx_data": "assets/img/attrfx_data.png",
+  "attrfx_data_anim": "assets/img/attrfx_data_anim.png",
+  "attrfx_virus": "assets/img/attrfx_virus.png",
+  "attrfx_virus_anim": "assets/img/attrfx_virus_anim.png",
+  "attrfx_unknown": "assets/img/attrfx_unknown.png",
+  "attrfx_unknown_anim": "assets/img/attrfx_unknown_anim.png"
  }
 }
