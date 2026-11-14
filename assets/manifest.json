@@ -14712,6 +14712,52 @@
    },
    "img": "assets/units/OD_vbdm_hisyaryu.png",
    "portrait": "assets/portrait/OD_vbdm_hisyaryu.png"
+  },
+  "OD_vbdm_justi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_justi.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 56,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_justi.png",
+   "portrait": "assets/portrait/OD_vbdm_justi.png"
+  },
+  "OD_vbdm_kuzuha_m": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_kuzuha_m.png",
+    "cw": 54,
+    "ch": 54,
+    "refW": 51,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_kuzuha_m.png",
+   "portrait": "assets/portrait/OD_vbdm_kuzuha_m.png"
   }
  },
  "sfx": {
