@@ -5177,10 +5177,7 @@
     "idle": [
      0,
      1,
-     2,
-     3,
-     4,
-     5
+     2
     ],
     "move": [
      6,
@@ -6307,7 +6304,7 @@
    "anim": {
     "src": "assets/anim/Bakemon.png",
     "cw": 78,
-    "ch": 58,
+    "ch": 59,
     "refW": 66,
     "refH": 55,
     "idle": [
@@ -7529,7 +7526,7 @@
    "anim": {
     "src": "assets/anim/Keramon.png",
     "cw": 66,
-    "ch": 58,
+    "ch": 59,
     "refW": 56,
     "refH": 56,
     "idle": [
