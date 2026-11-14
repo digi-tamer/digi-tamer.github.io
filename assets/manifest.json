@@ -9968,7 +9968,7 @@
   "Coronamon_Rookie": {
    "anim": {
     "src": "assets/anim/Coronamon_Rookie.png",
-    "cw": 50,
+    "cw": 48,
     "ch": 42,
     "refW": 39,
     "refH": 40,
@@ -9992,7 +9992,7 @@
   "Lekismon": {
    "anim": {
     "src": "assets/anim/Lekismon.png",
-    "cw": 68,
+    "cw": 66,
     "ch": 55,
     "refW": 57,
     "refH": 55,
@@ -10016,7 +10016,7 @@
   "Firamon": {
    "anim": {
     "src": "assets/anim/Firamon.png",
-    "cw": 70,
+    "cw": 68,
     "ch": 55,
     "refW": 56,
     "refH": 48,
@@ -10040,7 +10040,7 @@
   "Crescemon": {
    "anim": {
     "src": "assets/anim/Crescemon.png",
-    "cw": 64,
+    "cw": 62,
     "ch": 51,
     "refW": 47,
     "refH": 48,
@@ -10064,7 +10064,7 @@
   "Flaremon": {
    "anim": {
     "src": "assets/anim/Flaremon.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -10088,7 +10088,7 @@
   "Apollomon": {
    "anim": {
     "src": "assets/anim/Apollomon.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 59,
     "refH": 56,
@@ -10164,7 +10164,7 @@
   "ImperialdramonPM": {
    "anim": {
     "src": "assets/anim/ImperialdramonPM.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -10236,7 +10236,7 @@
   "BlitzGreymon": {
    "anim": {
     "src": "assets/anim/BlitzGreymon.png",
-    "cw": 72,
+    "cw": 70,
     "ch": 52,
     "refW": 61,
     "refH": 51,
@@ -10332,7 +10332,7 @@
   "DukemonCM_VB": {
    "anim": {
     "src": "assets/anim/DukemonCM_VB.png",
-    "cw": 70,
+    "cw": 68,
     "ch": 56,
     "refW": 60,
     "refH": 56,
@@ -10404,7 +10404,7 @@
   "GrapLeomon_VB": {
    "anim": {
     "src": "assets/anim/GrapLeomon_VB.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 56,
     "refH": 56,
@@ -10452,7 +10452,7 @@
   "GrandisKuwagamon_VB": {
    "anim": {
     "src": "assets/anim/GrandisKuwagamon_VB.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 62,
     "refH": 56,
@@ -10476,7 +10476,7 @@
   "SakuyamonMiko_VB": {
    "anim": {
     "src": "assets/anim/SakuyamonMiko_VB.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 55,
     "refW": 56,
     "refH": 54,
@@ -10572,7 +10572,7 @@
   "Valdurmon_VB": {
    "anim": {
     "src": "assets/anim/Valdurmon_VB.png",
-    "cw": 80,
+    "cw": 78,
     "ch": 56,
     "refW": 62,
     "refH": 56,
@@ -10620,7 +10620,7 @@
   "Mystimon_VB": {
    "anim": {
     "src": "assets/anim/Mystimon_VB.png",
-    "cw": 80,
+    "cw": 78,
     "ch": 49,
     "refW": 34,
     "refH": 43,
@@ -10644,7 +10644,7 @@
   "Veedramon_VB": {
    "anim": {
     "src": "assets/anim/Veedramon_VB.png",
-    "cw": 60,
+    "cw": 58,
     "ch": 51,
     "refW": 45,
     "refH": 48,
@@ -10668,7 +10668,7 @@
   "AeroVeedramon_VB": {
    "anim": {
     "src": "assets/anim/AeroVeedramon_VB.png",
-    "cw": 64,
+    "cw": 62,
     "ch": 52,
     "refW": 56,
     "refH": 50,
@@ -10692,7 +10692,7 @@
   "UlforceVeedramon_VB": {
    "anim": {
     "src": "assets/anim/UlforceVeedramon_VB.png",
-    "cw": 70,
+    "cw": 68,
     "ch": 56,
     "refW": 56,
     "refH": 56,
@@ -10716,7 +10716,7 @@
   "UlforceVeedramonFM_VB": {
    "anim": {
     "src": "assets/anim/UlforceVeedramonFM_VB.png",
-    "cw": 78,
+    "cw": 76,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -10812,7 +10812,7 @@
   "Antylamon_VB": {
    "anim": {
     "src": "assets/anim/Antylamon_VB.png",
-    "cw": 66,
+    "cw": 64,
     "ch": 56,
     "refW": 44,
     "refH": 56,
@@ -10836,7 +10836,7 @@
   "CherubimonGood_VB": {
    "anim": {
     "src": "assets/anim/CherubimonGood_VB.png",
-    "cw": 76,
+    "cw": 74,
     "ch": 56,
     "refW": 59,
     "refH": 56,
@@ -10860,7 +10860,7 @@
   "MailBirdramon_VB": {
    "anim": {
     "src": "assets/anim/MailBirdramon_VB.png",
-    "cw": 66,
+    "cw": 64,
     "ch": 46,
     "refW": 56,
     "refH": 45,
@@ -10884,7 +10884,7 @@
   "RustTyranomon_VB": {
    "anim": {
     "src": "assets/anim/RustTyranomon_VB.png",
-    "cw": 78,
+    "cw": 76,
     "ch": 56,
     "refW": 64,
     "refH": 56,
@@ -10908,7 +10908,7 @@
   "WarGreymonX_VB": {
    "anim": {
     "src": "assets/anim/WarGreymonX_VB.png",
-    "cw": 64,
+    "cw": 62,
     "ch": 56,
     "refW": 54,
     "refH": 56,
@@ -10932,7 +10932,7 @@
   "Goddramon_VB": {
    "anim": {
     "src": "assets/anim/Goddramon_VB.png",
-    "cw": 90,
+    "cw": 88,
     "ch": 56,
     "refW": 64,
     "refH": 56,
@@ -10956,7 +10956,7 @@
   "OmegamonMerciful_VB": {
    "anim": {
     "src": "assets/anim/OmegamonMerciful_VB.png",
-    "cw": 84,
+    "cw": 82,
     "ch": 56,
     "refW": 64,
     "refH": 56,
@@ -10980,7 +10980,7 @@
   "BeelzemonX_VB": {
    "anim": {
     "src": "assets/anim/BeelzemonX_VB.png",
-    "cw": 78,
+    "cw": 76,
     "ch": 56,
     "refW": 64,
     "refH": 56,
@@ -11004,7 +11004,7 @@
   "Kudamon_VB": {
    "anim": {
     "src": "assets/anim/Kudamon_VB.png",
-    "cw": 84,
+    "cw": 82,
     "ch": 41,
     "refW": 42,
     "refH": 38,
@@ -11028,7 +11028,7 @@
   "DukemonX_VB": {
    "anim": {
     "src": "assets/anim/DukemonX_VB.png",
-    "cw": 70,
+    "cw": 68,
     "ch": 56,
     "refW": 60,
     "refH": 56,
@@ -11052,7 +11052,7 @@
   "Mastemon_VB": {
    "anim": {
     "src": "assets/anim/Mastemon_VB.png",
-    "cw": 68,
+    "cw": 66,
     "ch": 56,
     "refW": 60,
     "refH": 56,
@@ -11076,7 +11076,7 @@
   "Mervamon_VB": {
    "anim": {
     "src": "assets/anim/Mervamon_VB.png",
-    "cw": 72,
+    "cw": 70,
     "ch": 56,
     "refW": 58,
     "refH": 56,
@@ -11100,7 +11100,7 @@
   "BanchoLilimon_VB": {
    "anim": {
     "src": "assets/anim/BanchoLilimon_VB.png",
-    "cw": 68,
+    "cw": 66,
     "ch": 56,
     "refW": 49,
     "refH": 56,
@@ -11124,7 +11124,7 @@
   "CoredramonB_VB": {
    "anim": {
     "src": "assets/anim/CoredramonB_VB.png",
-    "cw": 66,
+    "cw": 64,
     "ch": 53,
     "refW": 54,
     "refH": 48,
@@ -11148,7 +11148,7 @@
   "BanchoStingmon_VB": {
    "anim": {
     "src": "assets/anim/BanchoStingmon_VB.png",
-    "cw": 84,
+    "cw": 82,
     "ch": 56,
     "refW": 55,
     "refH": 56,
@@ -11244,7 +11244,7 @@
   "OmegamonAlterB_VB": {
    "anim": {
     "src": "assets/anim/OmegamonAlterB_VB.png",
-    "cw": 72,
+    "cw": 70,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -11268,7 +11268,7 @@
   "OmegamonAlterS_VB": {
    "anim": {
     "src": "assets/anim/OmegamonAlterS_VB.png",
-    "cw": 72,
+    "cw": 70,
     "ch": 56,
     "refW": 59,
     "refH": 55,
@@ -11292,7 +11292,7 @@
   "BeelzemonC_VB": {
    "anim": {
     "src": "assets/anim/BeelzemonC_VB.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 56,
     "refW": 61,
     "refH": 56,
@@ -11340,7 +11340,7 @@
   "Leviamon_VB": {
    "anim": {
     "src": "assets/anim/Leviamon_VB.png",
-    "cw": 70,
+    "cw": 68,
     "ch": 56,
     "refW": 61,
     "refH": 56,
@@ -11364,7 +11364,7 @@
   "Zephyrmon_VB": {
    "anim": {
     "src": "assets/anim/Zephyrmon_VB.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 55,
     "refW": 53,
     "refH": 55,
@@ -11388,7 +11388,7 @@
   "Airdramon_VB": {
    "anim": {
     "src": "assets/anim/Airdramon_VB.png",
-    "cw": 82,
+    "cw": 80,
     "ch": 56,
     "refW": 62,
     "refH": 54,
