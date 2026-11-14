@@ -14713,29 +14713,6 @@
    "img": "assets/units/OD_vbdm_hisyaryu.png",
    "portrait": "assets/portrait/OD_vbdm_hisyaryu.png"
   },
-  "OD_vbdm_grappuleo": {
-   "anim": {
-    "src": "assets/anim/OD_vbdm_grappuleo.png",
-    "cw": 58,
-    "ch": 56,
-    "refW": 56,
-    "refH": 56,
-    "idle": [
-     0,
-     1
-    ],
-    "move": [
-     0,
-     1
-    ],
-    "attack": [
-     0,
-     1
-    ]
-   },
-   "img": "assets/units/OD_vbdm_grappuleo.png",
-   "portrait": "assets/portrait/OD_vbdm_grappuleo.png"
-  },
   "OD_vbdm_justi": {
    "anim": {
     "src": "assets/anim/OD_vbdm_justi.png",
