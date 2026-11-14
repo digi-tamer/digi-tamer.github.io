@@ -12758,29 +12758,6 @@
    "img": "assets/units/OD_vbbe_belialvamde.png",
    "portrait": "assets/portrait/OD_vbbe_belialvamde.png"
   },
-  "OD_vbbe_beta_d": {
-   "anim": {
-    "src": "assets/anim/OD_vbbe_beta_d.png",
-    "cw": 52,
-    "ch": 36,
-    "refW": 48,
-    "refH": 36,
-    "idle": [
-     0,
-     1
-    ],
-    "move": [
-     0,
-     1
-    ],
-    "attack": [
-     0,
-     1
-    ]
-   },
-   "img": "assets/units/OD_vbbe_beta_d.png",
-   "portrait": "assets/portrait/OD_vbbe_beta_d.png"
-  },
   "OD_vbbe_belphe_r": {
    "anim": {
     "src": "assets/anim/OD_vbbe_belphe_r.png",
