@@ -14759,29 +14759,6 @@
    "img": "assets/units/OD_vbdm_justi.png",
    "portrait": "assets/portrait/OD_vbdm_justi.png"
   },
-  "OD_dac_qinglong": {
-   "anim": {
-    "src": "assets/anim/OD_dac_qinglong.png",
-    "cw": 76,
-    "ch": 53,
-    "refW": 62,
-    "refH": 53,
-    "idle": [
-     0,
-     1
-    ],
-    "move": [
-     0,
-     1
-    ],
-    "attack": [
-     0,
-     1
-    ]
-   },
-   "img": "assets/units/OD_dac_qinglong.png",
-   "portrait": "assets/portrait/OD_dac_qinglong.png"
-  },
   "OD_vbdm_kuzuha_m": {
    "anim": {
     "src": "assets/anim/OD_vbdm_kuzuha_m.png",
