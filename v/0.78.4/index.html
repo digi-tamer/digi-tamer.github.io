@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="ko">
+  <head><base href="../../">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="디지 테이머" />
+    <meta name="application-name" content="디지 테이머" />
+    <meta name="theme-color" content="#151a2a" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" rel="stylesheet" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+    <title>디지 테이머 · 랜덤 디펜스</title>
+    <script type="module" crossorigin src="v/0.78.4/assets/index-BmneZCxa.js"></script>
+    <link rel="stylesheet" crossorigin href="v/0.78.4/assets/index-DZLSOgZ2.css">
+  </head>
+  <body>
+    <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
+    <div id="wrap">
+    <div id="stage">
+    <canvas id="view"></canvas>
+
+    <!-- 위: 라운드 · 적 수 · 재화 · 메뉴 -->
+    <header id="topbar">
+      <div class="pill" id="pill-round"><span id="stage-info"></span></div>
+      <div class="pill" id="pill-enemy" title="내 필드 적 수 / 패배 한도"><div class="pe-t"><span id="enemy-count"></span><span id="wave"></span></div><div class="gb"><i id="enemy-bar"></i></div></div>
+      <div class="pill" id="pill-res">
+        <span class="r" id="res-wisps" title="데이터 (라운드마다 3개)"><img class="ico pxi" src="assets/img/res_data.png" alt=""><b id="wisps"></b></span>
+        <span class="r" id="res-ult" title="궁극체 데이터 (가운데 「궁극체 소환」)" hidden><img class="ico pxi" src="assets/img/res_ult.png" alt=""><b id="ult-n"></b></span>
+        <span class="r" title="목재"><img class="ico pxi" id="wood-ico" alt=""><b id="wood"></b></span>
+        <span class="r" title="골드"><img class="ico pxi" src="assets/img/res_gold.png" alt=""><b id="gold"></b></span>
+      </div>
+      <button id="btn-pause" class="pill" title="메뉴 (P)">⏸</button>
+    </header>
+    <!-- 그 아래: 라인이면 보스 칩, 파일섬이면 보스 체력 + 구역 넘기기 -->
+    <div id="ctx">
+      <div id="bosses"></div>
+      <div id="zonebar" hidden>
+        <div id="zb-switch"><button id="zb-prev" class="pill"></button><div id="zb-dots"></div><button id="zb-next" class="pill"></button></div>
+        <div id="zb-boss"></div>
+      </div>
+    </div>
+    <div id="guide"><div id="g-island" class="g-line"></div><div id="g-target" class="g-line"></div></div>
+    <!-- 오른쪽: 화면 바꾸기 (나 · 파일섬 · 다른 플레이어) -->
+    <nav id="players"></nav>
+    <div id="danger"></div>
+    <div id="groups"></div>
+    <div id="chat-log"></div>
+    <div id="chat-box">
+      <div class="chat-row"><input id="chat-input" type="text" maxlength="120" autocomplete="off" enterkeyhint="send" placeholder="메시지 · Enter 보내기 · -명령어" /><button id="chat-close" type="button">✕</button></div>
+      <div id="chat-quick"></div>
+    </div>
+    <div id="messages"></div>
+    <div id="boss-banner"></div>
+    <div id="announce"></div>
+    <div id="mode"></div>
+    <button id="boss-focus" class="btn pink" hidden></button>
+    <button id="coop-arrow" hidden></button>
+    <button id="recall-btn" class="btn navy" hidden></button>
+
+    <!-- 선택한 디지몬 · 적 정보 (아래 도크 위에 뜬다) -->
+    <section id="info-card" hidden><div id="info"></div><div id="commands"></div><div id="card-send"></div></section>
+    <!-- 내 디지몬 목록 (열고 닫는 시트) -->
+    <section id="roster" class="sheet">
+      <div class="rs-head"><b>내 디지몬</b><span id="rs-count" class="dim"></span><span id="rs-ready" class="rs-badge" hidden></span><button id="rs-close" class="x-btn" title="닫기">✕</button></div>
+      <div id="rs-list"></div>
+      <div id="rs-send"><div class="rs-send-h"><span id="rs-send-n">디지몬을 골라서 보내기 (＋로 여러 종류)</span></div>
+        <div class="rs-send-b"><button data-to="lane" title="내 라인으로">🌿<small>라인</small></button><button data-to="story" title="스토리 보스 구역">📖<small>스토리</small></button><button data-to="boss" title="파일섬 보스 구역">👑<small>섬보스</small></button><button data-to="sea" title="심해 던전">🌊<small>심해</small></button><button data-to="tower" title="어둠의 탑">🗼<small>탑</small></button><button data-to="pouch" title="대기 (싸우지 않고 조합 재료로만)">💤<small>대기</small></button></div></div>
+      <div class="rs-foot"><button id="rs-boss" class="btn pink small">⚔ 보스 집중</button><button id="rs-raid" class="btn small" title="라인을 지킬 화력은 남기고, 남는 디지몬을 섬 보스(없으면 스토리 보스)에게">🏝 공격대</button></div>
+      <div id="rs-pouch" class="rs-foot" hidden><button id="rs-store-weak" class="btn navy small" title="라인의 성장기 · 성숙기를 대기로 (조합 재료로는 그대로)">💤 성장기 · 성숙기 대기</button><button id="rs-out-all" class="btn small" title="대기 중인 디지몬을 모두 라인의 내 자리로">↩ 모두 출전</button></div>
+    </section>
+    <!-- 도박 · 강화 시트 -->
+    <section id="sheet" class="sheet"><div class="sh-head"><b id="sheet-title"></b><button id="sheet-close" class="x-btn" title="닫기">✕</button></div><div id="sheet-body"></div></section>
+
+    <!-- 아래: 도크 -->
+    <footer id="hud">
+      <div id="hud-row">
+        <button id="btn-roster" class="pill"><span class="ic">📋</span><span id="br-label">전체</span><span id="br-ready" class="rs-badge" hidden></span></button>
+        <div id="wisp-row"></div>
+        <button id="btn-skip" type="button" class="pill skip-pill" hidden title="다음 라운드 바로 시작"><span class="sk-ic">⏭</span><b id="skip-label">스킵</b></button>
+        <button id="btn-chat" class="pill" title="채팅 (Enter)">💬</button>
+      </div>
+      <!-- 내 디지몬 카드덱 (종류별 한 장 · 유년기는 개수만) -->
+      <div id="deck"></div>
+      <!-- 가로 · 함께하기: 플레이어 라인 버튼 (위쪽 탭 줄 대신 사이드바에) -->
+      <div id="side-players" hidden></div>
+      <div id="dock">
+        <button class="db" id="dk-gamble"><span class="ic">🎲</span>도박</button>
+        <button class="db" id="dk-upgrade"><span class="ic">⚔️</span>강화<small id="dk-upg-lv"></small></button>
+        <button id="dk-summon"><img data-img="digivice" alt=""><span id="dk-summon-l">소환</span><small id="dk-wisps"></small></button>
+        <button class="db" id="btn-book"><img class="ico" data-img="book" alt="">조합표</button>
+        <button class="db" id="dk-bag"><span class="ic">🎒</span>가방<span id="dk-bag-n" class="badge" hidden></span></button>
+      </div>
+      <div id="minimap-wrap" hidden><canvas id="minimap"></canvas></div>
+    </footer>
+
+    <div id="tooltip"></div>
+
+    <div id="book" class="overlay">
+      <div class="panel wide">
+        <div class="panel-head"><h2>조합표</h2><button class="x-btn" title="닫기 (T)" onclick="document.getElementById('btn-book').click()">✕</button></div>
+        <div id="book-body"></div>
+      </div>
+    </div>
+
+    <div id="picker" class="overlay">
+      <div class="panel wide">
+        <div class="panel-head"><h2 id="picker-title">선택권</h2><button id="picker-close" class="x-btn" title="닫기 (Esc)">✕</button></div>
+        <div id="picker-body"></div>
+      </div>
+    </div>
+
+    <div id="pause" class="overlay"><div class="panel"><h1>메뉴</h1><p class="dim" id="pause-sub">일시정지 중 · P 키로 계속</p>
+      <div class="vol-rows"><div class="vol-row"><span>배경음</span><button type="button" class="vol-mute" id="vol-bgm-m" title="음소거"></button><input id="vol-bgm" type="range" min="0" max="100" step="5" aria-label="배경음"><b id="vol-bgm-v"></b></div>
+        <div class="vol-row"><span>효과음</span><button type="button" class="vol-mute" id="vol-sfx-m" title="음소거"></button><input id="vol-sfx" type="range" min="0" max="100" step="5" aria-label="효과음"><b id="vol-sfx-v"></b></div>
+        <div class="vol-row orient-row" id="orient-row" hidden><span>화면</span><div class="seg orient-seg"><button type="button" data-o="any"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 4a8 8 0 0 1 7.4 5M20 4v5h-5M12 20a8 8 0 0 1-7.4-5M4 20v-5h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>자동</button><button type="button" data-o="portrait"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="10" y="17.5" width="4" height="1.6" rx="0.8" fill="currentColor"/></svg>세로</button><button type="button" data-o="landscape"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="2.5" y="7" width="19" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="17.5" y="10" width="1.6" height="4" rx="0.8" fill="currentColor"/></svg>가로</button></div></div></div>
+      <div class="pause-opts"><button id="btn-full" class="btn navy">⛶ 전체 화면</button><button id="btn-help-in" class="btn navy">❔ 방법</button></div>
+      <div class="start-actions"><button id="btn-resume" class="btn gold">계속하기</button><button id="btn-giveup" class="btn pink">포기하기</button></div></div></div>
+    <div id="online" class="overlay"><div class="panel wide online-panel"><div class="panel-head"><h2 id="online-title">함께하기</h2><button id="online-close" class="x-btn" title="닫기">✕</button></div><div id="online-body"></div></div></div>
+    <div id="net-toast"></div>
+    <div id="menu-modal" class="overlay"><div class="panel wide menu-panel"><div class="panel-head"><h2 id="mm-title"></h2><button id="mm-close" class="x-btn" title="닫기">✕</button></div><div id="mm-body"></div></div></div>
+    <div id="settings" class="overlay"><div class="panel"><div class="panel-head"><h2>설정</h2><button id="settings-close" class="x-btn" title="닫기">✕</button></div>
+      <div id="settings-vol"></div>
+      <div class="pause-opts"><button id="set-full" class="btn navy">⛶ 전체 화면</button></div>
+      <p class="dim small set-note">설정은 이 기기에 저장됩니다</p></div></div>
+    <div id="end" class="overlay"></div>
+
+    <div id="start" class="overlay show booting">
+      <div class="start-bg"></div>
+      <div class="start-hex"></div>
+      <div class="start-shade"></div>
+      <div id="version-badge"></div>
+      <button id="btn-settings" class="start-gear" title="설정" aria-label="설정">⚙</button>
+      <button id="me-chip" class="me-chip" title="프로필">
+        <span class="me-icon"><img data-img="digivice" alt=""></span>
+        <span class="me-text"><span class="nick">테이머</span><span class="exp"><i class="exp-tag">EXP</i> <b>0</b></span></span>
+      </button>
+      <div id="boot">
+        <div class="logo">
+          <span class="logo-en">DIGITAL MONSTER RANDOM DEFENSE</span>
+          <h1 class="logo-ko">디지 테이머</h1>
+          <span class="logo-sub">디지몬 랜덤 디펜스</span>
+        </div>
+        <div id="boot-text">에셋 불러오는 중…</div>
+        <div id="load-bar" aria-hidden="true"><i></i></div>
+      </div>
+      <div class="start-wrap">
+        <div class="start-art">
+          <img class="cone" data-img="ui_cone" alt="">
+          <img class="isl isl2" data-img="island2" alt="">
+          <img class="isl isl1" data-img="island" alt="">
+          <img class="isl isl3" data-img="island3" alt="">
+          <img class="ring" data-img="ui_ring" alt="">
+          <img class="glow" data-img="ui_glow" alt="">
+          <img class="dv" data-img="digivice" alt="">
+        </div>
+        <div class="start-menu">
+          <div class="logo">
+            <span class="logo-en">DIGITAL MONSTER RANDOM DEFENSE</span>
+            <h1 class="logo-ko">디지 테이머</h1>
+            <span class="logo-sub">디지몬 랜덤 디펜스</span>
+          </div>
+          <div id="loading"></div>
+          <div class="main-menu">
+            <button id="btn-solo" class="btn gold big" disabled><img data-img="ui_icPlay" alt="">혼자하기</button>
+            <button id="btn-coop" class="btn green big" disabled><span class="ic-emoji">🤝</span>협동하기</button>
+            <button id="btn-together" class="btn big" disabled><img data-img="ui_icPeople" alt="">함께하기</button>
+            <div class="menu-row">
+              <button id="btn-shop" class="btn purple"><img data-img="ui_ruby" alt="">유물</button>
+              <button id="btn-codex" class="btn green"><span class="ic-emoji">📖</span>도감</button>
+              <button id="btn-rank" class="btn gold"><img data-img="ui_icStar" alt="">랭킹</button>
+              <button id="btn-help" class="btn navy"><img data-img="ui_icHelp" alt="">방법</button>
+            </div>
+            <button id="btn-install" class="btn green install" hidden>📲 앱으로 설치</button>
+          </div>
+          <p id="install-hint" class="dim small" hidden>아이폰/아이패드: Safari 하단 <b>공유</b> 버튼 → <b>홈 화면에 추가</b></p>
+        </div>
+      </div>
+      <p class="start-foot">비영리 팬게임 · 원작 맵 디지몬 랜덤 디펜스 R3.11 · 디지몬UP · 바이탈 브레스 · Wikimon<br>디지몬 관련 권리는 원저작권자에게 있습니다 · <button id="btn-credits" class="foot-link">크레딧 ›</button></p>
+    </div>
+
+    </div>
+    </div>
+    <div id="rotate"><div class="phone"></div><div>화면을 <b>세로</b>로 회전</div><small>디지 테이머는 세로 화면 전용</small></div>
+  </body>
+</html>
