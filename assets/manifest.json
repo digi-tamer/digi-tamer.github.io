@@ -9944,7 +9944,7 @@
   "Lunamon_Rookie": {
    "anim": {
     "src": "assets/anim/Lunamon_Rookie.png",
-    "cw": 56,
+    "cw": 52,
     "ch": 40,
     "refW": 43,
     "refH": 40,
@@ -10016,7 +10016,7 @@
   "Firamon": {
    "anim": {
     "src": "assets/anim/Firamon.png",
-    "cw": 92,
+    "cw": 70,
     "ch": 55,
     "refW": 56,
     "refH": 48,
@@ -10040,7 +10040,7 @@
   "Crescemon": {
    "anim": {
     "src": "assets/anim/Crescemon.png",
-    "cw": 58,
+    "cw": 64,
     "ch": 51,
     "refW": 47,
     "refH": 48,
@@ -10064,7 +10064,7 @@
   "Flaremon": {
    "anim": {
     "src": "assets/anim/Flaremon.png",
-    "cw": 80,
+    "cw": 74,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -10088,7 +10088,7 @@
   "Apollomon": {
    "anim": {
     "src": "assets/anim/Apollomon.png",
-    "cw": 70,
+    "cw": 74,
     "ch": 56,
     "refW": 59,
     "refH": 56,
@@ -10112,7 +10112,7 @@
   "Dianamon": {
    "anim": {
     "src": "assets/anim/Dianamon.png",
-    "cw": 74,
+    "cw": 66,
     "ch": 56,
     "refW": 55,
     "refH": 56,
@@ -10136,7 +10136,7 @@
   "GraceNovamon": {
    "anim": {
     "src": "assets/anim/GraceNovamon.png",
-    "cw": 76,
+    "cw": 80,
     "ch": 55,
     "refW": 61,
     "refH": 55,
@@ -10164,7 +10164,7 @@
   "ImperialdramonPM": {
    "anim": {
     "src": "assets/anim/ImperialdramonPM.png",
-    "cw": 82,
+    "cw": 74,
     "ch": 56,
     "refW": 63,
     "refH": 56,
@@ -10188,7 +10188,7 @@
   "Ogremon": {
    "anim": {
     "src": "assets/anim/Ogremon.png",
-    "cw": 82,
+    "cw": 76,
     "ch": 50,
     "refW": 52,
     "refH": 50,
@@ -10212,10 +10212,10 @@
   "Omegamon": {
    "anim": {
     "src": "assets/anim/Omegamon.png",
-    "cw": 70,
+    "cw": 74,
     "ch": 56,
-    "refW": 59,
-    "refH": 56,
+    "refW": 54,
+    "refH": 55,
     "idle": [
      0,
      1
@@ -10236,7 +10236,7 @@
   "BlitzGreymon": {
    "anim": {
     "src": "assets/anim/BlitzGreymon.png",
-    "cw": 74,
+    "cw": 72,
     "ch": 52,
     "refW": 61,
     "refH": 51,
@@ -10260,7 +10260,7 @@
   "OmegamonZwart": {
    "anim": {
     "src": "assets/anim/OmegamonZwart.png",
-    "cw": 70,
+    "cw": 74,
     "ch": 56,
     "refW": 59,
     "refH": 56,
@@ -10305,25 +10305,1109 @@
    "img": "assets/units/WM_Beelzebumonblastkaihou.png",
    "portrait": "assets/portrait/WM_Beelzebumonblastkaihou.png"
   },
-  "Jewelbeemon": {
+  "Alphamon_VB": {
    "anim": {
-    "src": "assets/anim/Jewelbeemon.png",
-    "cw": 44,
-    "ch": 82,
-    "refW": 44,
-    "refH": 82,
+    "src": "assets/anim/Alphamon_VB.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 50,
+    "refH": 56,
     "idle": [
-     0
-    ],
-    "move": [
+     0,
      1
     ],
+    "move": [
+     2,
+     3
+    ],
     "attack": [
-     2
+     4,
+     5,
+     6
     ]
    },
-   "img": "assets/units/Jewelbeemon.png",
-   "portrait": "assets/portrait/Jewelbeemon.png"
+   "img": "assets/units/Alphamon_VB.png",
+   "portrait": "assets/portrait/Alphamon_VB.png"
+  },
+  "DukemonCM_VB": {
+   "anim": {
+    "src": "assets/anim/DukemonCM_VB.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 60,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/DukemonCM_VB.png",
+   "portrait": "assets/portrait/DukemonCM_VB.png"
+  },
+  "Ophanimon_VB": {
+   "anim": {
+    "src": "assets/anim/Ophanimon_VB.png",
+    "cw": 76,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Ophanimon_VB.png",
+   "portrait": "assets/portrait/Ophanimon_VB.png"
+  },
+  "Ophanimon_VB2": {
+   "anim": {
+    "src": "assets/anim/Ophanimon_VB2.png",
+    "cw": 76,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Ophanimon_VB2.png",
+   "portrait": "assets/portrait/Ophanimon_VB2.png"
+  },
+  "GrapLeomon_VB": {
+   "anim": {
+    "src": "assets/anim/GrapLeomon_VB.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 56,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/GrapLeomon_VB.png",
+   "portrait": "assets/portrait/GrapLeomon_VB.png"
+  },
+  "GranKuwagamon_VB": {
+   "anim": {
+    "src": "assets/anim/GranKuwagamon_VB.png",
+    "cw": 68,
+    "ch": 56,
+    "refW": 61,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/GranKuwagamon_VB.png",
+   "portrait": "assets/portrait/GranKuwagamon_VB.png"
+  },
+  "GrandisKuwagamon_VB": {
+   "anim": {
+    "src": "assets/anim/GrandisKuwagamon_VB.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 62,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/GrandisKuwagamon_VB.png",
+   "portrait": "assets/portrait/GrandisKuwagamon_VB.png"
+  },
+  "SakuyamonMiko_VB": {
+   "anim": {
+    "src": "assets/anim/SakuyamonMiko_VB.png",
+    "cw": 74,
+    "ch": 55,
+    "refW": 56,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/SakuyamonMiko_VB.png",
+   "portrait": "assets/portrait/SakuyamonMiko_VB.png"
+  },
+  "Qinglongmon_VB": {
+   "anim": {
+    "src": "assets/anim/Qinglongmon_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 63,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Qinglongmon_VB.png",
+   "portrait": "assets/portrait/Qinglongmon_VB.png"
+  },
+  "Qinglongmon_VB2": {
+   "anim": {
+    "src": "assets/anim/Qinglongmon_VB2.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 63,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Qinglongmon_VB2.png",
+   "portrait": "assets/portrait/Qinglongmon_VB2.png"
+  },
+  "Huanglongmon_VB": {
+   "anim": {
+    "src": "assets/anim/Huanglongmon_VB.png",
+    "cw": 78,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Huanglongmon_VB.png",
+   "portrait": "assets/portrait/Huanglongmon_VB.png"
+  },
+  "Valdurmon_VB": {
+   "anim": {
+    "src": "assets/anim/Valdurmon_VB.png",
+    "cw": 80,
+    "ch": 56,
+    "refW": 62,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Valdurmon_VB.png",
+   "portrait": "assets/portrait/Valdurmon_VB.png"
+  },
+  "AlphamonOuryuken_VB": {
+   "anim": {
+    "src": "assets/anim/AlphamonOuryuken_VB.png",
+    "cw": 68,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/AlphamonOuryuken_VB.png",
+   "portrait": "assets/portrait/AlphamonOuryuken_VB.png"
+  },
+  "Mystimon_VB": {
+   "anim": {
+    "src": "assets/anim/Mystimon_VB.png",
+    "cw": 80,
+    "ch": 49,
+    "refW": 34,
+    "refH": 43,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Mystimon_VB.png",
+   "portrait": "assets/portrait/Mystimon_VB.png"
+  },
+  "Veedramon_VB": {
+   "anim": {
+    "src": "assets/anim/Veedramon_VB.png",
+    "cw": 60,
+    "ch": 51,
+    "refW": 45,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Veedramon_VB.png",
+   "portrait": "assets/portrait/Veedramon_VB.png"
+  },
+  "AeroVeedramon_VB": {
+   "anim": {
+    "src": "assets/anim/AeroVeedramon_VB.png",
+    "cw": 64,
+    "ch": 52,
+    "refW": 56,
+    "refH": 50,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/AeroVeedramon_VB.png",
+   "portrait": "assets/portrait/AeroVeedramon_VB.png"
+  },
+  "UlforceVeedramon_VB": {
+   "anim": {
+    "src": "assets/anim/UlforceVeedramon_VB.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 56,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/UlforceVeedramon_VB.png",
+   "portrait": "assets/portrait/UlforceVeedramon_VB.png"
+  },
+  "UlforceVeedramonFM_VB": {
+   "anim": {
+    "src": "assets/anim/UlforceVeedramonFM_VB.png",
+    "cw": 78,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/UlforceVeedramonFM_VB.png",
+   "portrait": "assets/portrait/UlforceVeedramonFM_VB.png"
+  },
+  "Gaioumon_VB": {
+   "anim": {
+    "src": "assets/anim/Gaioumon_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Gaioumon_VB.png",
+   "portrait": "assets/portrait/Gaioumon_VB.png"
+  },
+  "Minervamon_VB": {
+   "anim": {
+    "src": "assets/anim/Minervamon_VB.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 55,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Minervamon_VB.png",
+   "portrait": "assets/portrait/Minervamon_VB.png"
+  },
+  "TigerVespamon_VB": {
+   "anim": {
+    "src": "assets/anim/TigerVespamon_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/TigerVespamon_VB.png",
+   "portrait": "assets/portrait/TigerVespamon_VB.png"
+  },
+  "Antylamon_VB": {
+   "anim": {
+    "src": "assets/anim/Antylamon_VB.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 44,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Antylamon_VB.png",
+   "portrait": "assets/portrait/Antylamon_VB.png"
+  },
+  "CherubimonGood_VB": {
+   "anim": {
+    "src": "assets/anim/CherubimonGood_VB.png",
+    "cw": 76,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/CherubimonGood_VB.png",
+   "portrait": "assets/portrait/CherubimonGood_VB.png"
+  },
+  "MailBirdramon_VB": {
+   "anim": {
+    "src": "assets/anim/MailBirdramon_VB.png",
+    "cw": 66,
+    "ch": 46,
+    "refW": 56,
+    "refH": 45,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/MailBirdramon_VB.png",
+   "portrait": "assets/portrait/MailBirdramon_VB.png"
+  },
+  "RustTyranomon_VB": {
+   "anim": {
+    "src": "assets/anim/RustTyranomon_VB.png",
+    "cw": 78,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/RustTyranomon_VB.png",
+   "portrait": "assets/portrait/RustTyranomon_VB.png"
+  },
+  "WarGreymonX_VB": {
+   "anim": {
+    "src": "assets/anim/WarGreymonX_VB.png",
+    "cw": 64,
+    "ch": 56,
+    "refW": 54,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/WarGreymonX_VB.png",
+   "portrait": "assets/portrait/WarGreymonX_VB.png"
+  },
+  "Goddramon_VB": {
+   "anim": {
+    "src": "assets/anim/Goddramon_VB.png",
+    "cw": 90,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Goddramon_VB.png",
+   "portrait": "assets/portrait/Goddramon_VB.png"
+  },
+  "OmegamonMerciful_VB": {
+   "anim": {
+    "src": "assets/anim/OmegamonMerciful_VB.png",
+    "cw": 84,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/OmegamonMerciful_VB.png",
+   "portrait": "assets/portrait/OmegamonMerciful_VB.png"
+  },
+  "BeelzemonX_VB": {
+   "anim": {
+    "src": "assets/anim/BeelzemonX_VB.png",
+    "cw": 78,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BeelzemonX_VB.png",
+   "portrait": "assets/portrait/BeelzemonX_VB.png"
+  },
+  "Kudamon_VB": {
+   "anim": {
+    "src": "assets/anim/Kudamon_VB.png",
+    "cw": 84,
+    "ch": 41,
+    "refW": 42,
+    "refH": 38,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Kudamon_VB.png",
+   "portrait": "assets/portrait/Kudamon_VB.png"
+  },
+  "DukemonX_VB": {
+   "anim": {
+    "src": "assets/anim/DukemonX_VB.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 60,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/DukemonX_VB.png",
+   "portrait": "assets/portrait/DukemonX_VB.png"
+  },
+  "Mastemon_VB": {
+   "anim": {
+    "src": "assets/anim/Mastemon_VB.png",
+    "cw": 68,
+    "ch": 56,
+    "refW": 60,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Mastemon_VB.png",
+   "portrait": "assets/portrait/Mastemon_VB.png"
+  },
+  "Mervamon_VB": {
+   "anim": {
+    "src": "assets/anim/Mervamon_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 58,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Mervamon_VB.png",
+   "portrait": "assets/portrait/Mervamon_VB.png"
+  },
+  "BanchoLilimon_VB": {
+   "anim": {
+    "src": "assets/anim/BanchoLilimon_VB.png",
+    "cw": 68,
+    "ch": 56,
+    "refW": 49,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BanchoLilimon_VB.png",
+   "portrait": "assets/portrait/BanchoLilimon_VB.png"
+  },
+  "CoredramonB_VB": {
+   "anim": {
+    "src": "assets/anim/CoredramonB_VB.png",
+    "cw": 66,
+    "ch": 53,
+    "refW": 54,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/CoredramonB_VB.png",
+   "portrait": "assets/portrait/CoredramonB_VB.png"
+  },
+  "BanchoStingmon_VB": {
+   "anim": {
+    "src": "assets/anim/BanchoStingmon_VB.png",
+    "cw": 84,
+    "ch": 56,
+    "refW": 55,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BanchoStingmon_VB.png",
+   "portrait": "assets/portrait/BanchoStingmon_VB.png"
+  },
+  "MetalTyranomon_VB": {
+   "anim": {
+    "src": "assets/anim/MetalTyranomon_VB.png",
+    "cw": 62,
+    "ch": 50,
+    "refW": 59,
+    "refH": 50,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/MetalTyranomon_VB.png",
+   "portrait": "assets/portrait/MetalTyranomon_VB.png"
+  },
+  "Beelstarmon_VB": {
+   "anim": {
+    "src": "assets/anim/Beelstarmon_VB.png",
+    "cw": 78,
+    "ch": 53,
+    "refW": 53,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Beelstarmon_VB.png",
+   "portrait": "assets/portrait/Beelstarmon_VB.png"
+  },
+  "BeelstarmonX_VB": {
+   "anim": {
+    "src": "assets/anim/BeelstarmonX_VB.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BeelstarmonX_VB.png",
+   "portrait": "assets/portrait/BeelstarmonX_VB.png"
+  },
+  "OmegamonAlterB_VB": {
+   "anim": {
+    "src": "assets/anim/OmegamonAlterB_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/OmegamonAlterB_VB.png",
+   "portrait": "assets/portrait/OmegamonAlterB_VB.png"
+  },
+  "OmegamonAlterS_VB": {
+   "anim": {
+    "src": "assets/anim/OmegamonAlterS_VB.png",
+    "cw": 72,
+    "ch": 56,
+    "refW": 59,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/OmegamonAlterS_VB.png",
+   "portrait": "assets/portrait/OmegamonAlterS_VB.png"
+  },
+  "BeelzemonC_VB": {
+   "anim": {
+    "src": "assets/anim/BeelzemonC_VB.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/BeelzemonC_VB.png",
+   "portrait": "assets/portrait/BeelzemonC_VB.png"
+  },
+  "Jewelbeemon_VB": {
+   "anim": {
+    "src": "assets/anim/Jewelbeemon_VB.png",
+    "cw": 82,
+    "ch": 56,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Jewelbeemon_VB.png",
+   "portrait": "assets/portrait/Jewelbeemon_VB.png"
+  },
+  "Leviamon_VB": {
+   "anim": {
+    "src": "assets/anim/Leviamon_VB.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Leviamon_VB.png",
+   "portrait": "assets/portrait/Leviamon_VB.png"
+  },
+  "Zephyrmon_VB": {
+   "anim": {
+    "src": "assets/anim/Zephyrmon_VB.png",
+    "cw": 74,
+    "ch": 55,
+    "refW": 53,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Zephyrmon_VB.png",
+   "portrait": "assets/portrait/Zephyrmon_VB.png"
+  },
+  "Airdramon_VB": {
+   "anim": {
+    "src": "assets/anim/Airdramon_VB.png",
+    "cw": 82,
+    "ch": 56,
+    "refW": 62,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5,
+     6
+    ]
+   },
+   "img": "assets/units/Airdramon_VB.png",
+   "portrait": "assets/portrait/Airdramon_VB.png"
   }
  },
  "sfx": {
