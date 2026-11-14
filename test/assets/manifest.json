@@ -11357,6 +11357,26 @@
    },
    "img": "assets/units/Airdramon_VB.png",
    "portrait": "assets/portrait/Airdramon_VB.png"
+  },
+  "OmegamonZwartDefeat": {
+   "anim": {
+    "src": "assets/anim/OmegamonZwartDefeat.png",
+    "cw": 64,
+    "ch": 80,
+    "refW": 64,
+    "refH": 80,
+    "idle": [
+     0
+    ],
+    "move": [
+     1
+    ],
+    "attack": [
+     2
+    ]
+   },
+   "img": "assets/units/OmegamonZwartDefeat.png",
+   "portrait": "assets/portrait/OmegamonZwartDefeat.png"
   }
  },
  "sfx": {
