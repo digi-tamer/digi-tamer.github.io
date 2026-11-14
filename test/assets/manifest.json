@@ -5419,23 +5419,7 @@
      11,
      12,
      13
-    ],
-    "left": {
-     "src": "assets/anim/Imperialdramon_FighterMode_L.png",
-     "cw": 156,
-     "ch": 111,
-     "refW": 110,
-     "refH": 97,
-     "idle": [
-      0
-     ],
-     "move": [
-      2
-     ],
-     "attack": [
-      5
-     ]
-    }
+    ]
    },
    "img": "assets/units/Imperialdramon_FighterMode.png",
    "hit": "assets/fx/Fx_Imperialdramon_FighterMode_Attack_Hit.png",
