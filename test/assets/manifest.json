@@ -3,7 +3,7 @@
   "Botamon": {
    "anim": {
     "src": "assets/anim/Botamon.png",
-    "cw": 37,
+    "cw": 42,
     "ch": 32,
     "refW": 35,
     "refH": 28,
@@ -41,7 +41,7 @@
   "Chibomon": {
    "anim": {
     "src": "assets/anim/Chibomon.png",
-    "cw": 42,
+    "cw": 50,
     "ch": 38,
     "refW": 39,
     "refH": 32,
@@ -80,7 +80,7 @@
   "Choromon": {
    "anim": {
     "src": "assets/anim/Choromon.png",
-    "cw": 49,
+    "cw": 60,
     "ch": 38,
     "refW": 41,
     "refH": 34,
@@ -117,7 +117,7 @@
   "Cotsucomon": {
    "anim": {
     "src": "assets/anim/Cotsucomon.png",
-    "cw": 43,
+    "cw": 48,
     "ch": 39,
     "refW": 40,
     "refH": 33,
@@ -148,7 +148,7 @@
   "Jyarimon": {
    "anim": {
     "src": "assets/anim/Jyarimon.png",
-    "cw": 40,
+    "cw": 52,
     "ch": 38,
     "refW": 35,
     "refH": 34,
@@ -184,7 +184,7 @@
   "Kuramon": {
    "anim": {
     "src": "assets/anim/Kuramon.png",
-    "cw": 39,
+    "cw": 44,
     "ch": 32,
     "refW": 34,
     "refH": 29,
@@ -219,7 +219,7 @@
   "Leafmon": {
    "anim": {
     "src": "assets/anim/Leafmon.png",
-    "cw": 43,
+    "cw": 56,
     "ch": 45,
     "refW": 42,
     "refH": 41,
@@ -255,7 +255,7 @@
   "Nyokimon": {
    "anim": {
     "src": "assets/anim/Nyokimon.png",
-    "cw": 38,
+    "cw": 48,
     "ch": 44,
     "refW": 35,
     "refH": 41,
@@ -268,12 +268,11 @@
      3
     ],
     "attack": [
-     4,
-     5
+     4
     ],
     "left": {
      "src": "assets/anim/Nyokimon_L.png",
-     "cw": 39,
+     "cw": 48,
      "ch": 45,
      "refW": 35,
      "refH": 41,
@@ -312,7 +311,7 @@
   "Pabumon": {
    "anim": {
     "src": "assets/anim/Pabumon.png",
-    "cw": 40,
+    "cw": 46,
     "ch": 38,
     "refW": 39,
     "refH": 36,
@@ -341,7 +340,7 @@
     ],
     "left": {
      "src": "assets/anim/Pabumon_L.png",
-     "cw": 37,
+     "cw": 44,
      "ch": 30,
      "refW": 39,
      "refH": 36,
@@ -367,7 +366,7 @@
   "Pichimon": {
    "anim": {
     "src": "assets/anim/Pichimon.png",
-    "cw": 39,
+    "cw": 44,
     "ch": 43,
     "refW": 37,
     "refH": 40,
@@ -397,7 +396,7 @@
   "Poyomon": {
    "anim": {
     "src": "assets/anim/Poyomon.png",
-    "cw": 41,
+    "cw": 48,
     "ch": 45,
     "refW": 40,
     "refH": 37,
@@ -433,7 +432,7 @@
   "Punimon": {
    "anim": {
     "src": "assets/anim/Punimon.png",
-    "cw": 43,
+    "cw": 50,
     "ch": 35,
     "refW": 41,
     "refH": 31,
@@ -470,7 +469,7 @@
   "Pupumon": {
    "anim": {
     "src": "assets/anim/Pupumon.png",
-    "cw": 39,
+    "cw": 46,
     "ch": 43,
     "refW": 38,
     "refH": 40,
@@ -501,7 +500,7 @@
   "Pururumon": {
    "anim": {
     "src": "assets/anim/Pururumon.png",
-    "cw": 44,
+    "cw": 46,
     "ch": 33,
     "refW": 40,
     "refH": 26,
@@ -542,7 +541,7 @@
   "Puwamon": {
    "anim": {
     "src": "assets/anim/Puwamon.png",
-    "cw": 46,
+    "cw": 58,
     "ch": 42,
     "refW": 46,
     "refH": 38,
@@ -575,7 +574,7 @@
   "Relemon": {
    "anim": {
     "src": "assets/anim/Relemon.png",
-    "cw": 48,
+    "cw": 56,
     "ch": 32,
     "refW": 44,
     "refH": 24,
@@ -604,7 +603,7 @@
     ],
     "left": {
      "src": "assets/anim/Relemon_L.png",
-     "cw": 46,
+     "cw": 50,
      "ch": 33,
      "refW": 44,
      "refH": 24,
@@ -633,7 +632,7 @@
   "Sakumon": {
    "anim": {
     "src": "assets/anim/Sakumon.png",
-    "cw": 40,
+    "cw": 46,
     "ch": 47,
     "refW": 35,
     "refH": 44,
@@ -656,7 +655,7 @@
     ],
     "left": {
      "src": "assets/anim/Sakumon_L.png",
-     "cw": 43,
+     "cw": 54,
      "ch": 35,
      "refW": 35,
      "refH": 44,
@@ -681,7 +680,7 @@
   "Tsubumon": {
    "anim": {
     "src": "assets/anim/Tsubumon.png",
-    "cw": 35,
+    "cw": 42,
     "ch": 41,
     "refW": 34,
     "refH": 39,
@@ -718,7 +717,7 @@
   "YukimiBotamon": {
    "anim": {
     "src": "assets/anim/YukimiBotamon.png",
-    "cw": 39,
+    "cw": 44,
     "ch": 31,
     "refW": 35,
     "refH": 29,
@@ -746,7 +745,7 @@
     ],
     "left": {
      "src": "assets/anim/YukimiBotamon_L.png",
-     "cw": 38,
+     "cw": 42,
      "ch": 31,
      "refW": 35,
      "refH": 29,
@@ -775,7 +774,7 @@
   "Yuramon": {
    "anim": {
     "src": "assets/anim/Yuramon.png",
-    "cw": 39,
+    "cw": 48,
     "ch": 41,
     "refW": 35,
     "refH": 36,
@@ -812,7 +811,7 @@
   "Zerimon": {
    "anim": {
     "src": "assets/anim/Zerimon.png",
-    "cw": 49,
+    "cw": 70,
     "ch": 40,
     "refW": 47,
     "refH": 33,
@@ -849,7 +848,7 @@
   "Budmon": {
    "anim": {
     "src": "assets/anim/Budmon.png",
-    "cw": 51,
+    "cw": 64,
     "ch": 30,
     "refW": 45,
     "refH": 27,
@@ -882,7 +881,7 @@
   "Cupimon": {
    "anim": {
     "src": "assets/anim/Cupimon.png",
-    "cw": 33,
+    "cw": 42,
     "ch": 40,
     "refW": 32,
     "refH": 37,
@@ -919,7 +918,7 @@
   "DemiVeemon": {
    "anim": {
     "src": "assets/anim/DemiVeemon.png",
-    "cw": 42,
+    "cw": 56,
     "ch": 47,
     "refW": 39,
     "refH": 42,
@@ -955,7 +954,7 @@
   "Gummymon": {
    "anim": {
     "src": "assets/anim/Gummymon.png",
-    "cw": 46,
+    "cw": 52,
     "ch": 45,
     "refW": 37,
     "refH": 42,
@@ -992,7 +991,7 @@
   "Kakkinmon": {
    "anim": {
     "src": "assets/anim/Kakkinmon.png",
-    "cw": 41,
+    "cw": 48,
     "ch": 42,
     "refW": 40,
     "refH": 41,
@@ -1026,7 +1025,7 @@
   "Minomon": {
    "anim": {
     "src": "assets/anim/Minomon.png",
-    "cw": 36,
+    "cw": 44,
     "ch": 39,
     "refW": 31,
     "refH": 38,
@@ -1062,7 +1061,7 @@
   "Missimon": {
    "anim": {
     "src": "assets/anim/Missimon.png",
-    "cw": 46,
+    "cw": 54,
     "ch": 40,
     "refW": 42,
     "refH": 40,
@@ -1098,7 +1097,7 @@
   "Pinamon": {
    "anim": {
     "src": "assets/anim/Pinamon.png",
-    "cw": 45,
+    "cw": 48,
     "ch": 39,
     "refW": 40,
     "refH": 37,
@@ -1134,7 +1133,7 @@
   "Poromon": {
    "anim": {
     "src": "assets/anim/Poromon.png",
-    "cw": 46,
+    "cw": 48,
     "ch": 45,
     "refW": 40,
     "refH": 40,
@@ -1163,7 +1162,7 @@
     ],
     "left": {
      "src": "assets/anim/Poromon_L.png",
-     "cw": 46,
+     "cw": 48,
      "ch": 43,
      "refW": 40,
      "refH": 40,
@@ -1191,7 +1190,7 @@
   "Sakuttomon": {
    "anim": {
     "src": "assets/anim/Sakuttomon.png",
-    "cw": 41,
+    "cw": 48,
     "ch": 42,
     "refW": 41,
     "refH": 40,
@@ -1225,7 +1224,7 @@
   "Tsumemon": {
    "anim": {
     "src": "assets/anim/Tsumemon.png",
-    "cw": 59,
+    "cw": 72,
     "ch": 55,
     "refW": 55,
     "refH": 49,
@@ -1260,7 +1259,7 @@
   "Tumblemon": {
    "anim": {
     "src": "assets/anim/Tumblemon.png",
-    "cw": 44,
+    "cw": 54,
     "ch": 42,
     "refW": 37,
     "refH": 40,
@@ -1296,7 +1295,7 @@
   "Upamon": {
    "anim": {
     "src": "assets/anim/Upamon.png",
-    "cw": 41,
+    "cw": 46,
     "ch": 27,
     "refW": 40,
     "refH": 24,
@@ -1333,7 +1332,7 @@
   "Viximon": {
    "anim": {
     "src": "assets/anim/Viximon.png",
-    "cw": 44,
+    "cw": 56,
     "ch": 42,
     "refW": 40,
     "refH": 41,
@@ -1368,7 +1367,7 @@
   "Lalamon": {
    "anim": {
     "src": "assets/anim/Lalamon.png",
-    "cw": 49,
+    "cw": 62,
     "ch": 59,
     "refW": 41,
     "refH": 57,
@@ -1402,7 +1401,7 @@
   "Crabmon": {
    "anim": {
     "src": "assets/anim/Crabmon.png",
-    "cw": 56,
+    "cw": 64,
     "ch": 41,
     "refW": 52,
     "refH": 38,
@@ -1432,7 +1431,7 @@
     ],
     "left": {
      "src": "assets/anim/Crabmon_L.png",
-     "cw": 60,
+     "cw": 74,
      "ch": 39,
      "refW": 52,
      "refH": 38,
@@ -1459,7 +1458,7 @@
   "Dracmon": {
    "anim": {
     "src": "assets/anim/Dracmon.png",
-    "cw": 52,
+    "cw": 58,
     "ch": 56,
     "refW": 49,
     "refH": 51,
@@ -1481,12 +1480,11 @@
      10,
      11,
      12,
-     13,
-     14
+     13
     ],
     "left": {
      "src": "assets/anim/Dracmon_L.png",
-     "cw": 49,
+     "cw": 54,
      "ch": 52,
      "refW": 49,
      "refH": 51,
@@ -1513,7 +1511,7 @@
   "KoKabuterimon": {
    "anim": {
     "src": "assets/anim/KoKabuterimon.png",
-    "cw": 72,
+    "cw": 86,
     "ch": 74,
     "refW": 53,
     "refH": 65,
@@ -1550,7 +1548,7 @@
   "Zubamon": {
    "anim": {
     "src": "assets/anim/Zubamon.png",
-    "cw": 57,
+    "cw": 72,
     "ch": 57,
     "refW": 51,
     "refH": 56,
@@ -1583,7 +1581,7 @@
   "Sangomon": {
    "anim": {
     "src": "assets/anim/Sangomon.png",
-    "cw": 64,
+    "cw": 78,
     "ch": 42,
     "refW": 61,
     "refH": 40,
@@ -1618,7 +1616,7 @@
   "Kokuwamon": {
    "anim": {
     "src": "assets/anim/Kokuwamon.png",
-    "cw": 57,
+    "cw": 64,
     "ch": 54,
     "refW": 46,
     "refH": 50,
@@ -1652,7 +1650,7 @@
   "Ludomon": {
    "anim": {
     "src": "assets/anim/Ludomon.png",
-    "cw": 59,
+    "cw": 78,
     "ch": 52,
     "refW": 59,
     "refH": 46,
@@ -1686,7 +1684,7 @@
   "Ghostmon": {
    "anim": {
     "src": "assets/anim/Ghostmon.png",
-    "cw": 74,
+    "cw": 108,
     "ch": 81,
     "refW": 57,
     "refH": 71,
@@ -1699,8 +1697,6 @@
      5
     ],
     "move": [
-     6,
-     7,
      8,
      9
     ],
@@ -1722,7 +1718,7 @@
   "Solarmon": {
    "anim": {
     "src": "assets/anim/Solarmon.png",
-    "cw": 63,
+    "cw": 72,
     "ch": 50,
     "refW": 58,
     "refH": 51,
@@ -1752,7 +1748,7 @@
   "DemiDevilmon": {
    "anim": {
     "src": "assets/anim/DemiDevilmon.png",
-    "cw": 74,
+    "cw": 82,
     "ch": 43,
     "refW": 65,
     "refH": 39,
@@ -1772,12 +1768,11 @@
      8,
      9,
      10,
-     11,
-     12
+     11
     ],
     "left": {
      "src": "assets/anim/DemiDevilmon_L.png",
-     "cw": 50,
+     "cw": 64,
      "ch": 36,
      "refW": 65,
      "refH": 39,
@@ -1790,7 +1785,7 @@
       3
      ],
      "attack": [
-      4
+      0
      ]
     }
    },
@@ -1802,7 +1797,7 @@
   "Espimon": {
    "anim": {
     "src": "assets/anim/Espimon.png",
-    "cw": 48,
+    "cw": 56,
     "ch": 57,
     "refW": 48,
     "refH": 54,
@@ -1840,7 +1835,7 @@
   "Gekkomon": {
    "anim": {
     "src": "assets/anim/Gekkomon.png",
-    "cw": 61,
+    "cw": 82,
     "ch": 56,
     "refW": 44,
     "refH": 50,
@@ -1874,7 +1869,7 @@
   "KoDokugumon": {
    "anim": {
     "src": "assets/anim/KoDokugumon.png",
-    "cw": 78,
+    "cw": 94,
     "ch": 41,
     "refW": 62,
     "refH": 35,
@@ -1909,7 +1904,7 @@
   "Sunflowmon": {
    "anim": {
     "src": "assets/anim/Sunflowmon.png",
-    "cw": 65,
+    "cw": 76,
     "ch": 62,
     "refW": 63,
     "refH": 59,
@@ -1944,7 +1939,7 @@
   "Youkomon": {
    "anim": {
     "src": "assets/anim/Youkomon.png",
-    "cw": 72,
+    "cw": 82,
     "ch": 59,
     "refW": 64,
     "refH": 51,
@@ -1980,7 +1975,7 @@
   "Hudiemon": {
    "anim": {
     "src": "assets/anim/Hudiemon.png",
-    "cw": 67,
+    "cw": 82,
     "ch": 78,
     "refW": 67,
     "refH": 72,
@@ -2016,7 +2011,7 @@
   "ZubaEagermon": {
    "anim": {
     "src": "assets/anim/ZubaEagermon.png",
-    "cw": 72,
+    "cw": 80,
     "ch": 62,
     "refW": 67,
     "refH": 58,
@@ -2052,7 +2047,7 @@
   "HoverEspimon": {
    "anim": {
     "src": "assets/anim/HoverEspimon.png",
-    "cw": 78,
+    "cw": 82,
     "ch": 69,
     "refW": 74,
     "refH": 56,
@@ -2073,10 +2068,7 @@
     "attack": [
      10,
      11,
-     12,
-     13,
-     14,
-     15
+     12
     ]
    },
    "img": "assets/units/HoverEspimon.png",
@@ -2088,7 +2080,7 @@
   "Clockmon": {
    "anim": {
     "src": "assets/anim/Clockmon.png",
-    "cw": 74,
+    "cw": 88,
     "ch": 60,
     "refW": 65,
     "refH": 59,
@@ -2125,7 +2117,7 @@
   "Jazardmon": {
    "anim": {
     "src": "assets/anim/Jazardmon.png",
-    "cw": 83,
+    "cw": 100,
     "ch": 60,
     "refW": 75,
     "refH": 47,
@@ -2162,7 +2154,7 @@
   "Lavorvomon": {
    "anim": {
     "src": "assets/anim/Lavorvomon.png",
-    "cw": 100,
+    "cw": 134,
     "ch": 62,
     "refW": 73,
     "refH": 61,
@@ -2198,7 +2190,7 @@
   "RaijiLudomon": {
    "anim": {
     "src": "assets/anim/RaijiLudomon.png",
-    "cw": 80,
+    "cw": 88,
     "ch": 84,
     "refW": 74,
     "refH": 84,
@@ -2234,7 +2226,7 @@
   "Akatorimon": {
    "anim": {
     "src": "assets/anim/Akatorimon.png",
-    "cw": 88,
+    "cw": 100,
     "ch": 75,
     "refW": 65,
     "refH": 70,
@@ -2270,7 +2262,7 @@
   "Dokugumon": {
    "anim": {
     "src": "assets/anim/Dokugumon.png",
-    "cw": 79,
+    "cw": 88,
     "ch": 53,
     "refW": 64,
     "refH": 45,
@@ -2307,7 +2299,7 @@
   "Ebidramon": {
    "anim": {
     "src": "assets/anim/Ebidramon.png",
-    "cw": 84,
+    "cw": 108,
     "ch": 61,
     "refW": 79,
     "refH": 58,
@@ -2337,7 +2329,7 @@
     ],
     "left": {
      "src": "assets/anim/Ebidramon_L.png",
-     "cw": 84,
+     "cw": 90,
      "ch": 87,
      "refW": 79,
      "refH": 58,
@@ -2348,13 +2340,10 @@
       3
      ],
      "move": [
-      4,
       5
      ],
      "attack": [
-      6,
-      7,
-      8
+      0
      ]
     }
    },
@@ -2366,7 +2355,7 @@
   "Flarerizamon": {
    "anim": {
     "src": "assets/anim/Flarerizamon.png",
-    "cw": 79,
+    "cw": 88,
     "ch": 77,
     "refW": 74,
     "refH": 72,
@@ -2396,7 +2385,7 @@
   "Machmon": {
    "anim": {
     "src": "assets/anim/Machmon.png",
-    "cw": 95,
+    "cw": 114,
     "ch": 51,
     "refW": 92,
     "refH": 44,
@@ -2428,7 +2417,7 @@
   "Petermon": {
    "anim": {
     "src": "assets/anim/Petermon.png",
-    "cw": 63,
+    "cw": 82,
     "ch": 65,
     "refW": 60,
     "refH": 59,
@@ -2452,7 +2441,7 @@
     ],
     "left": {
      "src": "assets/anim/Petermon_L.png",
-     "cw": 60,
+     "cw": 76,
      "ch": 61,
      "refW": 60,
      "refH": 59,
@@ -2465,8 +2454,7 @@
       3
      ],
      "attack": [
-      4,
-      5
+      4
      ]
     }
    },
@@ -2479,7 +2467,7 @@
   "Porcupamon": {
    "anim": {
     "src": "assets/anim/Porcupamon.png",
-    "cw": 48,
+    "cw": 52,
     "ch": 56,
     "refW": 36,
     "refH": 55,
@@ -2509,7 +2497,7 @@
     ],
     "left": {
      "src": "assets/anim/Porcupamon_L.png",
-     "cw": 50,
+     "cw": 60,
      "ch": 59,
      "refW": 36,
      "refH": 55,
@@ -2539,7 +2527,7 @@
   "RedVegiemon": {
    "anim": {
     "src": "assets/anim/RedVegiemon.png",
-    "cw": 66,
+    "cw": 80,
     "ch": 68,
     "refW": 60,
     "refH": 57,
@@ -2571,7 +2559,7 @@
   "Sistermon_Ciel": {
    "anim": {
     "src": "assets/anim/Sistermon_Ciel.png",
-    "cw": 66,
+    "cw": 72,
     "ch": 62,
     "refW": 49,
     "refH": 57,
@@ -2603,7 +2591,7 @@
   "Sistermon_Noir": {
    "anim": {
     "src": "assets/anim/Sistermon_Noir.png",
-    "cw": 77,
+    "cw": 96,
     "ch": 61,
     "refW": 41,
     "refH": 59,
@@ -2617,22 +2605,16 @@
     ],
     "move": [
      6,
-     7,
-     8,
-     9,
-     10
+     8
     ],
     "attack": [
      11,
      12,
-     13,
-     14,
-     15,
      16
     ],
     "left": {
      "src": "assets/anim/Sistermon_Noir_L.png",
-     "cw": 63,
+     "cw": 70,
      "ch": 69,
      "refW": 41,
      "refH": 59,
@@ -2663,7 +2645,7 @@
   "SkullKnightmon": {
    "anim": {
     "src": "assets/anim/SkullKnightmon.png",
-    "cw": 91,
+    "cw": 98,
     "ch": 67,
     "refW": 67,
     "refH": 54,
@@ -2690,7 +2672,7 @@
     ],
     "left": {
      "src": "assets/anim/SkullKnightmon_L.png",
-     "cw": 75,
+     "cw": 94,
      "ch": 79,
      "refW": 67,
      "refH": 54,
@@ -2703,7 +2685,7 @@
       3
      ],
      "attack": [
-      4
+      0
      ]
     }
    },
@@ -2716,7 +2698,7 @@
   "Starmon": {
    "anim": {
     "src": "assets/anim/Starmon.png",
-    "cw": 64,
+    "cw": 78,
     "ch": 56,
     "refW": 59,
     "refH": 54,
@@ -2751,7 +2733,7 @@
   "Tobiumon": {
    "anim": {
     "src": "assets/anim/Tobiumon.png",
-    "cw": 72,
+    "cw": 86,
     "ch": 45,
     "refW": 67,
     "refH": 37,
@@ -2788,7 +2770,7 @@
   "Tortomon": {
    "anim": {
     "src": "assets/anim/Tortomon.png",
-    "cw": 104,
+    "cw": 114,
     "ch": 67,
     "refW": 92,
     "refH": 61,
@@ -2824,7 +2806,7 @@
   "Troopmon": {
    "anim": {
     "src": "assets/anim/Troopmon.png",
-    "cw": 73,
+    "cw": 82,
     "ch": 67,
     "refW": 54,
     "refH": 57,
@@ -2852,7 +2834,7 @@
     ],
     "left": {
      "src": "assets/anim/Troopmon_L.png",
-     "cw": 58,
+     "cw": 84,
      "ch": 79,
      "refW": 54,
      "refH": 57,
@@ -2878,7 +2860,7 @@
   "Yakiimon": {
    "anim": {
     "src": "assets/anim/Yakiimon.png",
-    "cw": 62,
+    "cw": 72,
     "ch": 60,
     "refW": 50,
     "refH": 58,
@@ -2913,7 +2895,7 @@
   "Shakkoumon": {
    "anim": {
     "src": "assets/anim/Shakkoumon.png",
-    "cw": 83,
+    "cw": 88,
     "ch": 97,
     "refW": 64,
     "refH": 94,
@@ -2950,7 +2932,7 @@
   "Duramon": {
    "anim": {
     "src": "assets/anim/Duramon.png",
-    "cw": 125,
+    "cw": 128,
     "ch": 98,
     "refW": 89,
     "refH": 85,
@@ -2993,7 +2975,7 @@
   "Jazarichmon": {
    "anim": {
     "src": "assets/anim/Jazarichmon.png",
-    "cw": 133,
+    "cw": 166,
     "ch": 105,
     "refW": 105,
     "refH": 75,
@@ -3011,7 +2993,6 @@
     ],
     "attack": [
      8,
-     9,
      10,
      11,
      12
@@ -3026,7 +3007,7 @@
   "Lavogaritamon": {
    "anim": {
     "src": "assets/anim/Lavogaritamon.png",
-    "cw": 110,
+    "cw": 146,
     "ch": 108,
     "refW": 107,
     "refH": 88,
@@ -3041,11 +3022,9 @@
     "move": [
      6,
      7,
-     8,
-     9
+     8
     ],
     "attack": [
-     10,
      11,
      12,
      13,
@@ -3061,7 +3040,7 @@
   "PolarBearmon": {
    "anim": {
     "src": "assets/anim/PolarBearmon.png",
-    "cw": 95,
+    "cw": 106,
     "ch": 84,
     "refW": 80,
     "refH": 82,
@@ -3096,7 +3075,7 @@
   "TiaLudomon": {
    "anim": {
     "src": "assets/anim/TiaLudomon.png",
-    "cw": 69,
+    "cw": 72,
     "ch": 63,
     "refW": 66,
     "refH": 59,
@@ -3134,7 +3113,7 @@
   "Parrotmon": {
    "anim": {
     "src": "assets/anim/Parrotmon.png",
-    "cw": 114,
+    "cw": 148,
     "ch": 98,
     "refW": 93,
     "refH": 91,
@@ -3169,7 +3148,7 @@
   "Piximon": {
    "anim": {
     "src": "assets/anim/Piximon.png",
-    "cw": 80,
+    "cw": 104,
     "ch": 67,
     "refW": 62,
     "refH": 58,
@@ -3189,7 +3168,7 @@
     ],
     "left": {
      "src": "assets/anim/Piximon_L.png",
-     "cw": 71,
+     "cw": 84,
      "ch": 78,
      "refW": 62,
      "refH": 58,
@@ -3215,7 +3194,7 @@
   "Jagamon": {
    "anim": {
     "src": "assets/anim/Jagamon.png",
-    "cw": 86,
+    "cw": 90,
     "ch": 73,
     "refW": 84,
     "refH": 71,
@@ -3252,7 +3231,7 @@
   "Kyukimon": {
    "anim": {
     "src": "assets/anim/Kyukimon.png",
-    "cw": 90,
+    "cw": 106,
     "ch": 85,
     "refW": 75,
     "refH": 80,
@@ -3290,7 +3269,7 @@
   "Oboromon": {
    "anim": {
     "src": "assets/anim/Oboromon.png",
-    "cw": 90,
+    "cw": 94,
     "ch": 81,
     "refW": 81,
     "refH": 80,
@@ -3309,7 +3288,7 @@
     ],
     "left": {
      "src": "assets/anim/Oboromon_L.png",
-     "cw": 87,
+     "cw": 96,
      "ch": 81,
      "refW": 81,
      "refH": 80,
@@ -3334,7 +3313,7 @@
   "Scorpiomon": {
    "anim": {
     "src": "assets/anim/Scorpiomon.png",
-    "cw": 108,
+    "cw": 188,
     "ch": 105,
     "refW": 92,
     "refH": 77,
@@ -3357,13 +3336,11 @@
      11,
      12,
      13,
-     14,
-     15,
-     16
+     14
     ],
     "left": {
      "src": "assets/anim/Scorpiomon_L.png",
-     "cw": 109,
+     "cw": 140,
      "ch": 61,
      "refW": 92,
      "refH": 77,
@@ -3376,7 +3353,7 @@
       3
      ],
      "attack": [
-      4
+      0
      ]
     }
    },
@@ -3389,7 +3366,7 @@
   "ShogunGekomon": {
    "anim": {
     "src": "assets/anim/ShogunGekomon.png",
-    "cw": 84,
+    "cw": 90,
     "ch": 92,
     "refW": 74,
     "refH": 80,
@@ -3426,7 +3403,7 @@
   "Tankdramon": {
    "anim": {
     "src": "assets/anim/Tankdramon.png",
-    "cw": 88,
+    "cw": 94,
     "ch": 87,
     "refW": 84,
     "refH": 79,
@@ -3462,7 +3439,7 @@
   "WaruMonzaemon": {
    "anim": {
     "src": "assets/anim/WaruMonzaemon.png",
-    "cw": 80,
+    "cw": 92,
     "ch": 82,
     "refW": 57,
     "refH": 82,
@@ -3498,7 +3475,7 @@
   "BlueMeramon": {
    "anim": {
     "src": "assets/anim/BlueMeramon.png",
-    "cw": 69,
+    "cw": 78,
     "ch": 95,
     "refW": 45,
     "refH": 89,
@@ -3518,12 +3495,10 @@
      10
     ],
     "attack": [
-     11,
      12,
      13,
      14,
-     15,
-     16
+     15
     ]
    },
    "img": "assets/units/BlueMeramon.png",
@@ -3535,7 +3510,7 @@
   "Fumamon": {
    "anim": {
     "src": "assets/anim/Fumamon.png",
-    "cw": 116,
+    "cw": 144,
     "ch": 109,
     "refW": 55,
     "refH": 84,
@@ -3552,8 +3527,7 @@
      7,
      8,
      9,
-     10,
-     11
+     10
     ],
     "attack": [
      12,
@@ -3570,7 +3544,7 @@
   "HippoGryphonmon": {
    "anim": {
     "src": "assets/anim/HippoGryphonmon.png",
-    "cw": 99,
+    "cw": 110,
     "ch": 80,
     "refW": 96,
     "refH": 78,
@@ -3604,7 +3578,7 @@
   "SlashAngemon": {
    "anim": {
     "src": "assets/anim/SlashAngemon.png",
-    "cw": 102,
+    "cw": 124,
     "ch": 105,
     "refW": 101,
     "refH": 98,
@@ -3636,7 +3610,7 @@
   "Valkyrimon": {
    "anim": {
     "src": "assets/anim/Valkyrimon.png",
-    "cw": 100,
+    "cw": 114,
     "ch": 97,
     "refW": 87,
     "refH": 90,
@@ -3673,7 +3647,7 @@
   "Durandamon": {
    "anim": {
     "src": "assets/anim/Durandamon.png",
-    "cw": 94,
+    "cw": 116,
     "ch": 133,
     "refW": 72,
     "refH": 124,
@@ -3699,7 +3673,7 @@
     ],
     "left": {
      "src": "assets/anim/Durandamon_L.png",
-     "cw": 98,
+     "cw": 102,
      "ch": 133,
      "refW": 72,
      "refH": 124,
@@ -3713,9 +3687,7 @@
       4
      ],
      "attack": [
-      5,
-      6,
-      7
+      0
      ]
     }
    },
@@ -3727,7 +3699,7 @@
   "Skadimon": {
    "anim": {
     "src": "assets/anim/Skadimon.png",
-    "cw": 121,
+    "cw": 144,
     "ch": 108,
     "refW": 106,
     "refH": 100,
@@ -3762,7 +3734,7 @@
   "BryweLudramon": {
    "anim": {
     "src": "assets/anim/BryweLudramon.png",
-    "cw": 149,
+    "cw": 174,
     "ch": 119,
     "refW": 120,
     "refH": 100,
@@ -3798,7 +3770,7 @@
   "Hydramon": {
    "anim": {
     "src": "assets/anim/Hydramon.png",
-    "cw": 127,
+    "cw": 142,
     "ch": 102,
     "refW": 116,
     "refH": 101,
@@ -3836,7 +3808,7 @@
   "Candlemon": {
    "anim": {
     "src": "assets/anim/Candlemon.png",
-    "cw": 49,
+    "cw": 54,
     "ch": 52,
     "refW": 40,
     "refH": 55,
@@ -3871,7 +3843,7 @@
   "Cherrymon": {
    "anim": {
     "src": "assets/anim/Cherrymon.png",
-    "cw": 87,
+    "cw": 98,
     "ch": 84,
     "refW": 83,
     "refH": 81,
@@ -3909,7 +3881,7 @@
   "Koromon": {
    "anim": {
     "src": "assets/anim/Koromon.png",
-    "cw": 48,
+    "cw": 54,
     "ch": 43,
     "refW": 40,
     "refH": 36,
@@ -3943,7 +3915,7 @@
   "Tsunomon": {
    "anim": {
     "src": "assets/anim/Tsunomon.png",
-    "cw": 46,
+    "cw": 52,
     "ch": 47,
     "refW": 42,
     "refH": 44,
@@ -3981,7 +3953,7 @@
   "Yokomon": {
    "anim": {
     "src": "assets/anim/Yokomon.png",
-    "cw": 41,
+    "cw": 46,
     "ch": 55,
     "refW": 35,
     "refH": 52,
@@ -4017,7 +3989,7 @@
   "Motimon": {
    "anim": {
     "src": "assets/anim/Motimon.png",
-    "cw": 39,
+    "cw": 44,
     "ch": 43,
     "refW": 36,
     "refH": 40,
@@ -4040,7 +4012,7 @@
     ],
     "left": {
      "src": "assets/anim/Motimon_L.png",
-     "cw": 34,
+     "cw": 36,
      "ch": 41,
      "refW": 36,
      "refH": 40,
@@ -4067,7 +4039,7 @@
   "Tanemon": {
    "anim": {
     "src": "assets/anim/Tanemon.png",
-    "cw": 43,
+    "cw": 54,
     "ch": 41,
     "refW": 36,
     "refH": 40,
@@ -4089,7 +4061,7 @@
     ],
     "left": {
      "src": "assets/anim/Tanemon_L.png",
-     "cw": 39,
+     "cw": 46,
      "ch": 42,
      "refW": 36,
      "refH": 40,
@@ -4119,7 +4091,7 @@
   "Bukamon": {
    "anim": {
     "src": "assets/anim/Bukamon.png",
-    "cw": 56,
+    "cw": 62,
     "ch": 69,
     "refW": 48,
     "refH": 60,
@@ -4159,7 +4131,7 @@
   "Tokomon": {
    "anim": {
     "src": "assets/anim/Tokomon.png",
-    "cw": 44,
+    "cw": 50,
     "ch": 46,
     "refW": 39,
     "refH": 38,
@@ -4191,7 +4163,7 @@
   "Nyaromon": {
    "anim": {
     "src": "assets/anim/Nyaromon.png",
-    "cw": 50,
+    "cw": 70,
     "ch": 41,
     "refW": 44,
     "refH": 33,
@@ -4226,7 +4198,7 @@
   "Agumon": {
    "anim": {
     "src": "assets/anim/Agumon.png",
-    "cw": 49,
+    "cw": 54,
     "ch": 49,
     "refW": 44,
     "refH": 48,
@@ -4259,7 +4231,7 @@
   "Gabumon": {
    "anim": {
     "src": "assets/anim/Gabumon.png",
-    "cw": 58,
+    "cw": 62,
     "ch": 60,
     "refW": 51,
     "refH": 52,
@@ -4288,7 +4260,7 @@
   "Biyomon": {
    "anim": {
     "src": "assets/anim/Biyomon.png",
-    "cw": 43,
+    "cw": 52,
     "ch": 58,
     "refW": 32,
     "refH": 51,
@@ -4318,7 +4290,7 @@
     ],
     "left": {
      "src": "assets/anim/Biyomon_L.png",
-     "cw": 42,
+     "cw": 48,
      "ch": 54,
      "refW": 32,
      "refH": 51,
@@ -4344,7 +4316,7 @@
   "Tentomon": {
    "anim": {
     "src": "assets/anim/Tentomon.png",
-    "cw": 60,
+    "cw": 66,
     "ch": 60,
     "refW": 51,
     "refH": 52,
@@ -4380,7 +4352,7 @@
   "Palmon": {
    "anim": {
     "src": "assets/anim/Palmon.png",
-    "cw": 42,
+    "cw": 48,
     "ch": 53,
     "refW": 36,
     "refH": 49,
@@ -4398,7 +4370,6 @@
     ],
     "attack": [
      8,
-     9,
      10,
      11
     ]
@@ -4413,7 +4384,7 @@
   "Gomamon": {
    "anim": {
     "src": "assets/anim/Gomamon.png",
-    "cw": 61,
+    "cw": 64,
     "ch": 44,
     "refW": 79,
     "refH": 55,
@@ -4445,7 +4416,7 @@
   "Patamon": {
    "anim": {
     "src": "assets/anim/Patamon.png",
-    "cw": 54,
+    "cw": 62,
     "ch": 53,
     "refW": 47,
     "refH": 44,
@@ -4483,7 +4454,7 @@
   "Salamon": {
    "anim": {
     "src": "assets/anim/Salamon.png",
-    "cw": 55,
+    "cw": 62,
     "ch": 50,
     "refW": 43,
     "refH": 48,
@@ -4514,7 +4485,7 @@
   "Greymon": {
    "anim": {
     "src": "assets/anim/Greymon.png",
-    "cw": 62,
+    "cw": 68,
     "ch": 63,
     "refW": 52,
     "refH": 56,
@@ -4553,7 +4524,7 @@
   "Garurumon": {
    "anim": {
     "src": "assets/anim/Garurumon.png",
-    "cw": 62,
+    "cw": 70,
     "ch": 60,
     "refW": 54,
     "refH": 57,
@@ -4589,7 +4560,7 @@
   "Birdramon": {
    "anim": {
     "src": "assets/anim/Birdramon.png",
-    "cw": 76,
+    "cw": 86,
     "ch": 66,
     "refW": 71,
     "refH": 55,
@@ -4626,7 +4597,7 @@
   "Kabuterimon": {
    "anim": {
     "src": "assets/anim/Kabuterimon.png",
-    "cw": 66,
+    "cw": 70,
     "ch": 68,
     "refW": 57,
     "refH": 57,
@@ -4658,7 +4629,7 @@
   "Togemon": {
    "anim": {
     "src": "assets/anim/Togemon.png",
-    "cw": 57,
+    "cw": 68,
     "ch": 61,
     "refW": 49,
     "refH": 55,
@@ -4698,7 +4669,7 @@
   "Ikkakumon": {
    "anim": {
     "src": "assets/anim/Ikkakumon.png",
-    "cw": 69,
+    "cw": 76,
     "ch": 66,
     "refW": 97,
     "refH": 92,
@@ -4735,7 +4706,7 @@
   "Angemon": {
    "anim": {
     "src": "assets/anim/Angemon.png",
-    "cw": 79,
+    "cw": 86,
     "ch": 75,
     "refW": 68,
     "refH": 74,
@@ -4765,7 +4736,7 @@
     ],
     "left": {
      "src": "assets/anim/Angemon_L.png",
-     "cw": 67,
+     "cw": 76,
      "ch": 73,
      "refW": 68,
      "refH": 74,
@@ -4791,7 +4762,7 @@
   "Gatomon": {
    "anim": {
     "src": "assets/anim/Gatomon.png",
-    "cw": 60,
+    "cw": 66,
     "ch": 54,
     "refW": 57,
     "refH": 54,
@@ -4819,7 +4790,7 @@
   "MetalGreymon": {
    "anim": {
     "src": "assets/anim/MetalGreymon.png",
-    "cw": 112,
+    "cw": 120,
     "ch": 90,
     "refW": 89,
     "refH": 79,
@@ -4859,7 +4830,7 @@
   "WereGarurumon": {
    "anim": {
     "src": "assets/anim/WereGarurumon.png",
-    "cw": 87,
+    "cw": 94,
     "ch": 81,
     "refW": 63,
     "refH": 80,
@@ -4887,7 +4858,7 @@
     ],
     "left": {
      "src": "assets/anim/WereGarurumon_L.png",
-     "cw": 68,
+     "cw": 86,
      "ch": 81,
      "refW": 63,
      "refH": 80,
@@ -4917,7 +4888,7 @@
   "Garudamon": {
    "anim": {
     "src": "assets/anim/Garudamon.png",
-    "cw": 123,
+    "cw": 182,
     "ch": 132,
     "refW": 63,
     "refH": 79,
@@ -4927,12 +4898,10 @@
      2
     ],
     "move": [
-     3,
-     4
+     3
     ],
     "attack": [
-     5,
-     6
+     0
     ]
    },
    "img": "assets/units/Garudamon.png",
@@ -4946,7 +4915,7 @@
   "MegaKabuterimon": {
    "anim": {
     "src": "assets/anim/MegaKabuterimon.png",
-    "cw": 80,
+    "cw": 90,
     "ch": 87,
     "refW": 77,
     "refH": 80,
@@ -4982,7 +4951,7 @@
   "Lillymon": {
    "anim": {
     "src": "assets/anim/Lillymon.png",
-    "cw": 48,
+    "cw": 54,
     "ch": 56,
     "refW": 37,
     "refH": 56,
@@ -5003,14 +4972,11 @@
     "attack": [
      10,
      11,
-     12,
-     13,
-     14,
      15
     ],
     "left": {
      "src": "assets/anim/Lillymon_L.png",
-     "cw": 51,
+     "cw": 58,
      "ch": 55,
      "refW": 37,
      "refH": 56,
@@ -5038,7 +5004,7 @@
   "Zudomon": {
    "anim": {
     "src": "assets/anim/Zudomon.png",
-    "cw": 130,
+    "cw": 162,
     "ch": 119,
     "refW": 122,
     "refH": 105,
@@ -5075,7 +5041,7 @@
   "MagnaAngemon": {
    "anim": {
     "src": "assets/anim/MagnaAngemon.png",
-    "cw": 99,
+    "cw": 114,
     "ch": 106,
     "refW": 87,
     "refH": 94,
@@ -5105,7 +5071,7 @@
   "Angewomon": {
    "anim": {
     "src": "assets/anim/Angewomon.png",
-    "cw": 83,
+    "cw": 90,
     "ch": 97,
     "refW": 81,
     "refH": 97,
@@ -5139,7 +5105,7 @@
   "WarGreymon": {
    "anim": {
     "src": "assets/anim/WarGreymon.png",
-    "cw": 80,
+    "cw": 86,
     "ch": 82,
     "refW": 78,
     "refH": 81,
@@ -5167,7 +5133,7 @@
   "MetalGarurumon": {
    "anim": {
     "src": "assets/anim/MetalGarurumon.png",
-    "cw": 101,
+    "cw": 112,
     "ch": 81,
     "refW": 82,
     "refH": 68,
@@ -5204,7 +5170,7 @@
   "Phoenixmon": {
    "anim": {
     "src": "assets/anim/Phoenixmon.png",
-    "cw": 172,
+    "cw": 184,
     "ch": 120,
     "refW": 111,
     "refH": 76,
@@ -5219,20 +5185,17 @@
     "move": [
      6,
      7,
-     8,
-     9
+     8
     ],
     "attack": [
      10,
      11,
      12,
-     13,
-     14,
-     15
+     13
     ],
     "left": {
      "src": "assets/anim/Phoenixmon_L.png",
-     "cw": 154,
+     "cw": 228,
      "ch": 155,
      "refW": 111,
      "refH": 76,
@@ -5261,7 +5224,7 @@
   "HerculesKabuterimon": {
    "anim": {
     "src": "assets/anim/HerculesKabuterimon.png",
-    "cw": 101,
+    "cw": 104,
     "ch": 92,
     "refW": 90,
     "refH": 84,
@@ -5295,7 +5258,7 @@
   "Rosemon": {
    "anim": {
     "src": "assets/anim/Rosemon.png",
-    "cw": 84,
+    "cw": 106,
     "ch": 101,
     "refW": 56,
     "refH": 80,
@@ -5316,12 +5279,7 @@
      11
     ],
     "attack": [
-     12,
-     13,
-     14,
-     15,
-     16,
-     17
+     16
     ]
    },
    "img": "assets/units/Rosemon.png",
@@ -5332,7 +5290,7 @@
   "Vikemon": {
    "anim": {
     "src": "assets/anim/Vikemon.png",
-    "cw": 123,
+    "cw": 134,
     "ch": 130,
     "refW": 112,
     "refH": 129,
@@ -5370,7 +5328,7 @@
   "Seraphimon": {
    "anim": {
     "src": "assets/anim/Seraphimon.png",
-    "cw": 85,
+    "cw": 100,
     "ch": 119,
     "refW": 74,
     "refH": 108,
@@ -5400,7 +5358,7 @@
     ],
     "left": {
      "src": "assets/anim/Seraphimon_L.png",
-     "cw": 77,
+     "cw": 96,
      "ch": 136,
      "refW": 74,
      "refH": 108,
@@ -5429,7 +5387,7 @@
   "Magnadramon": {
    "anim": {
     "src": "assets/anim/Magnadramon.png",
-    "cw": 103,
+    "cw": 164,
     "ch": 107,
     "refW": 102,
     "refH": 98,
@@ -5467,7 +5425,7 @@
   "Imperialdramon_FighterMode": {
    "anim": {
     "src": "assets/anim/Imperialdramon_FighterMode.png",
-    "cw": 145,
+    "cw": 156,
     "ch": 108,
     "refW": 110,
     "refH": 97,
@@ -5493,7 +5451,7 @@
     ],
     "left": {
      "src": "assets/anim/Imperialdramon_FighterMode_L.png",
-     "cw": 141,
+     "cw": 156,
      "ch": 111,
      "refW": 110,
      "refH": 97,
@@ -5518,7 +5476,7 @@
   "Pagumon": {
    "anim": {
     "src": "assets/anim/Pagumon.png",
-    "cw": 45,
+    "cw": 50,
     "ch": 26,
     "refW": 42,
     "refH": 24,
@@ -5541,7 +5499,7 @@
     ],
     "left": {
      "src": "assets/anim/Pagumon_L.png",
-     "cw": 35,
+     "cw": 46,
      "ch": 26,
      "refW": 42,
      "refH": 24,
@@ -5569,7 +5527,7 @@
   "Gazimon": {
    "anim": {
     "src": "assets/anim/Gazimon.png",
-    "cw": 58,
+    "cw": 60,
     "ch": 58,
     "refW": 57,
     "refH": 54,
@@ -5604,7 +5562,7 @@
   "Gizamon": {
    "anim": {
     "src": "assets/anim/Gizamon.png",
-    "cw": 67,
+    "cw": 84,
     "ch": 61,
     "refW": 51,
     "refH": 51,
@@ -5640,7 +5598,7 @@
   "Numemon": {
    "anim": {
     "src": "assets/anim/Numemon.png",
-    "cw": 61,
+    "cw": 64,
     "ch": 56,
     "refW": 49,
     "refH": 54,
@@ -5667,7 +5625,7 @@
     ],
     "left": {
      "src": "assets/anim/Numemon_L.png",
-     "cw": 52,
+     "cw": 54,
      "ch": 67,
      "refW": 49,
      "refH": 54,
@@ -5694,7 +5652,7 @@
   "Kuwagamon": {
    "anim": {
     "src": "assets/anim/Kuwagamon.png",
-    "cw": 104,
+    "cw": 142,
     "ch": 102,
     "refW": 96,
     "refH": 86,
@@ -5737,7 +5695,7 @@
   "Monochromon": {
    "anim": {
     "src": "assets/anim/Monochromon.png",
-    "cw": 70,
+    "cw": 84,
     "ch": 56,
     "refW": 65,
     "refH": 43,
@@ -5774,7 +5732,7 @@
   "Unimon": {
    "anim": {
     "src": "assets/anim/Unimon.png",
-    "cw": 60,
+    "cw": 68,
     "ch": 67,
     "refW": 54,
     "refH": 58,
@@ -5805,7 +5763,7 @@
   "Meramon": {
    "anim": {
     "src": "assets/anim/Meramon.png",
-    "cw": 60,
+    "cw": 76,
     "ch": 89,
     "refW": 34,
     "refH": 65,
@@ -5829,7 +5787,7 @@
     ],
     "left": {
      "src": "assets/anim/Meramon_L.png",
-     "cw": 53,
+     "cw": 68,
      "ch": 96,
      "refW": 34,
      "refH": 65,
@@ -5857,7 +5815,7 @@
   "Shellmon": {
    "anim": {
     "src": "assets/anim/Shellmon.png",
-    "cw": 76,
+    "cw": 92,
     "ch": 55,
     "refW": 64,
     "refH": 55,
@@ -5893,7 +5851,7 @@
   "Seadramon": {
    "anim": {
     "src": "assets/anim/Seadramon.png",
-    "cw": 84,
+    "cw": 90,
     "ch": 78,
     "refW": 69,
     "refH": 60,
@@ -5932,7 +5890,7 @@
   "MetalSeadramon": {
    "anim": {
     "src": "assets/anim/MetalSeadramon.png",
-    "cw": 108,
+    "cw": 118,
     "ch": 134,
     "refW": 101,
     "refH": 109,
@@ -5967,7 +5925,7 @@
   "Machinedramon": {
    "anim": {
     "src": "assets/anim/Machinedramon.png",
-    "cw": 89,
+    "cw": 94,
     "ch": 110,
     "refW": 84,
     "refH": 92,
@@ -6001,7 +5959,7 @@
   "Etemon": {
    "anim": {
     "src": "assets/anim/Etemon.png",
-    "cw": 91,
+    "cw": 100,
     "ch": 87,
     "refW": 74,
     "refH": 84,
@@ -6027,7 +5985,7 @@
   "Devimon": {
    "anim": {
     "src": "assets/anim/Devimon.png",
-    "cw": 149,
+    "cw": 172,
     "ch": 156,
     "refW": 108,
     "refH": 130,
@@ -6048,7 +6006,6 @@
      11
     ],
     "attack": [
-     12,
      13,
      14,
      15,
@@ -6064,7 +6021,7 @@
   "Myotismon": {
    "anim": {
     "src": "assets/anim/Myotismon.png",
-    "cw": 86,
+    "cw": 100,
     "ch": 85,
     "refW": 59,
     "refH": 85,
@@ -6077,14 +6034,10 @@
      5
     ],
     "move": [
-     6,
-     9
+     6
     ],
     "attack": [
-     10,
-     11,
-     12,
-     13
+     0
     ]
    },
    "img": "assets/units/Myotismon.png",
@@ -6097,7 +6050,7 @@
   "Piedmon": {
    "anim": {
     "src": "assets/anim/Piedmon.png",
-    "cw": 99,
+    "cw": 122,
     "ch": 122,
     "refW": 75,
     "refH": 93,
@@ -6134,7 +6087,7 @@
   "Apocalymon": {
    "anim": {
     "src": "assets/anim/Apocalymon.png",
-    "cw": 144,
+    "cw": 248,
     "ch": 152,
     "refW": 128,
     "refH": 128,
@@ -6169,7 +6122,7 @@
   "Kiwimon": {
    "anim": {
     "src": "assets/anim/Kiwimon.png",
-    "cw": 68,
+    "cw": 90,
     "ch": 61,
     "refW": 45,
     "refH": 60,
@@ -6206,7 +6159,7 @@
   "Frigimon": {
    "anim": {
     "src": "assets/anim/Frigimon.png",
-    "cw": 58,
+    "cw": 66,
     "ch": 63,
     "refW": 42,
     "refH": 59,
@@ -6242,7 +6195,7 @@
   "Mojyamon": {
    "anim": {
     "src": "assets/anim/Mojyamon.png",
-    "cw": 69,
+    "cw": 80,
     "ch": 76,
     "refW": 63,
     "refH": 69,
@@ -6277,7 +6230,7 @@
   "Mushroomon": {
    "anim": {
     "src": "assets/anim/Mushroomon.png",
-    "cw": 48,
+    "cw": 54,
     "ch": 60,
     "refW": 44,
     "refH": 50,
@@ -6321,7 +6274,7 @@
   "Golemon": {
    "anim": {
     "src": "assets/anim/Golemon.png",
-    "cw": 91,
+    "cw": 104,
     "ch": 76,
     "refW": 81,
     "refH": 73,
@@ -6353,7 +6306,7 @@
   "Bakemon": {
    "anim": {
     "src": "assets/anim/Bakemon.png",
-    "cw": 72,
+    "cw": 78,
     "ch": 58,
     "refW": 66,
     "refH": 55,
@@ -6389,7 +6342,7 @@
   "Flymon": {
    "anim": {
     "src": "assets/anim/Flymon.png",
-    "cw": 58,
+    "cw": 64,
     "ch": 58,
     "refW": 51,
     "refH": 53,
@@ -6416,7 +6369,7 @@
   "Gesomon": {
    "anim": {
     "src": "assets/anim/Gesomon.png",
-    "cw": 57,
+    "cw": 62,
     "ch": 57,
     "refW": 55,
     "refH": 55,
@@ -6443,7 +6396,7 @@
   "Raremon": {
    "anim": {
     "src": "assets/anim/Raremon.png",
-    "cw": 85,
+    "cw": 90,
     "ch": 59,
     "refW": 79,
     "refH": 53,
@@ -6481,7 +6434,7 @@
   "Woodmon": {
    "anim": {
     "src": "assets/anim/Woodmon.png",
-    "cw": 87,
+    "cw": 106,
     "ch": 62,
     "refW": 83,
     "refH": 55,
@@ -6516,7 +6469,7 @@
   "Divermon": {
    "anim": {
     "src": "assets/anim/Divermon.png",
-    "cw": 80,
+    "cw": 96,
     "ch": 60,
     "refW": 69,
     "refH": 58,
@@ -6553,7 +6506,7 @@
   "Okuwamon": {
    "anim": {
     "src": "assets/anim/Okuwamon.png",
-    "cw": 115,
+    "cw": 172,
     "ch": 117,
     "refW": 114,
     "refH": 97,
@@ -6590,7 +6543,7 @@
   "Megadramon": {
    "anim": {
     "src": "assets/anim/Megadramon.png",
-    "cw": 95,
+    "cw": 122,
     "ch": 83,
     "refW": 77,
     "refH": 83,
@@ -6625,7 +6578,7 @@
   "Gigadramon": {
    "anim": {
     "src": "assets/anim/Gigadramon.png",
-    "cw": 89,
+    "cw": 122,
     "ch": 83,
     "refW": 71,
     "refH": 83,
@@ -6660,7 +6613,7 @@
   "Garbagemon": {
    "anim": {
     "src": "assets/anim/Garbagemon.png",
-    "cw": 44,
+    "cw": 60,
     "ch": 56,
     "refW": 40,
     "refH": 50,
@@ -6695,7 +6648,7 @@
   "Kokatorimon": {
    "anim": {
     "src": "assets/anim/Kokatorimon.png",
-    "cw": 74,
+    "cw": 80,
     "ch": 72,
     "refW": 65,
     "refH": 70,
@@ -6732,7 +6685,7 @@
   "Datamon": {
    "anim": {
     "src": "assets/anim/Datamon.png",
-    "cw": 65,
+    "cw": 68,
     "ch": 45,
     "refW": 63,
     "refH": 45,
@@ -6762,7 +6715,7 @@
   "LadyDevimon": {
    "anim": {
     "src": "assets/anim/LadyDevimon.png",
-    "cw": 81,
+    "cw": 92,
     "ch": 84,
     "refW": 61,
     "refH": 81,
@@ -6798,7 +6751,7 @@
   "Phantomon": {
    "anim": {
     "src": "assets/anim/Phantomon.png",
-    "cw": 87,
+    "cw": 112,
     "ch": 116,
     "refW": 74,
     "refH": 94,
@@ -6834,7 +6787,7 @@
   "Puppetmon": {
    "anim": {
     "src": "assets/anim/Puppetmon.png",
-    "cw": 91,
+    "cw": 118,
     "ch": 98,
     "refW": 86,
     "refH": 81,
@@ -6870,7 +6823,7 @@
   "Aquilamon": {
    "anim": {
     "src": "assets/anim/Aquilamon.png",
-    "cw": 72,
+    "cw": 80,
     "ch": 58,
     "refW": 64,
     "refH": 58,
@@ -6908,7 +6861,7 @@
   "Armadillomon": {
    "anim": {
     "src": "assets/anim/Armadillomon.png",
-    "cw": 61,
+    "cw": 64,
     "ch": 44,
     "refW": 50,
     "refH": 36,
@@ -6942,7 +6895,7 @@
   "Armageddemon": {
    "anim": {
     "src": "assets/anim/Armageddemon.png",
-    "cw": 190,
+    "cw": 220,
     "ch": 120,
     "refW": 157,
     "refH": 110,
@@ -6992,7 +6945,7 @@
   "Dinobeemon": {
    "anim": {
     "src": "assets/anim/Dinobeemon.png",
-    "cw": 105,
+    "cw": 132,
     "ch": 97,
     "refW": 87,
     "refH": 81,
@@ -7025,7 +6978,7 @@
   "ExVeemon": {
    "anim": {
     "src": "assets/anim/ExVeemon.png",
-    "cw": 65,
+    "cw": 72,
     "ch": 60,
     "refW": 61,
     "refH": 58,
@@ -7065,7 +7018,7 @@
   "Gallantmon": {
    "anim": {
     "src": "assets/anim/Gallantmon.png",
-    "cw": 88,
+    "cw": 108,
     "ch": 84,
     "refW": 84,
     "refH": 84,
@@ -7096,7 +7049,7 @@
   "Gargomon": {
    "anim": {
     "src": "assets/anim/Gargomon.png",
-    "cw": 83,
+    "cw": 88,
     "ch": 58,
     "refW": 68,
     "refH": 57,
@@ -7135,7 +7088,7 @@
   "Gladimon": {
    "anim": {
     "src": "assets/anim/Gladimon.png",
-    "cw": 71,
+    "cw": 74,
     "ch": 58,
     "refW": 61,
     "refH": 55,
@@ -7165,7 +7118,7 @@
   "Gotsumon": {
    "anim": {
     "src": "assets/anim/Gotsumon.png",
-    "cw": 46,
+    "cw": 52,
     "ch": 73,
     "refW": 36,
     "refH": 52,
@@ -7188,8 +7141,7 @@
      11,
      12,
      13,
-     14,
-     15
+     14
     ]
    },
    "img": "assets/units/Gotsumon.png",
@@ -7199,7 +7151,7 @@
   "Growlmon": {
    "anim": {
     "src": "assets/anim/Growlmon.png",
-    "cw": 63,
+    "cw": 76,
     "ch": 63,
     "refW": 58,
     "refH": 60,
@@ -7238,7 +7190,7 @@
   "Guardromon": {
    "anim": {
     "src": "assets/anim/Guardromon.png",
-    "cw": 78,
+    "cw": 92,
     "ch": 65,
     "refW": 60,
     "refH": 63,
@@ -7275,7 +7227,7 @@
   "Guilmon": {
    "anim": {
     "src": "assets/anim/Guilmon.png",
-    "cw": 45,
+    "cw": 52,
     "ch": 52,
     "refW": 42,
     "refH": 50,
@@ -7315,7 +7267,7 @@
   "Hagurumon": {
    "anim": {
     "src": "assets/anim/Hagurumon.png",
-    "cw": 63,
+    "cw": 94,
     "ch": 47,
     "refW": 60,
     "refH": 49,
@@ -7345,7 +7297,7 @@
   "Hawkmon": {
    "anim": {
     "src": "assets/anim/Hawkmon.png",
-    "cw": 56,
+    "cw": 64,
     "ch": 56,
     "refW": 53,
     "refH": 54,
@@ -7372,7 +7324,7 @@
     ],
     "left": {
      "src": "assets/anim/Hawkmon_L.png",
-     "cw": 56,
+     "cw": 70,
      "ch": 55,
      "refW": 53,
      "refH": 54,
@@ -7401,7 +7353,7 @@
   "HeavyLeomon": {
    "anim": {
     "src": "assets/anim/HeavyLeomon.png",
-    "cw": 133,
+    "cw": 146,
     "ch": 108,
     "refW": 115,
     "refH": 100,
@@ -7437,7 +7389,7 @@
   "HiAndromon": {
    "anim": {
     "src": "assets/anim/HiAndromon.png",
-    "cw": 80,
+    "cw": 90,
     "ch": 90,
     "refW": 51,
     "refH": 88,
@@ -7474,7 +7426,7 @@
   "Icemon": {
    "anim": {
     "src": "assets/anim/Icemon.png",
-    "cw": 48,
+    "cw": 54,
     "ch": 63,
     "refW": 40,
     "refH": 58,
@@ -7508,7 +7460,7 @@
   "Imperialdramon_DragonMode": {
    "anim": {
     "src": "assets/anim/Imperialdramon_DragonMode.png",
-    "cw": 148,
+    "cw": 172,
     "ch": 109,
     "refW": 117,
     "refH": 83,
@@ -7543,7 +7495,7 @@
   "Infermon": {
    "anim": {
     "src": "assets/anim/Infermon.png",
-    "cw": 123,
+    "cw": 140,
     "ch": 70,
     "refW": 104,
     "refH": 63,
@@ -7576,7 +7528,7 @@
   "Keramon": {
    "anim": {
     "src": "assets/anim/Keramon.png",
-    "cw": 61,
+    "cw": 66,
     "ch": 58,
     "refW": 56,
     "refH": 56,
@@ -7610,7 +7562,7 @@
   "Knightmon": {
    "anim": {
     "src": "assets/anim/Knightmon.png",
-    "cw": 112,
+    "cw": 130,
     "ch": 139,
     "refW": 106,
     "refH": 88,
@@ -7618,9 +7570,7 @@
      0,
      1,
      2,
-     3,
-     4,
-     5
+     3
     ],
     "move": [
      6,
@@ -7642,7 +7592,7 @@
   "Kyubimon": {
    "anim": {
     "src": "assets/anim/Kyubimon.png",
-    "cw": 72,
+    "cw": 82,
     "ch": 60,
     "refW": 64,
     "refH": 51,
@@ -7681,7 +7631,7 @@
   "Leomon": {
    "anim": {
     "src": "assets/anim/Leomon.png",
-    "cw": 58,
+    "cw": 66,
     "ch": 75,
     "refW": 52,
     "refH": 72,
@@ -7701,7 +7651,7 @@
     ],
     "left": {
      "src": "assets/anim/Leomon_L.png",
-     "cw": 67,
+     "cw": 70,
      "ch": 72,
      "refW": 52,
      "refH": 72,
@@ -7734,7 +7684,7 @@
   "MegaGargomon": {
    "anim": {
     "src": "assets/anim/MegaGargomon.png",
-    "cw": 108,
+    "cw": 126,
     "ch": 106,
     "refW": 89,
     "refH": 100,
@@ -7758,7 +7708,7 @@
     ],
     "left": {
      "src": "assets/anim/MegaGargomon_L.png",
-     "cw": 91,
+     "cw": 102,
      "ch": 99,
      "refW": 89,
      "refH": 100,
@@ -7785,7 +7735,7 @@
   "MegaSeadramon": {
    "anim": {
     "src": "assets/anim/MegaSeadramon.png",
-    "cw": 110,
+    "cw": 136,
     "ch": 98,
     "refW": 100,
     "refH": 83,
@@ -7815,7 +7765,7 @@
   "Mekanorimon": {
    "anim": {
     "src": "assets/anim/Mekanorimon.png",
-    "cw": 80,
+    "cw": 88,
     "ch": 67,
     "refW": 75,
     "refH": 56,
@@ -7850,7 +7800,7 @@
   "Meteormon": {
    "anim": {
     "src": "assets/anim/Meteormon.png",
-    "cw": 74,
+    "cw": 84,
     "ch": 81,
     "refW": 67,
     "refH": 77,
@@ -7899,7 +7849,7 @@
   "Paildramon": {
    "anim": {
     "src": "assets/anim/Paildramon.png",
-    "cw": 115,
+    "cw": 144,
     "ch": 100,
     "refW": 96,
     "refH": 92,
@@ -7942,7 +7892,7 @@
   "Pumpkinmon": {
    "anim": {
     "src": "assets/anim/Pumpkinmon.png",
-    "cw": 59,
+    "cw": 70,
     "ch": 66,
     "refW": 51,
     "refH": 63,
@@ -7978,7 +7928,7 @@
   "Rapidmon": {
    "anim": {
     "src": "assets/anim/Rapidmon.png",
-    "cw": 84,
+    "cw": 92,
     "ch": 94,
     "refW": 76,
     "refH": 85,
@@ -8016,7 +7966,7 @@
   "Renamon": {
    "anim": {
     "src": "assets/anim/Renamon.png",
-    "cw": 79,
+    "cw": 98,
     "ch": 88,
     "refW": 70,
     "refH": 80,
@@ -8048,7 +7998,7 @@
   "Sakuyamon": {
    "anim": {
     "src": "assets/anim/Sakuyamon.png",
-    "cw": 75,
+    "cw": 96,
     "ch": 92,
     "refW": 55,
     "refH": 85,
@@ -8080,7 +8030,7 @@
   "Silphymon": {
    "anim": {
     "src": "assets/anim/Silphymon.png",
-    "cw": 70,
+    "cw": 90,
     "ch": 83,
     "refW": 70,
     "refH": 80,
@@ -8103,8 +8053,7 @@
      11,
      12,
      13,
-     14,
-     15
+     14
     ]
    },
    "img": "assets/units/Silphymon.png",
@@ -8118,7 +8067,7 @@
   "Stingmon": {
    "anim": {
     "src": "assets/anim/Stingmon.png",
-    "cw": 57,
+    "cw": 76,
     "ch": 83,
     "refW": 46,
     "refH": 55,
@@ -8147,7 +8096,7 @@
   "Syakomon": {
    "anim": {
     "src": "assets/anim/Syakomon.png",
-    "cw": 47,
+    "cw": 52,
     "ch": 57,
     "refW": 45,
     "refH": 50,
@@ -8180,7 +8129,7 @@
   "Taomon": {
    "anim": {
     "src": "assets/anim/Taomon.png",
-    "cw": 71,
+    "cw": 90,
     "ch": 94,
     "refW": 57,
     "refH": 85,
@@ -8209,7 +8158,7 @@
     ],
     "left": {
      "src": "assets/anim/Taomon_L.png",
-     "cw": 91,
+     "cw": 104,
      "ch": 85,
      "refW": 57,
      "refH": 85,
@@ -8237,7 +8186,7 @@
   "Terriermon": {
    "anim": {
     "src": "assets/anim/Terriermon.png",
-    "cw": 61,
+    "cw": 70,
     "ch": 52,
     "refW": 59,
     "refH": 51,
@@ -8265,7 +8214,7 @@
   "Veemon": {
    "anim": {
     "src": "assets/anim/Veemon.png",
-    "cw": 53,
+    "cw": 68,
     "ch": 53,
     "refW": 45,
     "refH": 53,
@@ -8299,7 +8248,7 @@
   "WarGrowlmon": {
    "anim": {
     "src": "assets/anim/WarGrowlmon.png",
-    "cw": 92,
+    "cw": 106,
     "ch": 89,
     "refW": 78,
     "refH": 78,
@@ -8332,7 +8281,7 @@
   "Wingdramon": {
    "anim": {
     "src": "assets/anim/Wingdramon.png",
-    "cw": 124,
+    "cw": 156,
     "ch": 87,
     "refW": 99,
     "refH": 85,
@@ -8370,7 +8319,7 @@
   "Devidramon": {
    "anim": {
     "src": "assets/anim/Devidramon.png",
-    "cw": 82,
+    "cw": 94,
     "ch": 73,
     "refW": 67,
     "refH": 57,
@@ -8405,7 +8354,7 @@
   "Gekomon": {
    "anim": {
     "src": "assets/anim/Gekomon.png",
-    "cw": 46,
+    "cw": 56,
     "ch": 59,
     "refW": 45,
     "refH": 55,
@@ -8435,7 +8384,7 @@
     ],
     "left": {
      "src": "assets/anim/Gekomon_L.png",
-     "cw": 42,
+     "cw": 46,
      "ch": 67,
      "refW": 45,
      "refH": 55,
@@ -8463,7 +8412,7 @@
   "Gigimon": {
    "anim": {
     "src": "assets/anim/Gigimon.png",
-    "cw": 44,
+    "cw": 52,
     "ch": 40,
     "refW": 37,
     "refH": 40,
@@ -8500,7 +8449,7 @@
   "MadLeomon": {
    "anim": {
     "src": "assets/anim/MadLeomon.png",
-    "cw": 81,
+    "cw": 100,
     "ch": 72,
     "refW": 75,
     "refH": 60,
@@ -8544,7 +8493,7 @@
   "Otamamon": {
    "anim": {
     "src": "assets/anim/Otamamon.png",
-    "cw": 68,
+    "cw": 76,
     "ch": 50,
     "refW": 63,
     "refH": 33,
@@ -8583,7 +8532,7 @@
   "Roachmon": {
    "anim": {
     "src": "assets/anim/Roachmon.png",
-    "cw": 69,
+    "cw": 88,
     "ch": 92,
     "refW": 62,
     "refH": 64,
@@ -8619,7 +8568,7 @@
   "Tankmon": {
    "anim": {
     "src": "assets/anim/Tankmon.png",
-    "cw": 79,
+    "cw": 102,
     "ch": 67,
     "refW": 70,
     "refH": 49,
@@ -8656,7 +8605,7 @@
   "Vilemon": {
    "anim": {
     "src": "assets/anim/Vilemon.png",
-    "cw": 70,
+    "cw": 90,
     "ch": 60,
     "refW": 60,
     "refH": 53,
@@ -8691,7 +8640,7 @@
   "Digitamamon": {
    "anim": {
     "src": "assets/anim/Digitamamon.png",
-    "cw": 50,
+    "cw": 52,
     "ch": 58,
     "refW": 47,
     "refH": 56,
@@ -8725,7 +8674,7 @@
   "Wormmon": {
    "anim": {
     "src": "assets/anim/Wormmon.png",
-    "cw": 54,
+    "cw": 60,
     "ch": 52,
     "refW": 53,
     "refH": 49,
