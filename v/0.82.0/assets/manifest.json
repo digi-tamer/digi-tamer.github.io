@@ -14713,6 +14713,14 @@
    },
    "img": "assets/units/OD_vbdm_kuzuha_m.png",
    "portrait": "assets/portrait/OD_vbdm_kuzuha_m.png"
+  },
+  "WM_Culumon": {
+   "img": "assets/units/WM_Culumon.png",
+   "portrait": "assets/portrait/WM_Culumon.png"
+  },
+  "WM_Ryugumon": {
+   "img": "assets/units/WM_Ryugumon.png",
+   "portrait": "assets/portrait/WM_Ryugumon.png"
   }
  },
  "sfx": {
