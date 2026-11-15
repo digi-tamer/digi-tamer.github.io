@@ -4835,18 +4835,13 @@
     "refW": 63,
     "refH": 80,
     "idle": [
-     0,
      1,
-     2,
-     3,
-     4,
-     5
+     2
     ],
     "move": [
      6,
      7,
-     8,
-     9
+     8
     ],
     "attack": [
      12,
@@ -4855,28 +4850,7 @@
      15,
      16,
      17
-    ],
-    "left": {
-     "src": "assets/anim/WereGarurumon_L.png",
-     "cw": 86,
-     "ch": 81,
-     "refW": 63,
-     "refH": 80,
-     "idle": [
-      0,
-      1,
-      2
-     ],
-     "move": [
-      3,
-      4
-     ],
-     "attack": [
-      5,
-      6,
-      7
-     ]
-    }
+    ]
    },
    "img": "assets/units/WereGarurumon.png",
    "hit": "assets/fx/Fx_WereGarurumon_Attack_Hit.png",
@@ -5177,10 +5151,7 @@
     "idle": [
      0,
      1,
-     2,
-     3,
-     4,
-     5
+     2
     ],
     "move": [
      6,
@@ -5448,23 +5419,7 @@
      11,
      12,
      13
-    ],
-    "left": {
-     "src": "assets/anim/Imperialdramon_FighterMode_L.png",
-     "cw": 156,
-     "ch": 111,
-     "refW": 110,
-     "refH": 97,
-     "idle": [
-      0
-     ],
-     "move": [
-      2
-     ],
-     "attack": [
-      5
-     ]
-    }
+    ]
    },
    "img": "assets/units/Imperialdramon_FighterMode.png",
    "hit": "assets/fx/Fx_Imperialdramon_FighterMode_Attack_Hit.png",
@@ -6307,7 +6262,7 @@
    "anim": {
     "src": "assets/anim/Bakemon.png",
     "cw": 78,
-    "ch": 58,
+    "ch": 59,
     "refW": 66,
     "refH": 55,
     "idle": [
@@ -7529,7 +7484,7 @@
    "anim": {
     "src": "assets/anim/Keramon.png",
     "cw": 66,
-    "ch": 58,
+    "ch": 59,
     "refW": 56,
     "refH": 56,
     "idle": [
@@ -14915,6 +14870,10 @@
   "dv5": "assets/img/dv5.png",
   "dv6": "assets/img/dv6.png",
   "dv7": "assets/img/dv7.png",
-  "attr_unknown": "assets/img/attr_unknown.png"
+  "attr_unknown": "assets/img/attr_unknown.png",
+  "guardian_bolt": "assets/img/guardian_bolt.png",
+  "guardian_mist": "assets/img/guardian_mist.png",
+  "guardian_fire": "assets/img/guardian_fire.png",
+  "guardian_steel": "assets/img/guardian_steel.png"
  }
 }
