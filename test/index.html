@@ -16,14 +16,15 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="./assets/index-D_cKA909.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-Dg9Z9uGW.css">
+    <script type="module" crossorigin src="./assets/index-Cp6RXnUj.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BxwZ30wP.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
     <div id="wrap">
     <div id="stage">
     <canvas id="view"></canvas>
+    <canvas id="village" hidden></canvas>
 
     <!-- 위: 라운드 · 적 수 · 재화 · 메뉴 -->
     <header id="topbar">
@@ -92,7 +93,7 @@
       <div id="dock">
         <button class="db" id="dk-gamble"><span class="ic">🎲</span>도박</button>
         <button class="db" id="dk-upgrade"><span class="ic">⚔️</span>강화<small id="dk-upg-lv"></small></button>
-        <button id="dk-summon"><img data-img="digivice" alt=""><span id="dk-summon-l">소환</span><small id="dk-wisps"></small></button>
+        <button id="dk-summon"><img data-img="digivice" alt=""><span id="dk-summon-l">부화</span><small id="dk-wisps"></small></button>
         <button class="db" id="btn-book"><img class="ico" data-img="book" alt="">조합표</button>
         <button class="db" id="dk-bag"><span class="ic">🎒</span>가방<span id="dk-bag-n" class="badge" hidden></span></button>
       </div>
