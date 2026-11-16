@@ -14721,6 +14721,41 @@
   "WM_Ryugumon": {
    "img": "assets/units/WM_Ryugumon.png",
    "portrait": "assets/portrait/WM_Ryugumon.png"
+  },
+  "WM_SkullMammon": {
+   "img": "assets/units/WM_SkullMammon.png",
+   "portrait": "assets/portrait/WM_SkullMammon.png"
+  },
+  "WM_MammonXAntibody": {
+   "img": "assets/units/WM_MammonXAntibody.png",
+   "portrait": "assets/portrait/WM_MammonXAntibody.png"
+  },
+  "WM_Skullmammonx": {
+   "img": "assets/units/WM_Skullmammonx.png",
+   "portrait": "assets/portrait/WM_Skullmammonx.png"
+  },
+  "OD_vbdm_skullmam": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_skullmam.png",
+    "cw": 62,
+    "ch": 55,
+    "refW": 59,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_skullmam.png",
+   "portrait": "assets/portrait/OD_vbdm_skullmam.png"
   }
  },
  "sfx": {
