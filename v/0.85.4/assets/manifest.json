@@ -14756,6 +14756,52 @@
    },
    "img": "assets/units/OD_vbdm_skullmam.png",
    "portrait": "assets/portrait/OD_vbdm_skullmam.png"
+  },
+  "OD_vbbe_metallicdra": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_metallicdra.png",
+    "cw": 76,
+    "ch": 55,
+    "refW": 64,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_metallicdra.png",
+   "portrait": "assets/portrait/OD_vbbe_metallicdra.png"
+  },
+  "OD_vbdm_grotte": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_grotte.png",
+    "cw": 70,
+    "ch": 53,
+    "refW": 61,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_grotte.png",
+   "portrait": "assets/portrait/OD_vbdm_grotte.png"
   }
  },
  "sfx": {
