@@ -14963,6 +14963,22 @@
   "guardian_bolt": "assets/img/guardian_bolt.png",
   "guardian_mist": "assets/img/guardian_mist.png",
   "guardian_fire": "assets/img/guardian_fire.png",
-  "guardian_steel": "assets/img/guardian_steel.png"
+  "guardian_steel": "assets/img/guardian_steel.png",
+  "tamer_taichi_0": "assets/img/tamer_taichi_0.png",
+  "tamer_taichi_1": "assets/img/tamer_taichi_1.png",
+  "tamer_yamato_0": "assets/img/tamer_yamato_0.png",
+  "tamer_yamato_1": "assets/img/tamer_yamato_1.png",
+  "tamer_sora_0": "assets/img/tamer_sora_0.png",
+  "tamer_sora_1": "assets/img/tamer_sora_1.png",
+  "tamer_koushiro_0": "assets/img/tamer_koushiro_0.png",
+  "tamer_koushiro_1": "assets/img/tamer_koushiro_1.png",
+  "tamer_mimi_0": "assets/img/tamer_mimi_0.png",
+  "tamer_mimi_1": "assets/img/tamer_mimi_1.png",
+  "tamer_joe_0": "assets/img/tamer_joe_0.png",
+  "tamer_joe_1": "assets/img/tamer_joe_1.png",
+  "tamer_takeru_0": "assets/img/tamer_takeru_0.png",
+  "tamer_takeru_1": "assets/img/tamer_takeru_1.png",
+  "tamer_hikari_0": "assets/img/tamer_hikari_0.png",
+  "tamer_hikari_1": "assets/img/tamer_hikari_1.png"
  }
 }
