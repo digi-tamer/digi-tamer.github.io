@@ -18330,6 +18330,1090 @@
   "WM_Revolmon": {
    "img": "assets/units/WM_Revolmon.png",
    "portrait": "assets/portrait/WM_Revolmon.png"
+  },
+  "DN_rootmon": {
+   "img": "assets/units/DN_rootmon.png",
+   "portrait": "assets/portrait/DN_rootmon.png"
+  },
+  "DN_algomon_lv1": {
+   "img": "assets/units/DN_algomon_lv1.png",
+   "portrait": "assets/portrait/DN_algomon_lv1.png"
+  },
+  "DN_yolkmon": {
+   "img": "assets/units/DN_yolkmon.png",
+   "portrait": "assets/portrait/DN_yolkmon.png"
+  },
+  "DN_kekomon": {
+   "img": "assets/units/DN_kekomon.png",
+   "portrait": "assets/portrait/DN_kekomon.png"
+  },
+  "DN_cocomon": {
+   "img": "assets/units/DN_cocomon.png",
+   "portrait": "assets/portrait/DN_cocomon.png"
+  },
+  "DN_keemon": {
+   "img": "assets/units/DN_keemon.png",
+   "portrait": "assets/portrait/DN_keemon.png"
+  },
+  "DN_tomorimon": {
+   "img": "assets/units/DN_tomorimon.png",
+   "portrait": "assets/portrait/DN_tomorimon.png"
+  },
+  "DN_pipimon": {
+   "img": "assets/units/DN_pipimon.png",
+   "portrait": "assets/portrait/DN_pipimon.png"
+  },
+  "DN_paomon": {
+   "img": "assets/units/DN_paomon.png",
+   "portrait": "assets/portrait/DN_paomon.png"
+  },
+  "DN_pafumon": {
+   "img": "assets/units/DN_pafumon.png",
+   "portrait": "assets/portrait/DN_pafumon.png"
+  },
+  "DN_pusumon": {
+   "img": "assets/units/DN_pusumon.png",
+   "portrait": "assets/portrait/DN_pusumon.png"
+  },
+  "DN_fukamon": {
+   "img": "assets/units/DN_fukamon.png",
+   "portrait": "assets/portrait/DN_fukamon.png"
+  },
+  "DN_fluffymon": {
+   "img": "assets/units/DN_fluffymon.png",
+   "portrait": "assets/portrait/DN_fluffymon.png"
+  },
+  "DN_kekkomon": {
+   "img": "assets/units/DN_kekkomon.png",
+   "portrait": "assets/portrait/DN_kekkomon.png"
+  },
+  "DN_chocomon": {
+   "img": "assets/units/DN_chocomon.png",
+   "portrait": "assets/portrait/DN_chocomon.png"
+  },
+  "DN_yarmon": {
+   "img": "assets/units/DN_yarmon.png",
+   "portrait": "assets/portrait/DN_yarmon.png"
+  },
+  "DN_onibimon": {
+   "img": "assets/units/DN_onibimon.png",
+   "portrait": "assets/portrait/DN_onibimon.png"
+  },
+  "DN_chapmon": {
+   "img": "assets/units/DN_chapmon.png",
+   "portrait": "assets/portrait/DN_chapmon.png"
+  },
+  "DN_xiaomon": {
+   "img": "assets/units/DN_xiaomon.png",
+   "portrait": "assets/portrait/DN_xiaomon.png"
+  },
+  "DN_kyaromon": {
+   "img": "assets/units/DN_kyaromon.png",
+   "portrait": "assets/portrait/DN_kyaromon.png"
+  },
+  "DN_puroromon": {
+   "img": "assets/units/DN_puroromon.png",
+   "portrait": "assets/portrait/DN_puroromon.png"
+  },
+  "DN_pusurimon": {
+   "img": "assets/units/DN_pusurimon.png",
+   "portrait": "assets/portrait/DN_pusurimon.png"
+  },
+  "DN_mococomon": {
+   "img": "assets/units/DN_mococomon.png",
+   "portrait": "assets/portrait/DN_mococomon.png"
+  },
+  "OD_vbbe_dodo": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_dodo.png",
+    "cw": 28,
+    "ch": 21,
+    "refW": 25,
+    "refH": 21,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_dodo.png",
+   "portrait": "assets/portrait/OD_vbbe_dodo.png"
+  },
+  "OD_vbdm_doki": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_doki.png",
+    "cw": 22,
+    "ch": 22,
+    "refW": 19,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_doki.png",
+   "portrait": "assets/portrait/OD_vbdm_doki.png"
+  },
+  "OD_vbdm_moku": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_moku.png",
+    "cw": 26,
+    "ch": 24,
+    "refW": 20,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_moku.png",
+   "portrait": "assets/portrait/OD_vbdm_moku.png"
+  },
+  "OD_vbdm_bom": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bom.png",
+    "cw": 36,
+    "ch": 24,
+    "refW": 23,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bom.png",
+   "portrait": "assets/portrait/OD_vbdm_bom.png"
+  },
+  "OD_vbdm_pyon": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_pyon.png",
+    "cw": 26,
+    "ch": 22,
+    "refW": 23,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_pyon.png",
+   "portrait": "assets/portrait/OD_vbdm_pyon.png"
+  },
+  "OD_vbdm_puyo": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_puyo.png",
+    "cw": 20,
+    "ch": 18,
+    "refW": 17,
+    "refH": 18,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_puyo.png",
+   "portrait": "assets/portrait/OD_vbdm_puyo.png"
+  },
+  "OD_vbbe_petit": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_petit.png",
+    "cw": 28,
+    "ch": 17,
+    "refW": 23,
+    "refH": 17,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_petit.png",
+   "portrait": "assets/portrait/OD_vbbe_petit.png"
+  },
+  "OD_vbdm_suna": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_suna.png",
+    "cw": 36,
+    "ch": 17,
+    "refW": 29,
+    "refH": 17,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_suna.png",
+   "portrait": "assets/portrait/OD_vbdm_suna.png"
+  },
+  "OD_vbdm_zuru": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_zuru.png",
+    "cw": 32,
+    "ch": 16,
+    "refW": 29,
+    "refH": 16,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_zuru.png",
+   "portrait": "assets/portrait/OD_vbdm_zuru.png"
+  },
+  "OD_vbdm_keto": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_keto.png",
+    "cw": 26,
+    "ch": 23,
+    "refW": 24,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_keto.png",
+   "portrait": "assets/portrait/OD_vbdm_keto.png"
+  },
+  "OD_vbdm_curi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_curi.png",
+    "cw": 30,
+    "ch": 24,
+    "refW": 25,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_curi.png",
+   "portrait": "assets/portrait/OD_vbdm_curi.png"
+  },
+  "OD_vbdm_popo": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_popo.png",
+    "cw": 36,
+    "ch": 22,
+    "refW": 30,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_popo.png",
+   "portrait": "assets/portrait/OD_vbdm_popo.png"
+  },
+  "OD_vbbe_fusa": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_fusa.png",
+    "cw": 36,
+    "ch": 19,
+    "refW": 29,
+    "refH": 19,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_fusa.png",
+   "portrait": "assets/portrait/OD_vbbe_fusa.png"
+  },
+  "OD_vbbe_fufu": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_fufu.png",
+    "cw": 22,
+    "ch": 22,
+    "refW": 17,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_fufu.png",
+   "portrait": "assets/portrait/OD_vbbe_fufu.png"
+  },
+  "OD_vbdm_wanya": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_wanya.png",
+    "cw": 34,
+    "ch": 24,
+    "refW": 31,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_wanya.png",
+   "portrait": "assets/portrait/OD_vbdm_wanya.png"
+  },
+  "OD_vbdm_bibi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bibi.png",
+    "cw": 26,
+    "ch": 24,
+    "refW": 23,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bibi.png",
+   "portrait": "assets/portrait/OD_vbdm_bibi.png"
+  },
+  "OD_vbdm_petimera": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_petimera.png",
+    "cw": 36,
+    "ch": 24,
+    "refW": 29,
+    "refH": 23,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_petimera.png",
+   "portrait": "assets/portrait/OD_vbdm_petimera.png"
+  },
+  "OD_vbdm_bosa": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bosa.png",
+    "cw": 30,
+    "ch": 24,
+    "refW": 25,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bosa.png",
+   "portrait": "assets/portrait/OD_vbdm_bosa.png"
+  },
+  "OD_vbdm_puyoyo": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_puyoyo.png",
+    "cw": 26,
+    "ch": 22,
+    "refW": 23,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_puyoyo.png",
+   "portrait": "assets/portrait/OD_vbdm_puyoyo.png"
+  },
+  "OD_vbbe_babyd": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_babyd.png",
+    "cw": 26,
+    "ch": 22,
+    "refW": 20,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_babyd.png",
+   "portrait": "assets/portrait/OD_vbbe_babyd.png"
+  },
+  "OD_vbdm_goro": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_goro.png",
+    "cw": 26,
+    "ch": 23,
+    "refW": 23,
+    "refH": 23,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_goro.png",
+   "portrait": "assets/portrait/OD_vbdm_goro.png"
+  },
+  "OD_vbdm_algo_iv": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_algo_iv.png",
+    "cw": 70,
+    "ch": 51,
+    "refW": 60,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_algo_iv.png",
+   "portrait": "assets/portrait/OD_vbdm_algo_iv.png"
+  },
+  "OD_vbdm_hop": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_hop.png",
+    "cw": 30,
+    "ch": 24,
+    "refW": 27,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_hop.png",
+   "portrait": "assets/portrait/OD_vbdm_hop.png"
+  },
+  "OD_vbdm_guri": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_guri.png",
+    "cw": 32,
+    "ch": 24,
+    "refW": 28,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_guri.png",
+   "portrait": "assets/portrait/OD_vbdm_guri.png"
+  },
+  "OD_vbdm_fri": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_fri.png",
+    "cw": 38,
+    "ch": 24,
+    "refW": 31,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_fri.png",
+   "portrait": "assets/portrait/OD_vbdm_fri.png"
+  },
+  "OD_vbdm_hiyari": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_hiyari.png",
+    "cw": 32,
+    "ch": 23,
+    "refW": 23,
+    "refH": 23,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_hiyari.png",
+   "portrait": "assets/portrait/OD_vbdm_hiyari.png"
+  },
+  "OD_vbbe_bow": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_bow.png",
+    "cw": 36,
+    "ch": 24,
+    "refW": 31,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_bow.png",
+   "portrait": "assets/portrait/OD_vbbe_bow.png"
+  },
+  "OD_vbbe_kyokyo": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_kyokyo.png",
+    "cw": 46,
+    "ch": 23,
+    "refW": 30,
+    "refH": 23,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_kyokyo.png",
+   "portrait": "assets/portrait/OD_vbbe_kyokyo.png"
+  },
+  "OD_vbdm_digitama_bota": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_bota.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_bota.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_bota.png"
+  },
+  "OD_vbdm_digitama_rele": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_rele.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_rele.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_rele.png"
+  },
+  "OD_vbdm_digitama_moku": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_moku.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_moku.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_moku.png"
+  },
+  "OD_vbdm_digitama_bom": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_bom.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_bom.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_bom.png"
+  },
+  "OD_vbdm_digitama_pyon": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_pyon.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_pyon.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_pyon.png"
+  },
+  "OD_vbdm_digitama_puyo": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_puyo.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_puyo.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_puyo.png"
+  },
+  "OD_vbdm_digitama_saku": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_saku.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_saku.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_saku.png"
+  },
+  "OD_vbdm_digitama_suna": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_suna.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_suna.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_suna.png"
+  },
+  "OD_vbdm_digitama_yura": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_yura.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_yura.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_yura.png"
+  },
+  "OD_vbdm_digitama_jyari": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_jyari.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_jyari.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_jyari.png"
+  },
+  "OD_vbdm_digitama_zeri": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_zeri.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_zeri.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_zeri.png"
+  },
+  "OD_vbdm_digitama_keto": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_keto.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_keto.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_keto.png"
+  },
+  "OD_vbdm_digitama_cotsuco": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_cotsuco.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_cotsuco.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_cotsuco.png"
+  },
+  "OD_vbdm_digitama_curi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_curi.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_curi.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_curi.png"
+  },
+  "OD_vbdm_digitama_puni": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_puni.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_puni.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_puni.png"
+  },
+  "OD_vbdm_digitama_pitch": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_pitch.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_pitch.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_pitch.png"
+  },
+  "OD_vbdm_digitama_yukimibota": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_digitama_yukimibota.png",
+    "cw": 28,
+    "ch": 29,
+    "refW": 24,
+    "refH": 29,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_digitama_yukimibota.png",
+   "portrait": "assets/portrait/OD_vbdm_digitama_yukimibota.png"
+  },
+  "S2_egg": {
+   "img": "assets/units/S2_egg.png",
+   "portrait": "assets/units/S2_egg.png"
+  },
+  "DN_suzumon": {
+   "img": "assets/units/DN_suzumon.png",
+   "portrait": "assets/portrait/DN_suzumon.png"
   }
  },
  "sfx": {
