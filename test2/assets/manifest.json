@@ -19414,6 +19414,22 @@
   "DN_suzumon": {
    "img": "assets/units/DN_suzumon.png",
    "portrait": "assets/portrait/DN_suzumon.png"
+  },
+  "WM_Metallicdramon": {
+   "img": "assets/units/WM_Metallicdramon.png",
+   "portrait": "assets/portrait/WM_Metallicdramon.png"
+  },
+  "WM_Shadramon": {
+   "img": "assets/units/WM_Shadramon.png",
+   "portrait": "assets/portrait/WM_Shadramon.png"
+  },
+  "WM_Kongoumon": {
+   "img": "assets/units/WM_Kongoumon.png",
+   "portrait": "assets/portrait/WM_Kongoumon.png"
+  },
+  "WM_Pucchiemon": {
+   "img": "assets/units/WM_Pucchiemon.png",
+   "portrait": "assets/portrait/WM_Pucchiemon.png"
   }
  },
  "sfx": {
