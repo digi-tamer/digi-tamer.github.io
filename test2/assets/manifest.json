@@ -19415,22 +19415,6 @@
    "img": "assets/units/DN_suzumon.png",
    "portrait": "assets/portrait/DN_suzumon.png"
   },
-  "WM_Metallicdramon": {
-   "img": "assets/units/WM_Metallicdramon.png",
-   "portrait": "assets/portrait/WM_Metallicdramon.png"
-  },
-  "WM_Shadramon": {
-   "img": "assets/units/WM_Shadramon.png",
-   "portrait": "assets/portrait/WM_Shadramon.png"
-  },
-  "WM_Kongoumon": {
-   "img": "assets/units/WM_Kongoumon.png",
-   "portrait": "assets/portrait/WM_Kongoumon.png"
-  },
-  "WM_Pucchiemon": {
-   "img": "assets/units/WM_Pucchiemon.png",
-   "portrait": "assets/portrait/WM_Pucchiemon.png"
-  },
   "OD_d3c_rapid_a": {
    "anim": {
     "src": "assets/anim/OD_d3c_rapid_a.png",
@@ -19453,6 +19437,225 @@
    },
    "img": "assets/units/OD_d3c_rapid_a.png",
    "portrait": "assets/portrait/OD_d3c_rapid_a.png"
+  },
+  "OD_d3c_shuri": {
+   "anim": {
+    "src": "assets/anim/OD_d3c_shuri.png",
+    "cw": 64,
+    "ch": 48,
+    "refW": 56,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_d3c_shuri.png",
+   "portrait": "assets/portrait/OD_d3c_shuri.png"
+  },
+  "DN_metallicdramon": {
+   "img": "assets/units/DN_metallicdramon.png",
+   "portrait": "assets/portrait/DN_metallicdramon.png"
+  },
+  "DN_sepikmon": {
+   "img": "assets/units/DN_sepikmon.png",
+   "portrait": "assets/portrait/DN_sepikmon.png"
+  },
+  "DN_pteranomon": {
+   "img": "assets/units/DN_pteranomon.png",
+   "portrait": "assets/portrait/DN_pteranomon.png"
+  },
+  "DN_frogmon": {
+   "img": "assets/units/DN_frogmon.png",
+   "portrait": "assets/portrait/DN_frogmon.png"
+  },
+  "DN_sheepmon": {
+   "img": "assets/units/DN_sheepmon.png",
+   "portrait": "assets/portrait/DN_sheepmon.png"
+  },
+  "DN_seahomon": {
+   "img": "assets/units/DN_seahomon.png",
+   "portrait": "assets/portrait/DN_seahomon.png"
+  },
+  "DN_chamelemon": {
+   "img": "assets/units/DN_chamelemon.png",
+   "portrait": "assets/portrait/DN_chamelemon.png"
+  },
+  "DN_elephamon": {
+   "img": "assets/units/DN_elephamon.png",
+   "portrait": "assets/portrait/DN_elephamon.png"
+  },
+  "DN_allomon": {
+   "img": "assets/units/DN_allomon.png",
+   "portrait": "assets/portrait/DN_allomon.png"
+  },
+  "DN_rinkmon": {
+   "img": "assets/units/DN_rinkmon.png",
+   "portrait": "assets/portrait/DN_rinkmon.png"
+  },
+  "DN_flybeemon": {
+   "img": "assets/units/DN_flybeemon.png",
+   "portrait": "assets/portrait/DN_flybeemon.png"
+  },
+  "DN_orcamon": {
+   "img": "assets/units/DN_orcamon.png",
+   "portrait": "assets/portrait/DN_orcamon.png"
+  },
+  "DN_moosemon": {
+   "img": "assets/units/DN_moosemon.png",
+   "portrait": "assets/portrait/DN_moosemon.png"
+  },
+  "DN_harpymon": {
+   "img": "assets/units/DN_harpymon.png",
+   "portrait": "assets/portrait/DN_harpymon.png"
+  },
+  "DN_tocanmon": {
+   "img": "assets/units/DN_tocanmon.png",
+   "portrait": "assets/portrait/DN_tocanmon.png"
+  },
+  "DN_peacockmon": {
+   "img": "assets/units/DN_peacockmon.png",
+   "portrait": "assets/portrait/DN_peacockmon.png"
+  },
+  "DN_baromon": {
+   "img": "assets/units/DN_baromon.png",
+   "portrait": "assets/portrait/DN_baromon.png"
+  },
+  "DN_stegomon": {
+   "img": "assets/units/DN_stegomon.png",
+   "portrait": "assets/portrait/DN_stegomon.png"
+  },
+  "DN_pipismon": {
+   "img": "assets/units/DN_pipismon.png",
+   "portrait": "assets/portrait/DN_pipismon.png"
+  },
+  "DN_mothmon": {
+   "img": "assets/units/DN_mothmon.png",
+   "portrait": "assets/portrait/DN_mothmon.png"
+  },
+  "DN_ponchomon": {
+   "img": "assets/units/DN_ponchomon.png",
+   "portrait": "assets/portrait/DN_ponchomon.png"
+  },
+  "DN_mantaraymon": {
+   "img": "assets/units/DN_mantaraymon.png",
+   "portrait": "assets/portrait/DN_mantaraymon.png"
+  },
+  "DN_manbomon": {
+   "img": "assets/units/DN_manbomon.png",
+   "portrait": "assets/portrait/DN_manbomon.png"
+  },
+  "DN_prairiemon": {
+   "img": "assets/units/DN_prairiemon.png",
+   "portrait": "assets/portrait/DN_prairiemon.png"
+  },
+  "DN_rhinomon": {
+   "img": "assets/units/DN_rhinomon.png",
+   "portrait": "assets/portrait/DN_rhinomon.png"
+  },
+  "DN_lynxmon": {
+   "img": "assets/units/DN_lynxmon.png",
+   "portrait": "assets/portrait/DN_lynxmon.png"
+  },
+  "DN_bitmon": {
+   "img": "assets/units/DN_bitmon.png",
+   "portrait": "assets/portrait/DN_bitmon.png"
+  },
+  "DN_swanmon": {
+   "img": "assets/units/DN_swanmon.png",
+   "portrait": "assets/portrait/DN_swanmon.png"
+  },
+  "DN_butterflamon": {
+   "img": "assets/units/DN_butterflamon.png",
+   "portrait": "assets/portrait/DN_butterflamon.png"
+  },
+  "DN_kabukimon": {
+   "img": "assets/units/DN_kabukimon.png",
+   "portrait": "assets/portrait/DN_kabukimon.png"
+  },
+  "DN_goatmon": {
+   "img": "assets/units/DN_goatmon.png",
+   "portrait": "assets/portrait/DN_goatmon.png"
+  },
+  "DN_opossummon": {
+   "img": "assets/units/DN_opossummon.png",
+   "portrait": "assets/portrait/DN_opossummon.png"
+  },
+  "DN_maildramon": {
+   "img": "assets/units/DN_maildramon.png",
+   "portrait": "assets/portrait/DN_maildramon.png"
+  },
+  "DN_sethmon": {
+   "img": "assets/units/DN_sethmon.png",
+   "portrait": "assets/portrait/DN_sethmon.png"
+  },
+  "DN_honeybeemon": {
+   "img": "assets/units/DN_honeybeemon.png",
+   "portrait": "assets/portrait/DN_honeybeemon.png"
+  },
+  "DN_yaksamon": {
+   "img": "assets/units/DN_yaksamon.png",
+   "portrait": "assets/portrait/DN_yaksamon.png"
+  },
+  "DN_depthmon": {
+   "img": "assets/units/DN_depthmon.png",
+   "portrait": "assets/portrait/DN_depthmon.png"
+  },
+  "DN_kangarumon": {
+   "img": "assets/units/DN_kangarumon.png",
+   "portrait": "assets/portrait/DN_kangarumon.png"
+  },
+  "DN_goldv-dramon": {
+   "img": "assets/units/DN_goldv-dramon.png",
+   "portrait": "assets/portrait/DN_goldv-dramon.png"
+  },
+  "DN_togemogumon": {
+   "img": "assets/units/DN_togemogumon.png",
+   "portrait": "assets/portrait/DN_togemogumon.png"
+  },
+  "DN_owlmon": {
+   "img": "assets/units/DN_owlmon.png",
+   "portrait": "assets/portrait/DN_owlmon.png"
+  },
+  "DN_searchmon": {
+   "img": "assets/units/DN_searchmon.png",
+   "portrait": "assets/portrait/DN_searchmon.png"
+  },
+  "DN_nohemon": {
+   "img": "assets/units/DN_nohemon.png",
+   "portrait": "assets/portrait/DN_nohemon.png"
+  },
+  "DN_archelomon": {
+   "img": "assets/units/DN_archelomon.png",
+   "portrait": "assets/portrait/DN_archelomon.png"
+  },
+  "DN_bullmon": {
+   "img": "assets/units/DN_bullmon.png",
+   "portrait": "assets/portrait/DN_bullmon.png"
+  },
+  "DN_quetzalmon": {
+   "img": "assets/units/DN_quetzalmon.png",
+   "portrait": "assets/portrait/DN_quetzalmon.png"
+  },
+  "DN_pucchiemon": {
+   "img": "assets/units/DN_pucchiemon.png",
+   "portrait": "assets/portrait/DN_pucchiemon.png"
+  },
+  "DN_kongoumon": {
+   "img": "assets/units/DN_kongoumon.png",
+   "portrait": "assets/portrait/DN_kongoumon.png"
+  },
+  "DN_shadramon": {
+   "img": "assets/units/DN_shadramon.png",
+   "portrait": "assets/portrait/DN_shadramon.png"
   }
  },
  "sfx": {
