@@ -19430,6 +19430,29 @@
   "WM_Pucchiemon": {
    "img": "assets/units/WM_Pucchiemon.png",
    "portrait": "assets/portrait/WM_Pucchiemon.png"
+  },
+  "OD_d3c_rapid_a": {
+   "anim": {
+    "src": "assets/anim/OD_d3c_rapid_a.png",
+    "cw": 62,
+    "ch": 55,
+    "refW": 60,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_d3c_rapid_a.png",
+   "portrait": "assets/portrait/OD_d3c_rapid_a.png"
   }
  },
  "sfx": {
