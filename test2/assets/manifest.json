@@ -19656,6 +19656,10 @@
   "DN_shadramon": {
    "img": "assets/units/DN_shadramon.png",
    "portrait": "assets/portrait/DN_shadramon.png"
+  },
+  "DN_pucchiemon-green": {
+   "img": "assets/units/DN_pucchiemon-green.png",
+   "portrait": "assets/portrait/DN_pucchiemon-green.png"
   }
  },
  "sfx": {
