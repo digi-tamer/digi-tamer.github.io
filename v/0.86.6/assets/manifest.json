@@ -18206,6 +18206,10 @@
    },
    "img": "assets/units/OD_vbdm_worm.png",
    "portrait": "assets/portrait/OD_vbdm_worm.png"
+  },
+  "WM_Revolmon": {
+   "img": "assets/units/WM_Revolmon.png",
+   "portrait": "assets/portrait/WM_Revolmon.png"
   }
  },
  "sfx": {
