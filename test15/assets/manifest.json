@@ -20024,6 +20024,144 @@
    },
    "img": "assets/units/OD_vbdm_raihi.png",
    "portrait": "assets/portrait/OD_vbdm_raihi.png"
+  },
+  "OD_vbdm_ancientiris": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientiris.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 48,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientiris.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientiris.png"
+  },
+  "OD_vbdm_ancientmegatheriu": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientmegatheriu.png",
+    "cw": 70,
+    "ch": 51,
+    "refW": 60,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientmegatheriu.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientmegatheriu.png"
+  },
+  "OD_vbdm_ancientbeat": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientbeat.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientbeat.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientbeat.png"
+  },
+  "OD_vbdm_ancientsphinx": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientsphinx.png",
+    "cw": 72,
+    "ch": 55,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientsphinx.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientsphinx.png"
+  },
+  "OD_vbdm_ancientmermai": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientmermai.png",
+    "cw": 72,
+    "ch": 55,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientmermai.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientmermai.png"
+  },
+  "OD_vbdm_ancientwise": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientwise.png",
+    "cw": 58,
+    "ch": 56,
+    "refW": 52,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientwise.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientwise.png"
   }
  },
  "sfx": {
