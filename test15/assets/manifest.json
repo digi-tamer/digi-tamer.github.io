@@ -19728,6 +19728,259 @@
    },
    "img": "assets/units/OD_vbdm_goldvdra.png",
    "portrait": "assets/portrait/OD_vbdm_goldvdra.png"
+  },
+  "OD_vbdm_rana": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rana.png",
+    "cw": 60,
+    "ch": 53,
+    "refW": 44,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rana.png",
+   "portrait": "assets/portrait/OD_vbdm_rana.png"
+  },
+  "OD_vbdm_calamara": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_calamara.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_calamara.png",
+   "portrait": "assets/portrait/OD_vbdm_calamara.png"
+  },
+  "OD_vbdm_blitz": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_blitz.png",
+    "cw": 60,
+    "ch": 56,
+    "refW": 53,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_blitz.png",
+   "portrait": "assets/portrait/OD_vbdm_blitz.png"
+  },
+  "OD_vbdm_bolg": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bolg.png",
+    "cw": 70,
+    "ch": 55,
+    "refW": 58,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bolg.png",
+   "portrait": "assets/portrait/OD_vbdm_bolg.png"
+  },
+  "OD_vbdm_mercure": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_mercure.png",
+    "cw": 44,
+    "ch": 48,
+    "refW": 38,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_mercure.png",
+   "portrait": "assets/portrait/OD_vbdm_mercure.png"
+  },
+  "OD_vbdm_sephiroth": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_sephiroth.png",
+    "cw": 38,
+    "ch": 56,
+    "refW": 34,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_sephiroth.png",
+   "portrait": "assets/portrait/OD_vbdm_sephiroth.png"
+  },
+  "OD_vbdm_alda": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_alda.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_alda.png",
+   "portrait": "assets/portrait/OD_vbdm_alda.png"
+  },
+  "OD_vbdm_beowolf": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_beowolf.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 53,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_beowolf.png",
+   "portrait": "assets/portrait/OD_vbdm_beowolf.png"
+  },
+  "OD_vbdm_jetsilphy": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_jetsilphy.png",
+    "cw": 68,
+    "ch": 55,
+    "refW": 64,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_jetsilphy.png",
+   "portrait": "assets/portrait/OD_vbdm_jetsilphy.png"
+  },
+  "OD_vbdm_daipen": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_daipen.png",
+    "cw": 52,
+    "ch": 55,
+    "refW": 49,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_daipen.png",
+   "portrait": "assets/portrait/OD_vbdm_daipen.png"
+  },
+  "OD_vbdm_rhinokabuteri": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rhinokabuteri.png",
+    "cw": 70,
+    "ch": 47,
+    "refW": 63,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rhinokabuteri.png",
+   "portrait": "assets/portrait/OD_vbdm_rhinokabuteri.png"
   }
  },
  "sfx": {
