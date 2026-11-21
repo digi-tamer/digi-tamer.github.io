@@ -20162,6 +20162,252 @@
    },
    "img": "assets/units/OD_vbdm_ancientwise.png",
    "portrait": "assets/portrait/OD_vbdm_ancientwise.png"
+  },
+  "OD_vbbe_funbee": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_funbee.png",
+    "cw": 50,
+    "ch": 40,
+    "refW": 47,
+    "refH": 40,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_funbee.png",
+   "portrait": "assets/portrait/OD_vbbe_funbee.png"
+  },
+  "OD_dac_baku": {
+   "anim": {
+    "src": "assets/anim/OD_dac_baku.png",
+    "cw": 58,
+    "ch": 30,
+    "refW": 48,
+    "refH": 30,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dac_baku.png",
+   "portrait": "assets/portrait/OD_dac_baku.png"
+  },
+  "OD_vbdm_sni": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_sni.png",
+    "cw": 66,
+    "ch": 47,
+    "refW": 56,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_sni.png",
+   "portrait": "assets/portrait/OD_vbdm_sni.png"
+  },
+  "OD_vbdm_wendi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_wendi.png",
+    "cw": 66,
+    "ch": 53,
+    "refW": 61,
+    "refH": 52,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_wendi.png",
+   "portrait": "assets/portrait/OD_vbdm_wendi.png"
+  },
+  "OD_vbbe_sangloup": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_sangloup.png",
+    "cw": 70,
+    "ch": 51,
+    "refW": 60,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_sangloup.png",
+   "portrait": "assets/portrait/OD_vbbe_sangloup.png"
+  },
+  "DN_platinasukamon": {
+   "img": "assets/units/DN_platinasukamon.png",
+   "portrait": "assets/portrait/DN_platinasukamon.png"
+  },
+  "OD_vbdm_asta": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_asta.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_asta.png",
+   "portrait": "assets/portrait/OD_vbdm_asta.png"
+  },
+  "OD_vbbe_blackkingnume": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_blackkingnume.png",
+    "cw": 62,
+    "ch": 45,
+    "refW": 59,
+    "refH": 43,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_blackkingnume.png",
+   "portrait": "assets/portrait/OD_vbbe_blackkingnume.png"
+  },
+  "OD_dvc_vade": {
+   "anim": {
+    "src": "assets/anim/OD_dvc_vade.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 45,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dvc_vade.png",
+   "portrait": "assets/portrait/OD_dvc_vade.png"
+  },
+  "OD_vbbe_matadr": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_matadr.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 58,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_matadr.png",
+   "portrait": "assets/portrait/OD_vbbe_matadr.png"
+  },
+  "DN_venusmon": {
+   "img": "assets/units/DN_venusmon.png",
+   "portrait": "assets/portrait/DN_venusmon.png"
+  },
+  "DN_vulcanusmon": {
+   "img": "assets/units/DN_vulcanusmon.png",
+   "portrait": "assets/portrait/DN_vulcanusmon.png"
+  },
+  "DN_princemamemon": {
+   "img": "assets/units/DN_princemamemon.png",
+   "portrait": "assets/portrait/DN_princemamemon.png"
+  },
+  "OD_vbbe_banchomame_d": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_banchomame_d.png",
+    "cw": 42,
+    "ch": 39,
+    "refW": 39,
+    "refH": 39,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_banchomame_d.png",
+   "portrait": "assets/portrait/OD_vbbe_banchomame_d.png"
   }
  },
  "sfx": {
