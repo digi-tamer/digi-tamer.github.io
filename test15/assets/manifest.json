@@ -19678,6 +19678,10 @@
   "DN_omegamon-x": {
    "img": "assets/units/DN_omegamon-x.png",
    "portrait": "assets/portrait/DN_omegamon-x.png"
+  },
+  "DN_dinobeemon": {
+   "img": "assets/units/DN_dinobeemon.png",
+   "portrait": "assets/portrait/DN_dinobeemon.png"
   }
  },
  "sfx": {
