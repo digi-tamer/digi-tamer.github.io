@@ -19682,6 +19682,52 @@
   "DN_dinobeemon": {
    "img": "assets/units/DN_dinobeemon.png",
    "portrait": "assets/portrait/DN_dinobeemon.png"
+  },
+  "OD_vbdm_rapid_a": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rapid_a.png",
+    "cw": 62,
+    "ch": 55,
+    "refW": 60,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rapid_a.png",
+   "portrait": "assets/portrait/OD_vbdm_rapid_a.png"
+  },
+  "OD_vbdm_goldvdra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_goldvdra.png",
+    "cw": 58,
+    "ch": 48,
+    "refW": 45,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_goldvdra.png",
+   "portrait": "assets/portrait/OD_vbdm_goldvdra.png"
   }
  },
  "sfx": {
