@@ -18397,6 +18397,30 @@
   "DN_kongoumon": {
    "img": "assets/units/DN_kongoumon.png",
    "portrait": "assets/portrait/DN_kongoumon.png"
+  },
+  "DN_ranamon": {
+   "img": "assets/units/DN_ranamon.png",
+   "portrait": "assets/portrait/DN_ranamon.png"
+  },
+  "DN_calamaramon": {
+   "img": "assets/units/DN_calamaramon.png",
+   "portrait": "assets/portrait/DN_calamaramon.png"
+  },
+  "DN_blitzmon": {
+   "img": "assets/units/DN_blitzmon.png",
+   "portrait": "assets/portrait/DN_blitzmon.png"
+  },
+  "DN_bolgmon": {
+   "img": "assets/units/DN_bolgmon.png",
+   "portrait": "assets/portrait/DN_bolgmon.png"
+  },
+  "DN_mercuremon": {
+   "img": "assets/units/DN_mercuremon.png",
+   "portrait": "assets/portrait/DN_mercuremon.png"
+  },
+  "DN_sephirothmon": {
+   "img": "assets/units/DN_sephirothmon.png",
+   "portrait": "assets/portrait/DN_sephirothmon.png"
   }
  },
  "sfx": {
