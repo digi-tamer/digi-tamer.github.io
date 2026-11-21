@@ -19981,6 +19981,49 @@
    },
    "img": "assets/units/OD_vbdm_rhinokabuteri.png",
    "portrait": "assets/portrait/OD_vbdm_rhinokabuteri.png"
+  },
+  "OD_vbdm_lowe": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_lowe.png",
+    "cw": 66,
+    "ch": 55,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0
+    ],
+    "move": [
+     0
+    ],
+    "attack": [
+     0
+    ]
+   },
+   "img": "assets/units/OD_vbdm_lowe.png",
+   "portrait": "assets/portrait/OD_vbdm_lowe.png"
+  },
+  "OD_vbdm_raihi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_raihi.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_raihi.png",
+   "portrait": "assets/portrait/OD_vbdm_raihi.png"
   }
  },
  "sfx": {
