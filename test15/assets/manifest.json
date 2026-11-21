@@ -18421,6 +18421,26 @@
   "DN_sephirothmon": {
    "img": "assets/units/DN_sephirothmon.png",
    "portrait": "assets/portrait/DN_sephirothmon.png"
+  },
+  "DN_aldamon": {
+   "img": "assets/units/DN_aldamon.png",
+   "portrait": "assets/portrait/DN_aldamon.png"
+  },
+  "DN_beowolfmon": {
+   "img": "assets/units/DN_beowolfmon.png",
+   "portrait": "assets/portrait/DN_beowolfmon.png"
+  },
+  "DN_jetsilphymon": {
+   "img": "assets/units/DN_jetsilphymon.png",
+   "portrait": "assets/portrait/DN_jetsilphymon.png"
+  },
+  "DN_daipenmon": {
+   "img": "assets/units/DN_daipenmon.png",
+   "portrait": "assets/portrait/DN_daipenmon.png"
+  },
+  "DN_rhinokabuterimon": {
+   "img": "assets/units/DN_rhinokabuterimon.png",
+   "portrait": "assets/portrait/DN_rhinokabuterimon.png"
   }
  },
  "sfx": {
