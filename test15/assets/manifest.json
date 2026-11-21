@@ -20730,6 +20730,1230 @@
    },
    "img": "assets/units/OD_vbdm_bloomlord.png",
    "portrait": "assets/portrait/OD_vbdm_bloomlord.png"
+  },
+  "DN_capromon": {
+   "img": "assets/units/DN_capromon.png",
+   "portrait": "assets/portrait/DN_capromon.png"
+  },
+  "DN_hyokomon": {
+   "img": "assets/units/DN_hyokomon.png",
+   "portrait": "assets/portrait/DN_hyokomon.png"
+  },
+  "OD_vbdm_monodra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_monodra.png",
+    "cw": 46,
+    "ch": 41,
+    "refW": 43,
+    "refH": 40,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_monodra.png",
+   "portrait": "assets/portrait/OD_vbdm_monodra.png"
+  },
+  "DN_kamemon": {
+   "img": "assets/units/DN_kamemon.png",
+   "portrait": "assets/portrait/DN_kamemon.png"
+  },
+  "OD_vbbe_shout": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_shout.png",
+    "cw": 58,
+    "ch": 41,
+    "refW": 42,
+    "refH": 41,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_shout.png",
+   "portrait": "assets/portrait/OD_vbbe_shout.png"
+  },
+  "DN_huckmon": {
+   "img": "assets/units/DN_huckmon.png",
+   "portrait": "assets/portrait/DN_huckmon.png"
+  },
+  "DN_muchomon": {
+   "img": "assets/units/DN_muchomon.png",
+   "portrait": "assets/portrait/DN_muchomon.png"
+  },
+  "DN_shamamon": {
+   "img": "assets/units/DN_shamamon.png",
+   "portrait": "assets/portrait/DN_shamamon.png"
+  },
+  "DN_tyumon": {
+   "img": "assets/units/DN_tyumon.png",
+   "portrait": "assets/portrait/DN_tyumon.png"
+  },
+  "DN_terriermon_assistant": {
+   "img": "assets/units/DN_terriermon_assistant.png",
+   "portrait": "assets/portrait/DN_terriermon_assistant.png"
+  },
+  "DN_gryzmon": {
+   "img": "assets/units/DN_gryzmon.png",
+   "portrait": "assets/portrait/DN_gryzmon.png"
+  },
+  "OD_vbdm_strikedra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_strikedra.png",
+    "cw": 62,
+    "ch": 56,
+    "refW": 52,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_strikedra.png",
+   "portrait": "assets/portrait/OD_vbdm_strikedra.png"
+  },
+  "DN_sorcerimon": {
+   "img": "assets/units/DN_sorcerimon.png",
+   "portrait": "assets/portrait/DN_sorcerimon.png"
+  },
+  "DN_buraimon": {
+   "img": "assets/units/DN_buraimon.png",
+   "portrait": "assets/portrait/DN_buraimon.png"
+  },
+  "OD_vbbe_peck": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_peck.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 39,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_peck.png",
+   "portrait": "assets/portrait/OD_vbbe_peck.png"
+  },
+  "OD_vbdm_reppa": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_reppa.png",
+    "cw": 64,
+    "ch": 47,
+    "refW": 56,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_reppa.png",
+   "portrait": "assets/portrait/OD_vbdm_reppa.png"
+  },
+  "DN_witchmon": {
+   "img": "assets/units/DN_witchmon.png",
+   "portrait": "assets/portrait/DN_witchmon.png"
+  },
+  "DN_gawappamon": {
+   "img": "assets/units/DN_gawappamon.png",
+   "portrait": "assets/portrait/DN_gawappamon.png"
+  },
+  "OD_dvc_kiwi": {
+   "anim": {
+    "src": "assets/anim/OD_dvc_kiwi.png",
+    "cw": 54,
+    "ch": 51,
+    "refW": 43,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dvc_kiwi.png",
+   "portrait": "assets/portrait/OD_dvc_kiwi.png"
+  },
+  "OD_vbdm_coela": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_coela.png",
+    "cw": 62,
+    "ch": 52,
+    "refW": 54,
+    "refH": 52,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_coela.png",
+   "portrait": "assets/portrait/OD_vbdm_coela.png"
+  },
+  "DN_tuchidarumon": {
+   "img": "assets/units/DN_tuchidarumon.png",
+   "portrait": "assets/portrait/DN_tuchidarumon.png"
+  },
+  "DN_dinohumon": {
+   "img": "assets/units/DN_dinohumon.png",
+   "portrait": "assets/portrait/DN_dinohumon.png"
+  },
+  "OD_vbdm_turuie": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_turuie.png",
+    "cw": 66,
+    "ch": 51,
+    "refW": 59,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_turuie.png",
+   "portrait": "assets/portrait/OD_vbdm_turuie.png"
+  },
+  "OD_vbdm_drimoge": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_drimoge.png",
+    "cw": 82,
+    "ch": 38,
+    "refW": 60,
+    "refH": 38,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_drimoge.png",
+   "portrait": "assets/portrait/OD_vbdm_drimoge.png"
+  },
+  "DN_baohuckmon": {
+   "img": "assets/units/DN_baohuckmon.png",
+   "portrait": "assets/portrait/DN_baohuckmon.png"
+  },
+  "DN_blimpmon": {
+   "img": "assets/units/DN_blimpmon.png",
+   "portrait": "assets/portrait/DN_blimpmon.png"
+  },
+  "DN_karatukinumemon": {
+   "img": "assets/units/DN_karatukinumemon.png",
+   "portrait": "assets/portrait/DN_karatukinumemon.png"
+  },
+  "OD_dvc_kuwaga": {
+   "anim": {
+    "src": "assets/anim/OD_dvc_kuwaga.png",
+    "cw": 70,
+    "ch": 54,
+    "refW": 61,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dvc_kuwaga.png",
+   "portrait": "assets/portrait/OD_dvc_kuwaga.png"
+  },
+  "DN_geremon": {
+   "img": "assets/units/DN_geremon.png",
+   "portrait": "assets/portrait/DN_geremon.png"
+  },
+  "DN_goldnumemon": {
+   "img": "assets/units/DN_goldnumemon.png",
+   "portrait": "assets/portrait/DN_goldnumemon.png"
+  },
+  "DN_cyclomon": {
+   "img": "assets/units/DN_cyclomon.png",
+   "portrait": "assets/portrait/DN_cyclomon.png"
+  },
+  "DN_scumon": {
+   "img": "assets/units/DN_scumon.png",
+   "portrait": "assets/portrait/DN_scumon.png"
+  },
+  "OD_vbbe_delta": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_delta.png",
+    "cw": 64,
+    "ch": 54,
+    "refW": 62,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_delta.png",
+   "portrait": "assets/portrait/OD_vbbe_delta.png"
+  },
+  "OD_dvc_nani": {
+   "anim": {
+    "src": "assets/anim/OD_dvc_nani.png",
+    "cw": 50,
+    "ch": 48,
+    "refW": 43,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dvc_nani.png",
+   "portrait": "assets/portrait/OD_dvc_nani.png"
+  },
+  "DN_hyougamon": {
+   "img": "assets/units/DN_hyougamon.png",
+   "portrait": "assets/portrait/DN_hyougamon.png"
+  },
+  "OD_dac_fuga": {
+   "anim": {
+    "src": "assets/anim/OD_dac_fuga.png",
+    "cw": 60,
+    "ch": 49,
+    "refW": 52,
+    "refH": 49,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dac_fuga.png",
+   "portrait": "assets/portrait/OD_dac_fuga.png"
+  },
+  "DN_blacktailmon": {
+   "img": "assets/units/DN_blacktailmon.png",
+   "portrait": "assets/portrait/DN_blacktailmon.png"
+  },
+  "DN_vegimon": {
+   "img": "assets/units/DN_vegimon.png",
+   "portrait": "assets/portrait/DN_vegimon.png"
+  },
+  "DN_minotaurmon": {
+   "img": "assets/units/DN_minotaurmon.png",
+   "portrait": "assets/portrait/DN_minotaurmon.png"
+  },
+  "OD_vbdm_musya": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_musya.png",
+    "cw": 68,
+    "ch": 45,
+    "refW": 54,
+    "refH": 45,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_musya.png",
+   "portrait": "assets/portrait/OD_vbdm_musya.png"
+  },
+  "OD_vbbe_wasp": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_wasp.png",
+    "cw": 64,
+    "ch": 55,
+    "refW": 57,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_wasp.png",
+   "portrait": "assets/portrait/OD_vbbe_wasp.png"
+  },
+  "DN_gardromon_gold": {
+   "img": "assets/units/DN_gardromon_gold.png",
+   "portrait": "assets/portrait/DN_gardromon_gold.png"
+  },
+  "OD_vbdm_grey_b": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_grey_b.png",
+    "cw": 58,
+    "ch": 46,
+    "refW": 47,
+    "refH": 46,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_grey_b.png",
+   "portrait": "assets/portrait/OD_vbdm_grey_b.png"
+  },
+  "DN_aegiochusmon": {
+   "img": "assets/units/DN_aegiochusmon.png",
+   "portrait": "assets/portrait/DN_aegiochusmon.png"
+  },
+  "DN_aegiochusmon:green": {
+   "img": "assets/units/DN_aegiochusmon:green.png",
+   "portrait": "assets/portrait/DN_aegiochusmon:green.png"
+  },
+  "DN_aegiochusmon:dark": {
+   "img": "assets/units/DN_aegiochusmon:dark.png",
+   "portrait": "assets/portrait/DN_aegiochusmon:dark.png"
+  },
+  "DN_aegiochusmon:blue": {
+   "img": "assets/units/DN_aegiochusmon:blue.png",
+   "portrait": "assets/portrait/DN_aegiochusmon:blue.png"
+  },
+  "DN_aegiochusmon_holly": {
+   "img": "assets/units/DN_aegiochusmon_holly.png",
+   "portrait": "assets/portrait/DN_aegiochusmon_holly.png"
+  },
+  "DN_ex-tyranomon": {
+   "img": "assets/units/DN_ex-tyranomon.png",
+   "portrait": "assets/portrait/DN_ex-tyranomon.png"
+  },
+  "DN_greatgryzmon": {
+   "img": "assets/units/DN_greatgryzmon.png",
+   "portrait": "assets/portrait/DN_greatgryzmon.png"
+  },
+  "DN_cerberumon_werewolfmode": {
+   "img": "assets/units/DN_cerberumon_werewolfmode.png",
+   "portrait": "assets/portrait/DN_cerberumon_werewolfmode.png"
+  },
+  "DN_tyilinmon": {
+   "img": "assets/units/DN_tyilinmon.png",
+   "portrait": "assets/portrait/DN_tyilinmon.png"
+  },
+  "DN_butenmon": {
+   "img": "assets/units/DN_butenmon.png",
+   "portrait": "assets/portrait/DN_butenmon.png"
+  },
+  "DN_yatagaramon_axcel": {
+   "img": "assets/units/DN_yatagaramon_axcel.png",
+   "portrait": "assets/portrait/DN_yatagaramon_axcel.png"
+  },
+  "DN_enbarrmon": {
+   "img": "assets/units/DN_enbarrmon.png",
+   "portrait": "assets/portrait/DN_enbarrmon.png"
+  },
+  "DN_omegashoutmon": {
+   "img": "assets/units/DN_omegashoutmon.png",
+   "portrait": "assets/portrait/DN_omegashoutmon.png"
+  },
+  "DN_catchmamemon": {
+   "img": "assets/units/DN_catchmamemon.png",
+   "portrait": "assets/portrait/DN_catchmamemon.png"
+  },
+  "OD_vbdm_superstar": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_superstar.png",
+    "cw": 68,
+    "ch": 53,
+    "refW": 64,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_superstar.png",
+   "portrait": "assets/portrait/OD_vbdm_superstar.png"
+  },
+  "OD_vbdm_skullbaluchi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_skullbaluchi.png",
+    "cw": 68,
+    "ch": 55,
+    "refW": 63,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_skullbaluchi.png",
+   "portrait": "assets/portrait/OD_vbdm_skullbaluchi.png"
+  },
+  "DN_saviorhuckmon": {
+   "img": "assets/units/DN_saviorhuckmon.png",
+   "portrait": "assets/portrait/DN_saviorhuckmon.png"
+  },
+  "OD_vbdm_siren": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_siren.png",
+    "cw": 58,
+    "ch": 55,
+    "refW": 49,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_siren.png",
+   "portrait": "assets/portrait/OD_vbdm_siren.png"
+  },
+  "DN_deathmeramon": {
+   "img": "assets/units/DN_deathmeramon.png",
+   "portrait": "assets/portrait/DN_deathmeramon.png"
+  },
+  "DN_delumon": {
+   "img": "assets/units/DN_delumon.png",
+   "portrait": "assets/portrait/DN_delumon.png"
+  },
+  "OD_vbdm_tricera": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_tricera.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_tricera.png",
+   "portrait": "assets/portrait/OD_vbdm_tricera.png"
+  },
+  "OD_vbdm_panda": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_panda.png",
+    "cw": 60,
+    "ch": 47,
+    "refW": 48,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_panda.png",
+   "portrait": "assets/portrait/OD_vbdm_panda.png"
+  },
+  "OD_vbdm_bigmame": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bigmame.png",
+    "cw": 64,
+    "ch": 45,
+    "refW": 62,
+    "refH": 44,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bigmame.png",
+   "portrait": "assets/portrait/OD_vbdm_bigmame.png"
+  },
+  "OD_vbdm_brachio": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_brachio.png",
+    "cw": 56,
+    "ch": 56,
+    "refW": 51,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_brachio.png",
+   "portrait": "assets/portrait/OD_vbdm_brachio.png"
+  },
+  "DN_volcamon": {
+   "img": "assets/units/DN_volcamon.png",
+   "portrait": "assets/portrait/DN_volcamon.png"
+  },
+  "DN_masterblimpmon": {
+   "img": "assets/units/DN_masterblimpmon.png",
+   "portrait": "assets/portrait/DN_masterblimpmon.png"
+  },
+  "OD_vbdm_mame": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_mame.png",
+    "cw": 46,
+    "ch": 25,
+    "refW": 39,
+    "refH": 25,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_mame.png",
+   "portrait": "assets/portrait/OD_vbdm_mame.png"
+  },
+  "OD_vbdm_metalmame": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_metalmame.png",
+    "cw": 48,
+    "ch": 33,
+    "refW": 43,
+    "refH": 33,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_metalmame.png",
+   "portrait": "assets/portrait/OD_vbdm_metalmame.png"
+  },
+  "OD_vbbe_lila": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_lila.png",
+    "cw": 48,
+    "ch": 53,
+    "refW": 43,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_lila.png",
+   "portrait": "assets/portrait/OD_vbbe_lila.png"
+  },
+  "OD_vbdm_loco": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_loco.png",
+    "cw": 68,
+    "ch": 53,
+    "refW": 64,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_loco.png",
+   "portrait": "assets/portrait/OD_vbdm_loco.png"
+  },
+  "DN_archnemon": {
+   "img": "assets/units/DN_archnemon.png",
+   "portrait": "assets/portrait/DN_archnemon.png"
+  },
+  "OD_vbdm_orochi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_orochi.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_orochi.png",
+   "portrait": "assets/portrait/OD_vbdm_orochi.png"
+  },
+  "OD_vbbe_cannonbee": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_cannonbee.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 57,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_cannonbee.png",
+   "portrait": "assets/portrait/OD_vbbe_cannonbee.png"
+  },
+  "DN_sharkmon": {
+   "img": "assets/units/DN_sharkmon.png",
+   "portrait": "assets/portrait/DN_sharkmon.png"
+  },
+  "DN_shawujinmon": {
+   "img": "assets/units/DN_shawujinmon.png",
+   "portrait": "assets/portrait/DN_shawujinmon.png"
+  },
+  "DN_skullseadramon": {
+   "img": "assets/units/DN_skullseadramon.png",
+   "portrait": "assets/portrait/DN_skullseadramon.png"
+  },
+  "OD_vbdm_darksuperstar": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_darksuperstar.png",
+    "cw": 68,
+    "ch": 53,
+    "refW": 64,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_darksuperstar.png",
+   "portrait": "assets/portrait/OD_vbdm_darksuperstar.png"
+  },
+  "DN_dagomon": {
+   "img": "assets/units/DN_dagomon.png",
+   "portrait": "assets/portrait/DN_dagomon.png"
+  },
+  "DN_nanomon": {
+   "img": "assets/units/DN_nanomon.png",
+   "portrait": "assets/portrait/DN_nanomon.png"
+  },
+  "DN_fantomon": {
+   "img": "assets/units/DN_fantomon.png",
+   "portrait": "assets/portrait/DN_fantomon.png"
+  },
+  "OD_vbdm_mummy": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_mummy.png",
+    "cw": 58,
+    "ch": 55,
+    "refW": 53,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_mummy.png",
+   "portrait": "assets/portrait/OD_vbdm_mummy.png"
+  },
+  "OD_vbdm_wise": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_wise.png",
+    "cw": 54,
+    "ch": 55,
+    "refW": 51,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_wise.png",
+   "portrait": "assets/portrait/OD_vbdm_wise.png"
+  },
+  "OD_vbdm_waruseadra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_waruseadra.png",
+    "cw": 76,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_waruseadra.png",
+   "portrait": "assets/portrait/OD_vbdm_waruseadra.png"
+  },
+  "DN_clavisangemon": {
+   "img": "assets/units/DN_clavisangemon.png",
+   "portrait": "assets/portrait/DN_clavisangemon.png"
+  },
+  "DN_crossmon": {
+   "img": "assets/units/DN_crossmon.png",
+   "portrait": "assets/portrait/DN_crossmon.png"
+  },
+  "DN_chronomon_holy": {
+   "img": "assets/units/DN_chronomon_holy.png",
+   "portrait": "assets/portrait/DN_chronomon_holy.png"
+  },
+  "DN_gankoomon": {
+   "img": "assets/units/DN_gankoomon.png",
+   "portrait": "assets/portrait/DN_gankoomon.png"
+  },
+  "DN_grandlocomon": {
+   "img": "assets/units/DN_grandlocomon.png",
+   "portrait": "assets/portrait/DN_grandlocomon.png"
+  },
+  "OD_vbbe_jes": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_jes.png",
+    "cw": 70,
+    "ch": 54,
+    "refW": 62,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_jes.png",
+   "portrait": "assets/portrait/OD_vbbe_jes.png"
+  },
+  "DN_pilevolcamon": {
+   "img": "assets/units/DN_pilevolcamon.png",
+   "portrait": "assets/portrait/DN_pilevolcamon.png"
+  },
+  "OD_dac_bolt": {
+   "anim": {
+    "src": "assets/anim/OD_dac_bolt.png",
+    "cw": 62,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dac_bolt.png",
+   "portrait": "assets/portrait/OD_dac_bolt.png"
+  },
+  "DN_medievaldukemon": {
+   "img": "assets/units/DN_medievaldukemon.png",
+   "portrait": "assets/portrait/DN_medievaldukemon.png"
+  },
+  "DN_avengekidmon": {
+   "img": "assets/units/DN_avengekidmon.png",
+   "portrait": "assets/portrait/DN_avengekidmon.png"
+  },
+  "DN_callismon": {
+   "img": "assets/units/DN_callismon.png",
+   "portrait": "assets/portrait/DN_callismon.png"
+  },
+  "OD_vbbe_gundra": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_gundra.png",
+    "cw": 64,
+    "ch": 56,
+    "refW": 62,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_gundra.png",
+   "portrait": "assets/portrait/OD_vbbe_gundra.png"
+  },
+  "DN_chronomon_destroy": {
+   "img": "assets/units/DN_chronomon_destroy.png",
+   "portrait": "assets/portrait/DN_chronomon_destroy.png"
+  },
+  "OD_vbdm_zanba": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_zanba.png",
+    "cw": 78,
+    "ch": 56,
+    "refW": 64,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_zanba.png",
+   "portrait": "assets/portrait/OD_vbdm_zanba.png"
+  },
+  "DN_zombieplutomon": {
+   "img": "assets/units/DN_zombieplutomon.png",
+   "portrait": "assets/portrait/DN_zombieplutomon.png"
+  },
+  "DN_demon": {
+   "img": "assets/units/DN_demon.png",
+   "portrait": "assets/portrait/DN_demon.png"
+  },
+  "OD_vbdm_puku": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_puku.png",
+    "cw": 80,
+    "ch": 54,
+    "refW": 62,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_puku.png",
+   "portrait": "assets/portrait/OD_vbdm_puku.png"
+  },
+  "OD_vbbe_platinumnume": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_platinumnume.png",
+    "cw": 66,
+    "ch": 51,
+    "refW": 64,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_platinumnume.png",
+   "portrait": "assets/portrait/OD_vbbe_platinumnume.png"
+  },
+  "OD_vbbe_pluto": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_pluto.png",
+    "cw": 52,
+    "ch": 56,
+    "refW": 48,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_pluto.png",
+   "portrait": "assets/portrait/OD_vbbe_pluto.png"
+  },
+  "DN_millenniumon": {
+   "img": "assets/units/DN_millenniumon.png",
+   "portrait": "assets/portrait/DN_millenniumon.png"
+  },
+  "DN_mercurymon": {
+   "img": "assets/units/DN_mercurymon.png",
+   "portrait": "assets/portrait/DN_mercurymon.png"
+  },
+  "DN_junomon": {
+   "img": "assets/units/DN_junomon.png",
+   "portrait": "assets/portrait/DN_junomon.png"
+  },
+  "DN_junomon_hysteric": {
+   "img": "assets/units/DN_junomon_hysteric.png",
+   "portrait": "assets/portrait/DN_junomon_hysteric.png"
+  },
+  "DN_parallelmon": {
+   "img": "assets/units/DN_parallelmon.png",
+   "portrait": "assets/portrait/DN_parallelmon.png"
+  },
+  "DN_ulforcevdramon_x": {
+   "img": "assets/units/DN_ulforcevdramon_x.png",
+   "portrait": "assets/portrait/DN_ulforcevdramon_x.png"
+  },
+  "DN_jesmon_x": {
+   "img": "assets/units/DN_jesmon_x.png",
+   "portrait": "assets/portrait/DN_jesmon_x.png"
+  },
+  "DN_craniummon_enbarrmon": {
+   "img": "assets/units/DN_craniummon_enbarrmon.png",
+   "portrait": "assets/portrait/DN_craniummon_enbarrmon.png"
+  },
+  "DN_jupitermmon_wrath": {
+   "img": "assets/units/DN_jupitermmon_wrath.png",
+   "portrait": "assets/portrait/DN_jupitermmon_wrath.png"
+  },
+  "DN_titamon_skullbaluchimon": {
+   "img": "assets/units/DN_titamon_skullbaluchimon.png",
+   "portrait": "assets/portrait/DN_titamon_skullbaluchimon.png"
+  },
+  "DN_jupitermmon_wrath_cut": {
+   "img": "assets/units/DN_jupitermmon_wrath_cut.png",
+   "portrait": "assets/portrait/DN_jupitermmon_wrath_cut.png"
   }
  },
  "sfx": {
