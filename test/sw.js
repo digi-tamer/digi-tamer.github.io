@@ -13,11 +13,13 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(
       caches.open(CACHE).then((cache) =>
         cache.match(req).then((hit) => {
-          const net = fetch(req)
+          const net = () => fetch(req)
             .then((res) => (res.ok && cache.put(req, res.clone()), res))
             .catch(() => hit || Response.error());
-          if (hit) e.waitUntil(net.catch(() => {}));
-          return hit || net;
+          // 주소에 내용 지문(?h=)이 있는 그림은 내용이 바뀌면 주소가 바뀐다 → 캐시에 있으면 다시 받지 않는다
+          //  (전에는 매번 뒤에서 다시 받아 한 번 열 때 GitHub 요청 2,400번 → 같은 IP 요청 제한 「Rate limit exceeded」)
+          if (hit) { if (!/[?&]h=/.test(req.url)) e.waitUntil(net().catch(() => {})); return hit; }
+          return net();
         }),
       ),
     );
