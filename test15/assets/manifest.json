@@ -22187,6 +22187,26 @@
   "dot_fld_dark_area_s": "assets/img/dot_fld_dark_area_s.png",
   "dot_fld_virus_busters_s": "assets/img/dot_fld_virus_busters_s.png",
   "dot_fld_dragons_roar_s": "assets/img/dot_fld_dragons_roar_s.png",
-  "dot_fld_jungle_troopers_s": "assets/img/dot_fld_jungle_troopers_s.png"
+  "dot_fld_jungle_troopers_s": "assets/img/dot_fld_jungle_troopers_s.png",
+  "dot_elem_dark_s_bare": "assets/img/dot_elem_dark_s_bare.png",
+  "dot_elem_earth_s_bare": "assets/img/dot_elem_earth_s_bare.png",
+  "dot_elem_fire_s_bare": "assets/img/dot_elem_fire_s_bare.png",
+  "dot_elem_ice_s_bare": "assets/img/dot_elem_ice_s_bare.png",
+  "dot_elem_light_s_bare": "assets/img/dot_elem_light_s_bare.png",
+  "dot_elem_steel_s_bare": "assets/img/dot_elem_steel_s_bare.png",
+  "dot_elem_thunder_s_bare": "assets/img/dot_elem_thunder_s_bare.png",
+  "dot_elem_water_s_bare": "assets/img/dot_elem_water_s_bare.png",
+  "dot_elem_wind_s_bare": "assets/img/dot_elem_wind_s_bare.png",
+  "dot_elem_wood_s_bare": "assets/img/dot_elem_wood_s_bare.png",
+  "dot_fld_dark_area_s_bare": "assets/img/dot_fld_dark_area_s_bare.png",
+  "dot_fld_deep_savers_s_bare": "assets/img/dot_fld_deep_savers_s_bare.png",
+  "dot_fld_dragons_roar_s_bare": "assets/img/dot_fld_dragons_roar_s_bare.png",
+  "dot_fld_jungle_troopers_s_bare": "assets/img/dot_fld_jungle_troopers_s_bare.png",
+  "dot_fld_metal_empire_s_bare": "assets/img/dot_fld_metal_empire_s_bare.png",
+  "dot_fld_nature_spirits_s_bare": "assets/img/dot_fld_nature_spirits_s_bare.png",
+  "dot_fld_nightmare_soldiers_s_bare": "assets/img/dot_fld_nightmare_soldiers_s_bare.png",
+  "dot_fld_unknown_s_bare": "assets/img/dot_fld_unknown_s_bare.png",
+  "dot_fld_virus_busters_s_bare": "assets/img/dot_fld_virus_busters_s_bare.png",
+  "dot_fld_wind_guardians_s_bare": "assets/img/dot_fld_wind_guardians_s_bare.png"
  }
 }
