@@ -18210,6 +18210,52 @@
   "WM_Revolmon": {
    "img": "assets/units/WM_Revolmon.png",
    "portrait": "assets/portrait/WM_Revolmon.png"
+  },
+  "OD_vbdm_alda": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_alda.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_alda.png",
+   "portrait": "assets/portrait/OD_vbdm_alda.png"
+  },
+  "OD_vbdm_beowolf": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_beowolf.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 53,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_beowolf.png",
+   "portrait": "assets/portrait/OD_vbdm_beowolf.png"
   }
  },
  "sfx": {
