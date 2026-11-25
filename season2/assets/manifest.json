@@ -19881,6 +19881,401 @@
    },
    "img": "assets/units/BlackSaintGalgo_VB.png",
    "portrait": "assets/portrait/BlackSaintGalgo_VB.png"
+  },
+  "BlackAgumon": {
+   "anim": {
+    "src": "assets/anim/BlackAgumon.png",
+    "cw": 54,
+    "ch": 49,
+    "refW": 44,
+    "refH": 48,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5,
+     6
+    ],
+    "attack": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   "img": "assets/units/BlackAgumon.png",
+   "proj": "assets/fx/anim/Fx_Agumon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_Agumon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Agumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Agumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackAgumon.png",
+   "skillIcon": "assets/skillIcon/Agumon.png",
+   "projN": 9,
+   "hitN": 5
+  },
+  "BlackGarurumon": {
+   "anim": {
+    "src": "assets/anim/BlackGarurumon.png",
+    "cw": 70,
+    "ch": 60,
+    "refW": 54,
+    "refH": 57,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   "img": "assets/units/BlackGarurumon.png",
+   "hit": "assets/fx/anim/Fx_Garurumon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/Garurumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Garurumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackGarurumon.png",
+   "skillIcon": "assets/skillIcon/Garurumon.png",
+   "hitN": 9
+  },
+  "BlackWereGarurumon": {
+   "anim": {
+    "src": "assets/anim/BlackWereGarurumon.png",
+    "cw": 94,
+    "ch": 81,
+    "refW": 63,
+    "refH": 80,
+    "idle": [
+     1,
+     2
+    ],
+    "move": [
+     6,
+     7,
+     8
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/BlackWereGarurumon.png",
+   "hit": "assets/fx/anim/Fx_WereGarurumon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/WereGarurumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/WereGarurumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackWereGarurumon.png",
+   "skillIcon": "assets/skillIcon/WereGarurumon.png",
+   "hitN": 4
+  },
+  "BlackMetalGreymon": {
+   "anim": {
+    "src": "assets/anim/BlackMetalGreymon.png",
+    "cw": 120,
+    "ch": 90,
+    "refW": 89,
+    "refH": 79,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/BlackMetalGreymon.png",
+   "proj": "assets/fx/anim/Fx_MetalGreymon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_MetalGreymon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/MetalGreymon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/MetalGreymon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackMetalGreymon.png",
+   "skillIcon": "assets/skillIcon/MetalGreymon.png",
+   "projN": 6,
+   "hitN": 9
+  },
+  "BlackGuilmon": {
+   "anim": {
+    "src": "assets/anim/BlackGuilmon.png",
+    "cw": 52,
+    "ch": 52,
+    "refW": 42,
+    "refH": 50,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   "img": "assets/units/BlackGuilmon.png",
+   "proj": "assets/fx/anim/Fx_Guilmon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_Guilmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Guilmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Guilmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackGuilmon.png",
+   "skillIcon": "assets/skillIcon/Guilmon.png",
+   "projN": 3,
+   "hitN": 4
+  },
+  "BlackGrowlmon": {
+   "anim": {
+    "src": "assets/anim/BlackGrowlmon.png",
+    "cw": 76,
+    "ch": 63,
+    "refW": 58,
+    "refH": 60,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "attack": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   "img": "assets/units/BlackGrowlmon.png",
+   "proj": "assets/fx/anim/Fx_Growlmon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_Growlmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Growlmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Growlmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackGrowlmon.png",
+   "skillIcon": "assets/skillIcon/Growlmon.png",
+   "projN": 3,
+   "hitN": 6
+  },
+  "BlackWarGrowlmon": {
+   "anim": {
+    "src": "assets/anim/BlackWarGrowlmon.png",
+    "cw": 106,
+    "ch": 89,
+    "refW": 78,
+    "refH": 78,
+    "idle": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "move": [
+     4,
+     5,
+     6
+    ],
+    "attack": [
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   "img": "assets/units/BlackWarGrowlmon.png",
+   "proj": "assets/fx/anim/Fx_WarGrowlmon_Attack_Projectile_1.png",
+   "hit": "assets/fx/anim/Fx_WarGrowlmon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/WarGrowlmon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/WarGrowlmon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackWarGrowlmon.png",
+   "skillIcon": "assets/skillIcon/WarGrowlmon.png",
+   "projN": 3,
+   "hitN": 6
+  },
+  "BlackSeraphimon": {
+   "anim": {
+    "src": "assets/anim/BlackSeraphimon.png",
+    "cw": 100,
+    "ch": 119,
+    "refW": 74,
+    "refH": 108,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "attack": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "left": {
+     "src": "assets/anim/BlackSeraphimon_L.png",
+     "cw": 96,
+     "ch": 136,
+     "refW": 74,
+     "refH": 108,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      0,
+      1
+     ]
+    }
+   },
+   "img": "assets/units/BlackSeraphimon.png",
+   "proj": "assets/fx/anim/Fx_Seraphimon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_Seraphimon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/Seraphimon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/Seraphimon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackSeraphimon.png",
+   "skillIcon": "assets/skillIcon/Seraphimon.png",
+   "projN": 3,
+   "hitN": 6
+  },
+  "BlackGuilmon_VB": {
+   "anim": {
+    "src": "assets/anim/BlackGuilmon_VB.png",
+    "cw": 50,
+    "ch": 40,
+    "refW": 46,
+    "refH": 40,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/BlackGuilmon_VB.png",
+   "portrait": "assets/portrait/BlackGuilmon_VB.png"
+  },
+  "BlackWarGrowlmon_VB": {
+   "anim": {
+    "src": "assets/anim/BlackWarGrowlmon_VB.png",
+    "cw": 70,
+    "ch": 54,
+    "refW": 58,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/BlackWarGrowlmon_VB.png",
+   "portrait": "assets/portrait/BlackWarGrowlmon_VB.png"
+  },
+  "BlackSeraphimon_VB": {
+   "anim": {
+    "src": "assets/anim/BlackSeraphimon_VB.png",
+    "cw": 68,
+    "ch": 55,
+    "refW": 57,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/BlackSeraphimon_VB.png",
+   "portrait": "assets/portrait/BlackSeraphimon_VB.png"
   }
  },
  "sfx": {
