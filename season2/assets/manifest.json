@@ -19739,6 +19739,57 @@
   "WM_Deltamon": {
    "img": "assets/units/WM_Deltamon.png",
    "portrait": "assets/portrait/WM_Deltamon.png"
+  },
+  "BlackMegaGargomon": {
+   "anim": {
+    "src": "assets/anim/BlackMegaGargomon.png",
+    "cw": 126,
+    "ch": 106,
+    "refW": 89,
+    "refH": 100,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "move": [
+     5,
+     6,
+     7
+    ],
+    "attack": [
+     8,
+     9,
+     10,
+     11
+    ],
+    "left": {
+     "src": "assets/anim/BlackMegaGargomon_L.png",
+     "cw": 102,
+     "ch": 99,
+     "refW": 89,
+     "refH": 100,
+     "idle": [
+      0,
+      1
+     ],
+     "move": [
+      2,
+      3
+     ],
+     "attack": [
+      4,
+      5
+     ]
+    }
+   },
+   "img": "assets/units/BlackMegaGargomon.png",
+   "sfxHit": "assets/sfx/MegaGargomon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/MegaGargomon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackMegaGargomon.png",
+   "skillIcon": "assets/skillIcon/MegaGargomon.png"
   }
  },
  "sfx": {
