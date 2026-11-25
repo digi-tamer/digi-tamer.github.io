@@ -18997,6 +18997,423 @@
   "DN_venusmon": {
    "img": "assets/units/DN_venusmon.png",
    "portrait": "assets/portrait/DN_venusmon.png"
+  },
+  "DN_omegashoutmon": {
+   "img": "assets/units/DN_omegashoutmon.png",
+   "portrait": "assets/portrait/DN_omegashoutmon.png"
+  },
+  "DN_princemamemon": {
+   "img": "assets/units/DN_princemamemon.png",
+   "portrait": "assets/portrait/DN_princemamemon.png"
+  },
+  "DN_clavisangemon": {
+   "img": "assets/units/DN_clavisangemon.png",
+   "portrait": "assets/portrait/DN_clavisangemon.png"
+  },
+  "OD_vbdm_pharaoh": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_pharaoh.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 57,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_pharaoh.png",
+   "portrait": "assets/portrait/OD_vbdm_pharaoh.png"
+  },
+  "OD_vbdm_siren": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_siren.png",
+    "cw": 58,
+    "ch": 55,
+    "refW": 49,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_siren.png",
+   "portrait": "assets/portrait/OD_vbdm_siren.png"
+  },
+  "OD_vbbe_pluto": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_pluto.png",
+    "cw": 52,
+    "ch": 56,
+    "refW": 48,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_pluto.png",
+   "portrait": "assets/portrait/OD_vbbe_pluto.png"
+  },
+  "DN_wizarmon": {
+   "img": "assets/units/DN_wizarmon.png",
+   "portrait": "assets/portrait/DN_wizarmon.png"
+  },
+  "DN_sorcerimon": {
+   "img": "assets/units/DN_sorcerimon.png",
+   "portrait": "assets/portrait/DN_sorcerimon.png"
+  },
+  "DN_witchmon": {
+   "img": "assets/units/DN_witchmon.png",
+   "portrait": "assets/portrait/DN_witchmon.png"
+  },
+  "OD_vbdm_wise": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_wise.png",
+    "cw": 54,
+    "ch": 55,
+    "refW": 51,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_wise.png",
+   "portrait": "assets/portrait/OD_vbdm_wise.png"
+  },
+  "DN_medievaldukemon": {
+   "img": "assets/units/DN_medievaldukemon.png",
+   "portrait": "assets/portrait/DN_medievaldukemon.png"
+  },
+  "OD_dac_bolt": {
+   "anim": {
+    "src": "assets/anim/OD_dac_bolt.png",
+    "cw": 62,
+    "ch": 56,
+    "refW": 59,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_dac_bolt.png",
+   "portrait": "assets/portrait/OD_dac_bolt.png"
+  },
+  "OD_vbdm_metalmame": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_metalmame.png",
+    "cw": 48,
+    "ch": 33,
+    "refW": 43,
+    "refH": 33,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_metalmame.png",
+   "portrait": "assets/portrait/OD_vbdm_metalmame.png"
+  },
+  "DN_millenniumon": {
+   "img": "assets/units/DN_millenniumon.png",
+   "portrait": "assets/portrait/DN_millenniumon.png"
+  },
+  "OD_vbbe_gundra": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_gundra.png",
+    "cw": 64,
+    "ch": 56,
+    "refW": 62,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_gundra.png",
+   "portrait": "assets/portrait/OD_vbbe_gundra.png"
+  },
+  "DN_magnakidmon": {
+   "img": "assets/units/DN_magnakidmon.png",
+   "portrait": "assets/portrait/DN_magnakidmon.png"
+  },
+  "DN_avengekidmon": {
+   "img": "assets/units/DN_avengekidmon.png",
+   "portrait": "assets/portrait/DN_avengekidmon.png"
+  },
+  "WM_Darcmon": {
+   "img": "assets/units/WM_Darcmon.png",
+   "portrait": "assets/portrait/WM_Darcmon.png"
+  },
+  "WM_Pidmon": {
+   "img": "assets/units/WM_Pidmon.png",
+   "portrait": "assets/portrait/WM_Pidmon.png"
+  },
+  "WM_Arresterdramon": {
+   "img": "assets/units/WM_Arresterdramon.png",
+   "portrait": "assets/portrait/WM_Arresterdramon.png"
+  },
+  "WM_FlaWizarmon": {
+   "img": "assets/units/WM_FlaWizarmon.png",
+   "portrait": "assets/portrait/WM_FlaWizarmon.png"
+  },
+  "WM_Ginkakumon": {
+   "img": "assets/units/WM_Ginkakumon.png",
+   "portrait": "assets/portrait/WM_Ginkakumon.png"
+  },
+  "WM_Kinkakumon": {
+   "img": "assets/units/WM_Kinkakumon.png",
+   "portrait": "assets/portrait/WM_Kinkakumon.png"
+  },
+  "WM_Sealsdramon": {
+   "img": "assets/units/WM_Sealsdramon.png",
+   "portrait": "assets/portrait/WM_Sealsdramon.png"
+  },
+  "WM_DarkKnightmon": {
+   "img": "assets/units/WM_DarkKnightmon.png",
+   "portrait": "assets/portrait/WM_DarkKnightmon.png"
+  },
+  "WM_Gravimon": {
+   "img": "assets/units/WM_Gravimon.png",
+   "portrait": "assets/portrait/WM_Gravimon.png"
+  },
+  "WM_Splashmon": {
+   "img": "assets/units/WM_Splashmon.png",
+   "portrait": "assets/portrait/WM_Splashmon.png"
+  },
+  "WM_Zamielmon": {
+   "img": "assets/units/WM_Zamielmon.png",
+   "portrait": "assets/portrait/WM_Zamielmon.png"
+  },
+  "WM_Jokermon": {
+   "img": "assets/units/WM_Jokermon.png",
+   "portrait": "assets/portrait/WM_Jokermon.png"
+  },
+  "WM_Gokuwmon": {
+   "img": "assets/units/WM_Gokuwmon.png",
+   "portrait": "assets/portrait/WM_Gokuwmon.png"
+  },
+  "WM_Sanzomon": {
+   "img": "assets/units/WM_Sanzomon.png",
+   "portrait": "assets/portrait/WM_Sanzomon.png"
+  },
+  "WM_Sagomon": {
+   "img": "assets/units/WM_Sagomon.png",
+   "portrait": "assets/portrait/WM_Sagomon.png"
+  },
+  "WM_ChoHakkaimon": {
+   "img": "assets/units/WM_ChoHakkaimon.png",
+   "portrait": "assets/portrait/WM_ChoHakkaimon.png"
+  },
+  "WM_Assaultmon": {
+   "img": "assets/units/WM_Assaultmon.png",
+   "portrait": "assets/portrait/WM_Assaultmon.png"
+  },
+  "WM_MarinChimairamon": {
+   "img": "assets/units/WM_MarinChimairamon.png",
+   "portrait": "assets/portrait/WM_MarinChimairamon.png"
+  },
+  "WM_Mihiramon": {
+   "img": "assets/units/WM_Mihiramon.png",
+   "portrait": "assets/portrait/WM_Mihiramon.png"
+  },
+  "WM_Majiramon": {
+   "img": "assets/units/WM_Majiramon.png",
+   "portrait": "assets/portrait/WM_Majiramon.png"
+  },
+  "WM_Vajramon": {
+   "img": "assets/units/WM_Vajramon.png",
+   "portrait": "assets/portrait/WM_Vajramon.png"
+  },
+  "WM_Vikaralamon": {
+   "img": "assets/units/WM_Vikaralamon.png",
+   "portrait": "assets/portrait/WM_Vikaralamon.png"
+  },
+  "WM_Kumbhiramon": {
+   "img": "assets/units/WM_Kumbhiramon.png",
+   "portrait": "assets/portrait/WM_Kumbhiramon.png"
+  },
+  "WM_Sandiramon": {
+   "img": "assets/units/WM_Sandiramon.png",
+   "portrait": "assets/portrait/WM_Sandiramon.png"
+  },
+  "WM_Indaramon": {
+   "img": "assets/units/WM_Indaramon.png",
+   "portrait": "assets/portrait/WM_Indaramon.png"
+  },
+  "WM_Pajiramon": {
+   "img": "assets/units/WM_Pajiramon.png",
+   "portrait": "assets/portrait/WM_Pajiramon.png"
+  },
+  "WM_Makuramon": {
+   "img": "assets/units/WM_Makuramon.png",
+   "portrait": "assets/portrait/WM_Makuramon.png"
+  },
+  "WM_Sinduramon": {
+   "img": "assets/units/WM_Sinduramon.png",
+   "portrait": "assets/portrait/WM_Sinduramon.png"
+  },
+  "WM_Caturamon": {
+   "img": "assets/units/WM_Caturamon.png",
+   "portrait": "assets/portrait/WM_Caturamon.png"
+  },
+  "WM_Raguelmon": {
+   "img": "assets/units/WM_Raguelmon.png",
+   "portrait": "assets/portrait/WM_Raguelmon.png"
+  },
+  "WM_Dominimon": {
+   "img": "assets/units/WM_Dominimon.png",
+   "portrait": "assets/portrait/WM_Dominimon.png"
+  },
+  "WM_Shakamon": {
+   "img": "assets/units/WM_Shakamon.png",
+   "portrait": "assets/portrait/WM_Shakamon.png"
+  },
+  "WM_Bagramon": {
+   "img": "assets/units/WM_Bagramon.png",
+   "portrait": "assets/portrait/WM_Bagramon.png"
+  },
+  "WM_ArresterdramonSuperiorMode": {
+   "img": "assets/units/WM_ArresterdramonSuperiorMode.png",
+   "portrait": "assets/portrait/WM_ArresterdramonSuperiorMode.png"
+  },
+  "WM_Armamon": {
+   "img": "assets/units/WM_Armamon.png",
+   "portrait": "assets/portrait/WM_Armamon.png"
+  },
+  "WM_GrandDracumon": {
+   "img": "assets/units/WM_GrandDracumon.png",
+   "portrait": "assets/portrait/WM_GrandDracumon.png"
+  },
+  "WM_Voltobautamon": {
+   "img": "assets/units/WM_Voltobautamon.png",
+   "portrait": "assets/portrait/WM_Voltobautamon.png"
+  },
+  "WM_NeoVamdemon": {
+   "img": "assets/units/WM_NeoVamdemon.png",
+   "portrait": "assets/portrait/WM_NeoVamdemon.png"
+  },
+  "WM_Dorbickmon": {
+   "img": "assets/units/WM_Dorbickmon.png",
+   "portrait": "assets/portrait/WM_Dorbickmon.png"
+  },
+  "WM_Olegmon": {
+   "img": "assets/units/WM_Olegmon.png",
+   "portrait": "assets/portrait/WM_Olegmon.png"
+  },
+  "WM_Hexeblaumon": {
+   "img": "assets/units/WM_Hexeblaumon.png",
+   "portrait": "assets/portrait/WM_Hexeblaumon.png"
+  },
+  "WM_Cannondramon": {
+   "img": "assets/units/WM_Cannondramon.png",
+   "portrait": "assets/portrait/WM_Cannondramon.png"
+  },
+  "WM_Aegisdramon": {
+   "img": "assets/units/WM_Aegisdramon.png",
+   "portrait": "assets/portrait/WM_Aegisdramon.png"
+  },
+  "WM_Raijinmon": {
+   "img": "assets/units/WM_Raijinmon.png",
+   "portrait": "assets/portrait/WM_Raijinmon.png"
+  },
+  "WM_Suijinmon": {
+   "img": "assets/units/WM_Suijinmon.png",
+   "portrait": "assets/portrait/WM_Suijinmon.png"
+  },
+  "WM_GrandGeneramon": {
+   "img": "assets/units/WM_GrandGeneramon.png",
+   "portrait": "assets/portrait/WM_GrandGeneramon.png"
+  },
+  "WM_DeathXmon": {
+   "img": "assets/units/WM_DeathXmon.png",
+   "portrait": "assets/portrait/WM_DeathXmon.png"
+  },
+  "WM_Ogudomon": {
+   "img": "assets/units/WM_Ogudomon.png",
+   "portrait": "assets/portrait/WM_Ogudomon.png"
+  },
+  "WM_UltimateChaosmon": {
+   "img": "assets/units/WM_UltimateChaosmon.png",
+   "portrait": "assets/portrait/WM_UltimateChaosmon.png"
+  },
+  "WM_Iguneetmon": {
+   "img": "assets/units/WM_Iguneetmon.png",
+   "portrait": "assets/portrait/WM_Iguneetmon.png"
+  },
+  "WM_Spadamon": {
+   "img": "assets/units/WM_Spadamon.png",
+   "portrait": "assets/portrait/WM_Spadamon.png"
+  },
+  "WM_Commandramon": {
+   "img": "assets/units/WM_Commandramon.png",
+   "portrait": "assets/portrait/WM_Commandramon.png"
+  },
+  "WM_Bommon": {
+   "img": "assets/units/WM_Bommon.png",
+   "portrait": "assets/portrait/WM_Bommon.png"
+  },
+  "WM_Missimon": {
+   "img": "assets/units/WM_Missimon.png",
+   "portrait": "assets/portrait/WM_Missimon.png"
   }
  },
  "sfx": {
