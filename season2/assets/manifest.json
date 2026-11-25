@@ -20299,6 +20299,14 @@
    },
    "img": "assets/units/BlackGrowlmon_VB.png",
    "portrait": "assets/portrait/BlackGrowlmon_VB.png"
+  },
+  "WM_DeathXDORUgamon": {
+   "img": "assets/units/WM_DeathXDORUgamon.png",
+   "portrait": "assets/portrait/WM_DeathXDORUgamon.png"
+  },
+  "WM_DeathXDORUguremon": {
+   "img": "assets/units/WM_DeathXDORUguremon.png",
+   "portrait": "assets/portrait/WM_DeathXDORUguremon.png"
   }
  },
  "sfx": {
