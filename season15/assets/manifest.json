@@ -18990,13 +18990,13 @@
    "img": "assets/units/WM_Metallicdramon.png",
    "portrait": "assets/portrait/WM_Metallicdramon.png"
   },
-  "WM_Vulcanusmon": {
-   "img": "assets/units/WM_Vulcanusmon.png",
-   "portrait": "assets/portrait/WM_Vulcanusmon.png"
+  "DN_vulcanusmon": {
+   "img": "assets/units/DN_vulcanusmon.png",
+   "portrait": "assets/portrait/DN_vulcanusmon.png"
   },
-  "WM_Venusmon": {
-   "img": "assets/units/WM_Venusmon.png",
-   "portrait": "assets/portrait/WM_Venusmon.png"
+  "DN_venusmon": {
+   "img": "assets/units/DN_venusmon.png",
+   "portrait": "assets/portrait/DN_venusmon.png"
   }
  },
  "sfx": {
