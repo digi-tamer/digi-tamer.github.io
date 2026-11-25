@@ -20276,6 +20276,29 @@
    },
    "img": "assets/units/BlackSeraphimon_VB.png",
    "portrait": "assets/portrait/BlackSeraphimon_VB.png"
+  },
+  "BlackGrowlmon_VB": {
+   "anim": {
+    "src": "assets/anim/BlackGrowlmon_VB.png",
+    "cw": 60,
+    "ch": 54,
+    "refW": 56,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/BlackGrowlmon_VB.png",
+   "portrait": "assets/portrait/BlackGrowlmon_VB.png"
   }
  },
  "sfx": {
