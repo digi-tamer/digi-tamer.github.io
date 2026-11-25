@@ -18911,6 +18911,92 @@
    },
    "img": "assets/units/OD_vbdm_pitch.png",
    "portrait": "assets/portrait/OD_vbdm_pitch.png"
+  },
+  "OD_vbbe_banchomame_d": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_banchomame_d.png",
+    "cw": 42,
+    "ch": 39,
+    "refW": 39,
+    "refH": 39,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_banchomame_d.png",
+   "portrait": "assets/portrait/OD_vbbe_banchomame_d.png"
+  },
+  "DN_sleipmon": {
+   "img": "assets/units/DN_sleipmon.png",
+   "portrait": "assets/portrait/DN_sleipmon.png"
+  },
+  "DN_gankoomon": {
+   "img": "assets/units/DN_gankoomon.png",
+   "portrait": "assets/portrait/DN_gankoomon.png"
+  },
+  "OD_vbbe_jes": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_jes.png",
+    "cw": 70,
+    "ch": 54,
+    "refW": 62,
+    "refH": 54,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_jes.png",
+   "portrait": "assets/portrait/OD_vbbe_jes.png"
+  },
+  "DN_jupitermon": {
+   "img": "assets/units/DN_jupitermon.png",
+   "portrait": "assets/portrait/DN_jupitermon.png"
+  },
+  "DN_junomon": {
+   "img": "assets/units/DN_junomon.png",
+   "portrait": "assets/portrait/DN_junomon.png"
+  },
+  "DN_ceresmon": {
+   "img": "assets/units/DN_ceresmon.png",
+   "portrait": "assets/portrait/DN_ceresmon.png"
+  },
+  "DN_bacchusmon": {
+   "img": "assets/units/DN_bacchusmon.png",
+   "portrait": "assets/portrait/DN_bacchusmon.png"
+  },
+  "DN_mercurymon": {
+   "img": "assets/units/DN_mercurymon.png",
+   "portrait": "assets/portrait/DN_mercurymon.png"
+  },
+  "WM_Metallicdramon": {
+   "img": "assets/units/WM_Metallicdramon.png",
+   "portrait": "assets/portrait/WM_Metallicdramon.png"
+  },
+  "WM_Vulcanusmon": {
+   "img": "assets/units/WM_Vulcanusmon.png",
+   "portrait": "assets/portrait/WM_Vulcanusmon.png"
+  },
+  "WM_Venusmon": {
+   "img": "assets/units/WM_Venusmon.png",
+   "portrait": "assets/portrait/WM_Venusmon.png"
   }
  },
  "sfx": {
