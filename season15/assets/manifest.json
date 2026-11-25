@@ -18256,6 +18256,661 @@
    },
    "img": "assets/units/OD_vbdm_beowolf.png",
    "portrait": "assets/portrait/OD_vbdm_beowolf.png"
+  },
+  "DN_sethmon": {
+   "img": "assets/units/DN_sethmon.png",
+   "portrait": "assets/portrait/DN_sethmon.png"
+  },
+  "DN_honeybeemon": {
+   "img": "assets/units/DN_honeybeemon.png",
+   "portrait": "assets/portrait/DN_honeybeemon.png"
+  },
+  "DN_yaksamon": {
+   "img": "assets/units/DN_yaksamon.png",
+   "portrait": "assets/portrait/DN_yaksamon.png"
+  },
+  "DN_depthmon": {
+   "img": "assets/units/DN_depthmon.png",
+   "portrait": "assets/portrait/DN_depthmon.png"
+  },
+  "DN_allomon": {
+   "img": "assets/units/DN_allomon.png",
+   "portrait": "assets/portrait/DN_allomon.png"
+  },
+  "DN_rinkmon": {
+   "img": "assets/units/DN_rinkmon.png",
+   "portrait": "assets/portrait/DN_rinkmon.png"
+  },
+  "DN_flybeemon": {
+   "img": "assets/units/DN_flybeemon.png",
+   "portrait": "assets/portrait/DN_flybeemon.png"
+  },
+  "OD_d3c_shuri": {
+   "anim": {
+    "src": "assets/anim/OD_d3c_shuri.png",
+    "cw": 64,
+    "ch": 48,
+    "refW": 56,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_d3c_shuri.png",
+   "portrait": "assets/portrait/OD_d3c_shuri.png"
+  },
+  "DN_orcamon": {
+   "img": "assets/units/DN_orcamon.png",
+   "portrait": "assets/portrait/DN_orcamon.png"
+  },
+  "DN_moosemon": {
+   "img": "assets/units/DN_moosemon.png",
+   "portrait": "assets/portrait/DN_moosemon.png"
+  },
+  "DN_harpymon": {
+   "img": "assets/units/DN_harpymon.png",
+   "portrait": "assets/portrait/DN_harpymon.png"
+  },
+  "DN_peacockmon": {
+   "img": "assets/units/DN_peacockmon.png",
+   "portrait": "assets/portrait/DN_peacockmon.png"
+  },
+  "DN_sepikmon": {
+   "img": "assets/units/DN_sepikmon.png",
+   "portrait": "assets/portrait/DN_sepikmon.png"
+  },
+  "DN_pteranomon": {
+   "img": "assets/units/DN_pteranomon.png",
+   "portrait": "assets/portrait/DN_pteranomon.png"
+  },
+  "DN_frogmon": {
+   "img": "assets/units/DN_frogmon.png",
+   "portrait": "assets/portrait/DN_frogmon.png"
+  },
+  "DN_sheepmon": {
+   "img": "assets/units/DN_sheepmon.png",
+   "portrait": "assets/portrait/DN_sheepmon.png"
+  },
+  "DN_seahomon": {
+   "img": "assets/units/DN_seahomon.png",
+   "portrait": "assets/portrait/DN_seahomon.png"
+  },
+  "DN_elephamon": {
+   "img": "assets/units/DN_elephamon.png",
+   "portrait": "assets/portrait/DN_elephamon.png"
+  },
+  "DN_baromon": {
+   "img": "assets/units/DN_baromon.png",
+   "portrait": "assets/portrait/DN_baromon.png"
+  },
+  "DN_stegomon": {
+   "img": "assets/units/DN_stegomon.png",
+   "portrait": "assets/portrait/DN_stegomon.png"
+  },
+  "DN_pipismon": {
+   "img": "assets/units/DN_pipismon.png",
+   "portrait": "assets/portrait/DN_pipismon.png"
+  },
+  "DN_mothmon": {
+   "img": "assets/units/DN_mothmon.png",
+   "portrait": "assets/portrait/DN_mothmon.png"
+  },
+  "DN_ponchomon": {
+   "img": "assets/units/DN_ponchomon.png",
+   "portrait": "assets/portrait/DN_ponchomon.png"
+  },
+  "DN_mantaraymon": {
+   "img": "assets/units/DN_mantaraymon.png",
+   "portrait": "assets/portrait/DN_mantaraymon.png"
+  },
+  "DN_manbomon": {
+   "img": "assets/units/DN_manbomon.png",
+   "portrait": "assets/portrait/DN_manbomon.png"
+  },
+  "DN_rhinomon": {
+   "img": "assets/units/DN_rhinomon.png",
+   "portrait": "assets/portrait/DN_rhinomon.png"
+  },
+  "DN_lynxmon": {
+   "img": "assets/units/DN_lynxmon.png",
+   "portrait": "assets/portrait/DN_lynxmon.png"
+  },
+  "DN_bitmon": {
+   "img": "assets/units/DN_bitmon.png",
+   "portrait": "assets/portrait/DN_bitmon.png"
+  },
+  "DN_swanmon": {
+   "img": "assets/units/DN_swanmon.png",
+   "portrait": "assets/portrait/DN_swanmon.png"
+  },
+  "DN_butterflamon": {
+   "img": "assets/units/DN_butterflamon.png",
+   "portrait": "assets/portrait/DN_butterflamon.png"
+  },
+  "DN_kabukimon": {
+   "img": "assets/units/DN_kabukimon.png",
+   "portrait": "assets/portrait/DN_kabukimon.png"
+  },
+  "DN_goatmon": {
+   "img": "assets/units/DN_goatmon.png",
+   "portrait": "assets/portrait/DN_goatmon.png"
+  },
+  "DN_maildramon": {
+   "img": "assets/units/DN_maildramon.png",
+   "portrait": "assets/portrait/DN_maildramon.png"
+  },
+  "DN_shadramon": {
+   "img": "assets/units/DN_shadramon.png",
+   "portrait": "assets/portrait/DN_shadramon.png"
+  },
+  "DN_togemogumon": {
+   "img": "assets/units/DN_togemogumon.png",
+   "portrait": "assets/portrait/DN_togemogumon.png"
+  },
+  "DN_owlmon": {
+   "img": "assets/units/DN_owlmon.png",
+   "portrait": "assets/portrait/DN_owlmon.png"
+  },
+  "DN_searchmon": {
+   "img": "assets/units/DN_searchmon.png",
+   "portrait": "assets/portrait/DN_searchmon.png"
+  },
+  "DN_nohemon": {
+   "img": "assets/units/DN_nohemon.png",
+   "portrait": "assets/portrait/DN_nohemon.png"
+  },
+  "DN_archelomon": {
+   "img": "assets/units/DN_archelomon.png",
+   "portrait": "assets/portrait/DN_archelomon.png"
+  },
+  "DN_bullmon": {
+   "img": "assets/units/DN_bullmon.png",
+   "portrait": "assets/portrait/DN_bullmon.png"
+  },
+  "DN_quetzalmon": {
+   "img": "assets/units/DN_quetzalmon.png",
+   "portrait": "assets/portrait/DN_quetzalmon.png"
+  },
+  "DN_kongoumon": {
+   "img": "assets/units/DN_kongoumon.png",
+   "portrait": "assets/portrait/DN_kongoumon.png"
+  },
+  "OD_vbdm_rana": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rana.png",
+    "cw": 60,
+    "ch": 53,
+    "refW": 44,
+    "refH": 53,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rana.png",
+   "portrait": "assets/portrait/OD_vbdm_rana.png"
+  },
+  "OD_vbdm_calamara": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_calamara.png",
+    "cw": 74,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_calamara.png",
+   "portrait": "assets/portrait/OD_vbdm_calamara.png"
+  },
+  "OD_vbdm_blitz": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_blitz.png",
+    "cw": 60,
+    "ch": 56,
+    "refW": 53,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_blitz.png",
+   "portrait": "assets/portrait/OD_vbdm_blitz.png"
+  },
+  "OD_vbdm_bolg": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_bolg.png",
+    "cw": 70,
+    "ch": 55,
+    "refW": 58,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_bolg.png",
+   "portrait": "assets/portrait/OD_vbdm_bolg.png"
+  },
+  "OD_vbdm_mercure": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_mercure.png",
+    "cw": 44,
+    "ch": 48,
+    "refW": 38,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_mercure.png",
+   "portrait": "assets/portrait/OD_vbdm_mercure.png"
+  },
+  "OD_vbdm_sephiroth": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_sephiroth.png",
+    "cw": 38,
+    "ch": 56,
+    "refW": 34,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_sephiroth.png",
+   "portrait": "assets/portrait/OD_vbdm_sephiroth.png"
+  },
+  "OD_vbdm_jetsilphy": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_jetsilphy.png",
+    "cw": 68,
+    "ch": 55,
+    "refW": 64,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_jetsilphy.png",
+   "portrait": "assets/portrait/OD_vbdm_jetsilphy.png"
+  },
+  "OD_vbdm_daipen": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_daipen.png",
+    "cw": 52,
+    "ch": 55,
+    "refW": 49,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_daipen.png",
+   "portrait": "assets/portrait/OD_vbdm_daipen.png"
+  },
+  "OD_vbdm_rhinokabuteri": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rhinokabuteri.png",
+    "cw": 70,
+    "ch": 47,
+    "refW": 63,
+    "refH": 47,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rhinokabuteri.png",
+   "portrait": "assets/portrait/OD_vbdm_rhinokabuteri.png"
+  },
+  "OD_vbdm_goldvdra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_goldvdra.png",
+    "cw": 58,
+    "ch": 48,
+    "refW": 45,
+    "refH": 48,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_goldvdra.png",
+   "portrait": "assets/portrait/OD_vbdm_goldvdra.png"
+  },
+  "OD_vbdm_raihi": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_raihi.png",
+    "cw": 70,
+    "ch": 56,
+    "refW": 61,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_raihi.png",
+   "portrait": "assets/portrait/OD_vbdm_raihi.png"
+  },
+  "OD_vbdm_ancientiris": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientiris.png",
+    "cw": 60,
+    "ch": 55,
+    "refW": 48,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientiris.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientiris.png"
+  },
+  "OD_vbdm_ancientmegatheriu": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientmegatheriu.png",
+    "cw": 70,
+    "ch": 51,
+    "refW": 60,
+    "refH": 51,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientmegatheriu.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientmegatheriu.png"
+  },
+  "OD_vbdm_ancientbeat": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientbeat.png",
+    "cw": 66,
+    "ch": 56,
+    "refW": 63,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientbeat.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientbeat.png"
+  },
+  "OD_vbdm_ancientsphinx": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientsphinx.png",
+    "cw": 72,
+    "ch": 55,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientsphinx.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientsphinx.png"
+  },
+  "OD_vbdm_ancientmermai": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientmermai.png",
+    "cw": 72,
+    "ch": 55,
+    "refW": 62,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientmermai.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientmermai.png"
+  },
+  "OD_vbdm_ancientwise": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_ancientwise.png",
+    "cw": 58,
+    "ch": 56,
+    "refW": 52,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_ancientwise.png",
+   "portrait": "assets/portrait/OD_vbdm_ancientwise.png"
+  },
+  "DN_centalmon": {
+   "img": "assets/units/DN_centalmon.png",
+   "portrait": "assets/portrait/DN_centalmon.png"
+  },
+  "DN_yunimon": {
+   "img": "assets/units/DN_yunimon.png",
+   "portrait": "assets/portrait/DN_yunimon.png"
+  },
+  "OD_vbdm_rapid_a": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_rapid_a.png",
+    "cw": 62,
+    "ch": 55,
+    "refW": 60,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_rapid_a.png",
+   "portrait": "assets/portrait/OD_vbdm_rapid_a.png"
+  },
+  "OD_vbbe_bubb": {
+   "anim": {
+    "src": "assets/anim/OD_vbbe_bubb.png",
+    "cw": 32,
+    "ch": 22,
+    "refW": 27,
+    "refH": 22,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbbe_bubb.png",
+   "portrait": "assets/portrait/OD_vbbe_bubb.png"
+  },
+  "OD_vbdm_pitch": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_pitch.png",
+    "cw": 24,
+    "ch": 24,
+    "refW": 21,
+    "refH": 24,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_pitch.png",
+   "portrait": "assets/portrait/OD_vbdm_pitch.png"
   }
  },
  "sfx": {
