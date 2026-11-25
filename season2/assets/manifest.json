@@ -19790,6 +19790,97 @@
    "sfxSkill": "assets/sfx/MegaGargomon_sfxSkill.ogg",
    "portrait": "assets/portrait/BlackMegaGargomon.png",
    "skillIcon": "assets/skillIcon/MegaGargomon.png"
+  },
+  "BlackWarGreymon": {
+   "anim": {
+    "src": "assets/anim/BlackWarGreymon.png",
+    "cw": 86,
+    "ch": 82,
+    "refW": 78,
+    "refH": 81,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     2,
+     3
+    ],
+    "attack": [
+     4,
+     5
+    ]
+   },
+   "img": "assets/units/BlackWarGreymon.png",
+   "proj": "assets/fx/anim/Fx_WarGreymon_Attack_Projectile.png",
+   "hit": "assets/fx/anim/Fx_WarGreymon_Attack_Projectile_Hit.png",
+   "sfxHit": "assets/sfx/WarGreymon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/WarGreymon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackWarGreymon.png",
+   "skillIcon": "assets/skillIcon/WarGreymon.png",
+   "projN": 4,
+   "hitN": 7
+  },
+  "BlackMetalGarurumon": {
+   "anim": {
+    "src": "assets/anim/BlackMetalGarurumon.png",
+    "cw": 112,
+    "ch": 81,
+    "refW": 82,
+    "refH": 68,
+    "idle": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "move": [
+     6,
+     7,
+     8,
+     9
+    ],
+    "attack": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   "img": "assets/units/BlackMetalGarurumon.png",
+   "hit": "assets/fx/anim/Fx_MetalGarurumon_Attack_Hit.png",
+   "sfxHit": "assets/sfx/MetalGarurumon_sfxHit.ogg",
+   "sfxSkill": "assets/sfx/MetalGarurumon_sfxSkill.ogg",
+   "portrait": "assets/portrait/BlackMetalGarurumon.png",
+   "skillIcon": "assets/skillIcon/MetalGarurumon.png",
+   "hitN": 7
+  },
+  "BlackSaintGalgo_VB": {
+   "anim": {
+    "src": "assets/anim/BlackSaintGalgo_VB.png",
+    "cw": 52,
+    "ch": 55,
+    "refW": 50,
+    "refH": 55,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/BlackSaintGalgo_VB.png",
+   "portrait": "assets/portrait/BlackSaintGalgo_VB.png"
   }
  },
  "sfx": {
