@@ -19735,6 +19735,10 @@
    },
    "img": "assets/units/HL_Ruin.png",
    "portrait": "assets/portrait/HL_Ruin.png"
+  },
+  "WM_Deltamon": {
+   "img": "assets/units/WM_Deltamon.png",
+   "portrait": "assets/portrait/WM_Deltamon.png"
   }
  },
  "sfx": {
