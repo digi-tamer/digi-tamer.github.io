@@ -19414,6 +19414,10 @@
   "WM_Missimon": {
    "img": "assets/units/WM_Missimon.png",
    "portrait": "assets/portrait/WM_Missimon.png"
+  },
+  "WM_BlackSeraphimon": {
+   "img": "assets/units/WM_BlackSeraphimon.png",
+   "portrait": "assets/portrait/WM_BlackSeraphimon.png"
   }
  },
  "sfx": {
