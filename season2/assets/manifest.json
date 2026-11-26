@@ -20479,6 +20479,12 @@
   "WM_DeathXDORUguremon": {
    "img": "assets/units/WM_DeathXDORUguremon.png",
    "portrait": "assets/portrait/WM_DeathXDORUguremon.png"
+  },
+  "WM_BanchoMamemon": {
+   "base": 72,
+   "img": "assets/units/WM_BanchoMamemon.webp",
+   "portrait": "assets/portrait/WM_BanchoMamemon.webp",
+   "hd": 3
   }
  },
  "sfx": {
