@@ -20700,7 +20700,15 @@
   "story_s_forest": "assets/img/story/s_forest.png",
   "story_s_desert": "assets/img/story/s_desert.png",
   "story_s_city": "assets/img/story/s_city.png",
-  "story_s_dark": "assets/img/story/s_dark.png"
+  "story_s_dark": "assets/img/story/s_dark.png",
+  "story_x_shop": "assets/img/story/x_shop.png",
+  "story_x_tent": "assets/img/story/x_tent.png",
+  "story_x_fire0": "assets/img/story/x_fire0.png",
+  "story_x_fire1": "assets/img/story/x_fire1.png",
+  "story_x_fire2": "assets/img/story/x_fire2.png",
+  "story_x_fire3": "assets/img/story/x_fire3.png",
+  "story_x_fire4": "assets/img/story/x_fire4.png",
+  "story_x_fire5": "assets/img/story/x_fire5.png"
  },
  "fxCommon": {
   "hitFire": {
