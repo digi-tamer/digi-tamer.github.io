@@ -16,8 +16,8 @@
     <link rel="icon" href="icons/icon-192.png" />
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
     <title>디지 테이머 · 랜덤 디펜스</title>
-    <script type="module" crossorigin src="v/0.86.12/assets/index-Fz0KKSm2.js"></script>
-    <link rel="stylesheet" crossorigin href="v/0.86.12/assets/index-BKv7RZyX.css">
+    <script type="module" crossorigin src="v/0.90.3/assets/index-DqGpa6Es.js"></script>
+    <link rel="stylesheet" crossorigin href="v/0.90.3/assets/index-A8ADYIfe.css">
   </head>
   <body>
     <!-- 450×800 세로 고정 무대: 창 크기에 맞춰 통째로 확대/축소 -->
@@ -71,9 +71,9 @@
       <div id="rs-ptabs" class="seg" hidden></div>
       <div id="rs-list"></div>
       <div id="rs-send"><div class="rs-send-h"><span id="rs-send-n">디지몬을 골라서 보내기 (＋로 여러 종류)</span></div>
-        <div class="rs-send-b"><button data-to="lane" title="내 라인으로">🌿<small>라인</small></button><button data-to="story" title="스토리 보스 구역">📖<small>스토리</small></button><button data-to="boss" title="파일섬 보스 구역">👑<small>섬보스</small></button><button data-to="sea" title="심해 던전">🌊<small>심해</small></button><button data-to="tower" title="어둠의 탑">🗼<small>탑</small></button><button data-to="pouch" title="대기 (싸우지 않고 조합 재료로만)">💤<small>대기</small></button><button data-sell class="sell" title="고른 디지몬 모두 판매 (한 번 더 눌러 확정)">💰<small>판매</small></button></div></div>
-      <div class="rs-foot"><button id="rs-boss" class="btn pink small">⚔ 보스 집중</button><button id="rs-raid" class="btn small" title="라인을 지킬 화력은 남기고, 남는 디지몬을 섬 보스(없으면 스토리 보스)에게">🏝 공격대</button></div>
-      <div id="rs-pouch" class="rs-foot" hidden><button id="rs-pack" class="btn navy small" title="이 등급 디지몬을 모두 주머니로 (라인 · 대기석, 섬에 간 디지몬 제외)">📥 일괄 담기</button><button id="rs-unpack" class="btn small" title="이 등급 주머니 디지몬을 모두 대기석으로">💤 모두 대기석</button><button data-sell class="btn small rs-sell-all" title="고른 디지몬 모두 판매 (한 번 더 눌러 확정)">💰 판매</button></div>
+        <div class="rs-send-b"><button data-to="lane" title="내 라인으로">🌿<small>라인</small></button><button data-to="story" title="스토리 보스 구역">📖<small>스토리</small></button><button data-to="boss" title="파일섬 보스 구역">👑<small>섬보스</small></button><button data-to="pouch" title="대기석으로 보냅니다. 싸우지 않고 조합 재료로만 사용합니다.">💤<small>대기</small></button><button data-sell class="sell" title="고른 디지몬을 모두 판매합니다. 한 번 더 누르면 확정됩니다.">💰<small>판매</small></button></div></div>
+      <div class="rs-foot"><button id="rs-boss" class="btn pink small">⚔ 보스 집중</button><button id="rs-raid" class="btn small" title="라인을 지킬 화력은 남기고, 남는 디지몬을 섬 보스(없으면 스토리 보스)에게 보냅니다.">🏝 공격대</button></div>
+      <div id="rs-pouch" class="rs-foot" hidden><button id="rs-pack" class="btn navy small" title="이 등급 디지몬을 모두 주머니에 담습니다. 섬에 간 디지몬은 제외됩니다.">📥 일괄 담기</button><button id="rs-unpack" class="btn small" title="주머니에 담은 이 등급 디지몬을 모두 대기석으로 보냅니다.">💤 모두 대기석</button><button data-sell class="btn small rs-sell-all" title="고른 디지몬을 모두 판매합니다. 한 번 더 누르면 확정됩니다.">💰 판매</button></div>
     </section>
     <!-- 도박 · 강화 시트 -->
     <section id="sheet" class="sheet"><div class="sh-head"><b id="sheet-title"></b><button id="sheet-close" class="x-btn" title="닫기">✕</button></div><div id="sheet-body"></div></section>
@@ -120,8 +120,10 @@
       <div class="vol-rows"><div class="vol-row"><span>배경음</span><button type="button" class="vol-mute" id="vol-bgm-m" title="음소거"></button><input id="vol-bgm" type="range" min="0" max="100" step="5" aria-label="배경음"><b id="vol-bgm-v"></b></div>
         <div class="vol-row"><span>효과음</span><button type="button" class="vol-mute" id="vol-sfx-m" title="음소거"></button><input id="vol-sfx" type="range" min="0" max="100" step="5" aria-label="효과음"><b id="vol-sfx-v"></b></div>
         <div class="vol-row orient-row" id="dot-row"><span>디지몬 도트</span><div class="seg orient-seg"><button type="button" data-ds="up">디지몬업</button><button type="button" data-ds="vital">바이탈브레스</button></div></div>
+        <div class="vol-row orient-row" id="fx-row"><span>전투 효과</span><div class="seg orient-seg"><button type="button" data-fx="full">전부</button><button type="button" data-fx="lite">간단</button></div></div>
         <div class="vol-row orient-row" id="dmgnum-row"><span>피해량 표</span><div class="seg orient-seg"><button type="button" data-dn="1">표시</button><button type="button" data-dn="0">숨김</button></div></div>
         <div class="vol-row orient-row" id="keys-row"><span>단축키</span><div class="seg orient-seg"><button type="button" id="btn-keymap">변경</button></div></div>
+        <div class="vol-row orient-row" id="gfx-row"><span>그래픽</span><div class="seg orient-seg"><button type="button" data-gfx="high">상</button><button type="button" data-gfx="mid">중</button><button type="button" data-gfx="low">하</button></div></div>
         <div class="vol-row orient-row" id="skipc-row"><span>라운드 스킵</span><div class="seg orient-seg"><button type="button" data-sc="1">두 번 클릭</button><button type="button" data-sc="0">한 번 클릭</button></div></div>
         <div class="vol-row orient-row" id="orient-row" hidden><span>화면</span><div class="seg orient-seg"><button type="button" data-o="any"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 4a8 8 0 0 1 7.4 5M20 4v5h-5M12 20a8 8 0 0 1-7.4-5M4 20v-5h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>자동</button><button type="button" data-o="portrait"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="10" y="17.5" width="4" height="1.6" rx="0.8" fill="currentColor"/></svg>세로</button><button type="button" data-o="landscape"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="2.5" y="7" width="19" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="17.5" y="10" width="1.6" height="4" rx="0.8" fill="currentColor"/></svg>가로</button></div></div><p class="orient-hint dim small" id="orient-hint" hidden>웹에서는 전체 화면일 때만 고정됩니다. 항상 고정하려면 앱으로 설치해 주세요.</p></div>
       <div class="pause-opts"><button id="btn-full" class="btn navy">⛶ 전체 화면</button><button id="btn-help-in" class="btn navy">❔ 방법</button></div>
@@ -132,7 +134,7 @@
     <div id="settings" class="overlay"><div class="panel"><div class="panel-head"><h2>설정</h2><button id="settings-close" class="x-btn" title="닫기">✕</button></div>
       <div id="settings-vol"></div>
       <div class="pause-opts"><button id="set-full" class="btn navy">⛶ 전체 화면</button></div>
-      <p class="dim small set-note">설정은 이 기기에 저장됩니다</p></div></div>
+      <p class="dim small set-note">설정은 이 기기에 저장됩니다.</p></div></div>
     <div id="end" class="overlay"></div>
 
     <div id="start" class="overlay show booting">
