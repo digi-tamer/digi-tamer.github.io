@@ -20697,7 +20697,11 @@
   "story_k_crystal_b": "assets/img/story/k_crystal_b.png",
   "story_k_poles": "assets/img/story/k_poles.png",
   "story_v_pillar": "assets/img/story/v_pillar.png",
-  "story_v_pillar2": "assets/img/story/v_pillar2.png"
+  "story_v_pillar2": "assets/img/story/v_pillar2.png",
+  "story_s_forest": "assets/img/story/s_forest.png",
+  "story_s_desert": "assets/img/story/s_desert.png",
+  "story_s_city": "assets/img/story/s_city.png",
+  "story_s_dark": "assets/img/story/s_dark.png"
  },
  "fxCommon": {
   "hitFire": {
