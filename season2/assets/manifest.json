@@ -20485,6 +20485,10 @@
    "img": "assets/units/WM_BanchoMamemon.webp",
    "portrait": "assets/portrait/WM_BanchoMamemon.webp",
    "hd": 3
+  },
+  "WM_ShoutmonX7SuperiorMode": {
+   "img": "assets/units/WM_ShoutmonX7SuperiorMode.png",
+   "portrait": "assets/portrait/WM_ShoutmonX7SuperiorMode.png"
   }
  },
  "sfx": {
