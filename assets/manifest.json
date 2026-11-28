@@ -20513,6 +20513,52 @@
    "portrait": "assets/portrait/WM_Lilamon.webp",
    "hd": 3,
    "base": 82
+  },
+  "OD_vbdm_monodra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_monodra.png",
+    "cw": 46,
+    "ch": 41,
+    "refW": 43,
+    "refH": 40,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_monodra.png",
+   "portrait": "assets/portrait/OD_vbdm_monodra.png"
+  },
+  "OD_vbdm_strikedra": {
+   "anim": {
+    "src": "assets/anim/OD_vbdm_strikedra.png",
+    "cw": 62,
+    "ch": 56,
+    "refW": 52,
+    "refH": 56,
+    "idle": [
+     0,
+     1
+    ],
+    "move": [
+     0,
+     1
+    ],
+    "attack": [
+     0,
+     1
+    ]
+   },
+   "img": "assets/units/OD_vbdm_strikedra.png",
+   "portrait": "assets/portrait/OD_vbdm_strikedra.png"
   }
  },
  "sfx": {
