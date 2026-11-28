@@ -20489,6 +20489,30 @@
   "WM_ShoutmonX7SuperiorMode": {
    "img": "assets/units/WM_ShoutmonX7SuperiorMode.png",
    "portrait": "assets/portrait/WM_ShoutmonX7SuperiorMode.png"
+  },
+  "WM_Falcomon": {
+   "img": "assets/units/WM_Falcomon.webp",
+   "portrait": "assets/portrait/WM_Falcomon.webp",
+   "hd": 3,
+   "base": 54
+  },
+  "WM_Peckmon": {
+   "img": "assets/units/WM_Peckmon.webp",
+   "portrait": "assets/portrait/WM_Peckmon.webp",
+   "hd": 3,
+   "base": 68
+  },
+  "WM_Crossmon": {
+   "img": "assets/units/WM_Crossmon.webp",
+   "portrait": "assets/portrait/WM_Crossmon.webp",
+   "hd": 3,
+   "base": 82
+  },
+  "WM_Lilamon": {
+   "img": "assets/units/WM_Lilamon.webp",
+   "portrait": "assets/portrait/WM_Lilamon.webp",
+   "hd": 3,
+   "base": 82
   }
  },
  "sfx": {
